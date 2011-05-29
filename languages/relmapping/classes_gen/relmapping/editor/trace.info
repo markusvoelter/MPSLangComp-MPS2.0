@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="CharType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="relmapping.editor.CharType_Editor" />
+  <unitInfo fileName="NumberType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="relmapping.editor.NumberType_Editor" />
+  <unitInfo fileName="Table_Editor.java" startLine="92" startPosition="0" endLine="127" endPosition="0" unitName="relmapping.editor.Table_Editor$columnsListHandler_3p37vj_b1a" />
+  <unitInfo fileName="Database_Editor.java" startLine="92" startPosition="0" endLine="127" endPosition="0" unitName="relmapping.editor.Database_Editor$tablesListHandler_oy61qw_b1a" />
+  <unitInfo fileName="Column_Editor.java" startLine="17" startPosition="0" endLine="91" endPosition="0" unitName="relmapping.editor.Column_Editor" />
+  <unitInfo fileName="Table_Editor.java" startLine="25" startPosition="0" endLine="128" endPosition="0" unitName="relmapping.editor.Table_Editor" />
+  <unitInfo fileName="Database_Editor.java" startLine="25" startPosition="0" endLine="128" endPosition="0" unitName="relmapping.editor.Database_Editor" />
+</debugInfo>
+

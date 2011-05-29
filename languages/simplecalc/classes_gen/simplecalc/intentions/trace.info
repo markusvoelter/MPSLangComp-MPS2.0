@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="20" endPosition="0" unitName="simplecalc.intentions.IntentionsDescriptor" />
+  <unitInfo fileName="togglePublic_Intention.java" startLine="11" startPosition="0" endLine="43" endPosition="0" unitName="simplecalc.intentions.togglePublic_Intention" />
+  <unitInfo fileName="addDoc_Intention.java" startLine="12" startPosition="0" endLine="44" endPosition="0" unitName="simplecalc.intentions.addDoc_Intention" />
+  <unitInfo fileName="makeField_Intention.java" startLine="19" startPosition="0" endLine="91" endPosition="0" unitName="simplecalc.intentions.makeField_Intention" />
+  <root nodeId="424005470139602956">
+    <nodeInfo nodeId="424005470139611401" fileName="addDoc_Intention.java" startLine="32" startPosition="85" endLine="33" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="424005470139611403" fileName="addDoc_Intention.java" startLine="36" startPosition="76" endLine="37" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="424005470139602958" fileName="addDoc_Intention.java" startLine="32" startPosition="85" endLine="33" endPosition="31" />
+    <scopeInfo nodeId="424005470139602960" fileName="addDoc_Intention.java" startLine="36" startPosition="76" endLine="37" endPosition="125" />
+  </root>
+  <root nodeId="5856418980158996723">
+    <nodeInfo nodeId="5856418980159001162" fileName="togglePublic_Intention.java" startLine="31" startPosition="85" endLine="32" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5856418980159001164" fileName="togglePublic_Intention.java" startLine="35" startPosition="76" endLine="36" endPosition="104" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="5856418980158996725" fileName="togglePublic_Intention.java" startLine="31" startPosition="85" endLine="32" endPosition="29" />
+    <scopeInfo nodeId="5856418980158996727" fileName="togglePublic_Intention.java" startLine="35" startPosition="76" endLine="36" endPosition="104" />
+  </root>
+  <root nodeId="8169616896592686114">
+    <nodeInfo nodeId="8169616896592695979" fileName="makeField_Intention.java" startLine="39" startPosition="85" endLine="40" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8169616896592695964" fileName="makeField_Intention.java" startLine="50" startPosition="90" endLine="51" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592737054" fileName="makeField_Intention.java" startLine="52" startPosition="40" endLine="53" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8169616896592695972" fileName="makeField_Intention.java" startLine="55" startPosition="43" endLine="56" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8169616896592695977" fileName="makeField_Intention.java" startLine="57" startPosition="5" endLine="58" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8169616896592695984" fileName="makeField_Intention.java" startLine="61" startPosition="76" endLine="62" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592695995" fileName="makeField_Intention.java" startLine="65" startPosition="27" endLine="66" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592696004" fileName="makeField_Intention.java" startLine="66" startPosition="54" endLine="67" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592744348" fileName="makeField_Intention.java" startLine="67" startPosition="91" endLine="68" endPosition="141" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592696010" fileName="makeField_Intention.java" startLine="68" startPosition="141" endLine="69" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592696016" fileName="makeField_Intention.java" startLine="69" startPosition="48" endLine="70" endPosition="185" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592737315" fileName="makeField_Intention.java" startLine="76" startPosition="27" endLine="77" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592737324" fileName="makeField_Intention.java" startLine="77" startPosition="57" endLine="78" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8169616896592744363" fileName="makeField_Intention.java" startLine="78" startPosition="91" endLine="79" endPosition="141" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592737330" fileName="makeField_Intention.java" startLine="79" startPosition="141" endLine="80" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592737336" fileName="makeField_Intention.java" startLine="80" startPosition="48" endLine="81" endPosition="185" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592737052" fileName="makeField_Intention.java" startLine="51" startPosition="51" endLine="54" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8169616896592695970" fileName="makeField_Intention.java" startLine="54" startPosition="5" endLine="57" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8169616896592695993" fileName="makeField_Intention.java" startLine="64" startPosition="60" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="8169616896592737313" fileName="makeField_Intention.java" startLine="75" startPosition="60" endLine="83" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="8169616896592695992" fileName="makeField_Intention.java" startLine="63" startPosition="40" endLine="72" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592737312" fileName="makeField_Intention.java" startLine="74" startPosition="43" endLine="83" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8169616896592695990" fileName="makeField_Intention.java" startLine="62" startPosition="57" endLine="73" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8169616896592737310" fileName="makeField_Intention.java" startLine="73" startPosition="5" endLine="84" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="8169616896592686116" fileName="makeField_Intention.java" startLine="39" startPosition="85" endLine="40" endPosition="23" />
+    <scopeInfo nodeId="8169616896592737053" fileName="makeField_Intention.java" startLine="52" startPosition="40" endLine="53" endPosition="18" />
+    <scopeInfo nodeId="8169616896592695971" fileName="makeField_Intention.java" startLine="55" startPosition="43" endLine="56" endPosition="18" />
+    <scopeInfo nodeId="8169616896592695994" fileName="makeField_Intention.java" startLine="65" startPosition="27" endLine="70" endPosition="185">
+      <varInfo nodeId="8169616896592695996" varName="t" />
+      <varInfo nodeId="8169616896592696005" varName="a" />
+    </scopeInfo>
+    <scopeInfo nodeId="8169616896592737314" fileName="makeField_Intention.java" startLine="76" startPosition="27" endLine="81" endPosition="185">
+      <varInfo nodeId="8169616896592737316" varName="t" />
+      <varInfo nodeId="8169616896592737325" varName="a" />
+    </scopeInfo>
+    <scopeInfo nodeId="8169616896592695963" fileName="makeField_Intention.java" startLine="50" startPosition="90" endLine="58" endPosition="17">
+      <varInfo nodeId="8169616896592695965" varName="c" />
+    </scopeInfo>
+    <scopeInfo nodeId="8169616896592695993" fileName="makeField_Intention.java" startLine="64" startPosition="60" endLine="72" endPosition="0" />
+    <scopeInfo nodeId="8169616896592737313" fileName="makeField_Intention.java" startLine="75" startPosition="60" endLine="83" endPosition="0" />
+    <scopeInfo nodeId="8169616896592695991" fileName="makeField_Intention.java" startLine="63" startPosition="40" endLine="72" endPosition="9" />
+    <scopeInfo nodeId="8169616896592737311" fileName="makeField_Intention.java" startLine="74" startPosition="43" endLine="83" endPosition="9" />
+    <scopeInfo nodeId="8169616896592686118" fileName="makeField_Intention.java" startLine="61" startPosition="76" endLine="84" endPosition="5">
+      <varInfo nodeId="8169616896592695985" varName="c" />
+    </scopeInfo>
+    <unitInfo nodeId="8169616896592695993" fileName="makeField_Intention.java" startLine="64" startPosition="48" endLine="72" endPosition="7" unitName="simplecalc.intentions.makeField_Intention$1" />
+    <unitInfo nodeId="8169616896592737313" fileName="makeField_Intention.java" startLine="75" startPosition="48" endLine="83" endPosition="7" unitName="simplecalc.intentions.makeField_Intention$2" />
+  </root>
+</debugInfo>
+

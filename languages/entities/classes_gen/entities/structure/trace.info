@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Entities_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="entities.structure.Entities_Language" />
+  <unitInfo fileName="IntType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="entities.structure.IntType" />
+  <unitInfo fileName="StringType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="entities.structure.StringType" />
+  <unitInfo fileName="BooleanType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="entities.structure.BooleanType" />
+  <unitInfo fileName="Type.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="entities.structure.Type" />
+  <unitInfo fileName="EntityType.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="entities.structure.EntityType" />
+  <unitInfo fileName="Attribute.java" startLine="14" startPosition="0" endLine="95" endPosition="0" unitName="entities.structure.Attribute" />
+  <unitInfo fileName="Entity.java" startLine="14" startPosition="0" endLine="107" endPosition="0" unitName="entities.structure.Entity" />
+  <unitInfo fileName="Module.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="entities.structure.Module" />
+</debugInfo>
+

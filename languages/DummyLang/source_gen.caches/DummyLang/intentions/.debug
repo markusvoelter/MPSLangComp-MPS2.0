@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="5839100313780201653">
+    <nodeInfo nodeId="5839100313780206851" fileName="makeList_Intention.java" startLine="36" startPosition="76" endLine="37" endPosition="116" />
+    <scopeInfo nodeId="5839100313780201655" fileName="makeList_Intention.java" startLine="32" startPosition="85" endLine="33" endPosition="18" />
+    <scopeInfo nodeId="5839100313780201657" fileName="makeList_Intention.java" startLine="36" startPosition="76" endLine="37" endPosition="116" />
+  </root>
+</debugInfo>
+

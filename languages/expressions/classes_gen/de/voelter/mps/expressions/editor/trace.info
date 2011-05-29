@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BinaryExpression_Editor.java" startLine="184" startPosition="0" endLine="192" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor$ReplaceWith_BinaryExpression_cellMenu_a0c0" />
+  <unitInfo fileName="BinaryExpression_Editor.java" startLine="80" startPosition="83" endLine="96" endPosition="5" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor$1" />
+  <unitInfo fileName="BooleanLiteral_Editor.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.expressions.editor.BooleanLiteral_Editor" />
+  <unitInfo fileName="PrimitiveType_Editor.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.expressions.editor.PrimitiveType_Editor" />
+  <unitInfo fileName="binaryEcpressionActions_LeftArg.java" startLine="21" startPosition="0" endLine="47" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryEcpressionActions_LeftArg$binaryEcpressionActions_LeftArg_DELETE" />
+  <unitInfo fileName="binaryExpressionActions_RightArg.java" startLine="21" startPosition="0" endLine="47" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryExpressionActions_RightArg$binaryExpressionActions_RightArg_DELETE" />
+  <unitInfo fileName="IntegerLiteral_Editor.java" startLine="17" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.expressions.editor.IntegerLiteral_Editor" />
+  <unitInfo fileName="binaryExpressionActions_Symbol.java" startLine="21" startPosition="0" endLine="50" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryExpressionActions_Symbol$binaryExpressionActions_Symbol_DELETE" />
+  <unitInfo fileName="binaryEcpressionActions_LeftArg.java" startLine="16" startPosition="0" endLine="48" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryEcpressionActions_LeftArg" />
+  <unitInfo fileName="binaryExpressionActions_RightArg.java" startLine="16" startPosition="0" endLine="48" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryExpressionActions_RightArg" />
+  <unitInfo fileName="binaryExpressionActions_Symbol.java" startLine="16" startPosition="0" endLine="51" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryExpressionActions_Symbol" />
+  <unitInfo fileName="ParensExpression_Editor.java" startLine="18" startPosition="0" endLine="71" endPosition="0" unitName="de.voelter.mps.expressions.editor.ParensExpression_Editor" />
+  <unitInfo fileName="StringLiteral_Editor.java" startLine="20" startPosition="0" endLine="83" endPosition="0" unitName="de.voelter.mps.expressions.editor.StringLiteral_Editor" />
+  <unitInfo fileName="MemberAccessExpression_Editor.java" startLine="21" startPosition="0" endLine="88" endPosition="0" unitName="de.voelter.mps.expressions.editor.MemberAccessExpression_Editor" />
+  <unitInfo fileName="IfExpression_Editor.java" startLine="18" startPosition="0" endLine="123" endPosition="0" unitName="de.voelter.mps.expressions.editor.IfExpression_Editor" />
+  <unitInfo fileName="BinaryExpression_Editor.java" startLine="33" startPosition="0" endLine="193" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor" />
+  <root nodeId="5763383285156484386">
+    <nodeInfo nodeId="5763383285156489079" fileName="MemberAccessExpression_Editor.java" startLine="84" startPosition="111" endLine="85" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156489078" fileName="MemberAccessExpression_Editor.java" startLine="84" startPosition="111" endLine="85" endPosition="70" />
+  </root>
+  <root nodeId="7389581223062101945">
+    <nodeInfo nodeId="7389581223062102011" fileName="binaryExpressionActions_RightArg.java" startLine="32" startPosition="75" endLine="33" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062102017" fileName="binaryExpressionActions_RightArg.java" startLine="33" startPosition="75" endLine="34" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062102022" fileName="binaryExpressionActions_RightArg.java" startLine="34" startPosition="63" endLine="35" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062102026" fileName="binaryExpressionActions_RightArg.java" startLine="35" startPosition="34" endLine="36" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062102032" fileName="binaryExpressionActions_RightArg.java" startLine="36" startPosition="70" endLine="37" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062102044" fileName="binaryExpressionActions_RightArg.java" startLine="38" startPosition="25" endLine="39" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062102051" fileName="binaryExpressionActions_RightArg.java" startLine="39" startPosition="74" endLine="40" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062102058" fileName="binaryExpressionActions_RightArg.java" startLine="41" startPosition="51" endLine="42" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062102056" fileName="binaryExpressionActions_RightArg.java" startLine="40" startPosition="41" endLine="43" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7389581223062102039" fileName="binaryExpressionActions_RightArg.java" startLine="37" startPosition="60" endLine="44" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="7389581223062102057" fileName="binaryExpressionActions_RightArg.java" startLine="41" startPosition="51" endLine="42" endPosition="46" />
+    <scopeInfo nodeId="7389581223062102043" fileName="binaryExpressionActions_RightArg.java" startLine="38" startPosition="25" endLine="43" endPosition="9">
+      <varInfo nodeId="7389581223062102045" varName="lastLeaf" />
+    </scopeInfo>
+    <scopeInfo nodeId="7389581223062101952" fileName="binaryExpressionActions_RightArg.java" startLine="32" startPosition="75" endLine="44" endPosition="7">
+      <varInfo nodeId="7389581223062102027" varName="editor" />
+      <varInfo nodeId="7389581223062102012" varName="leftExpression" />
+      <varInfo nodeId="7389581223062102033" varName="cell" />
+    </scopeInfo>
+  </root>
+  <root nodeId="7389581223062104964">
+    <nodeInfo nodeId="7389581223062104968" fileName="binaryEcpressionActions_LeftArg.java" startLine="32" startPosition="75" endLine="33" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062104974" fileName="binaryEcpressionActions_LeftArg.java" startLine="33" startPosition="77" endLine="34" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062104979" fileName="binaryEcpressionActions_LeftArg.java" startLine="34" startPosition="64" endLine="35" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062104983" fileName="binaryEcpressionActions_LeftArg.java" startLine="35" startPosition="34" endLine="36" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062104989" fileName="binaryEcpressionActions_LeftArg.java" startLine="36" startPosition="70" endLine="37" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062104998" fileName="binaryEcpressionActions_LeftArg.java" startLine="38" startPosition="25" endLine="39" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062105005" fileName="binaryEcpressionActions_LeftArg.java" startLine="39" startPosition="76" endLine="40" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105012" fileName="binaryEcpressionActions_LeftArg.java" startLine="41" startPosition="52" endLine="42" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105010" fileName="binaryEcpressionActions_LeftArg.java" startLine="40" startPosition="42" endLine="43" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7389581223062104996" fileName="binaryEcpressionActions_LeftArg.java" startLine="37" startPosition="61" endLine="44" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="7389581223062105011" fileName="binaryEcpressionActions_LeftArg.java" startLine="41" startPosition="52" endLine="42" endPosition="48" />
+    <scopeInfo nodeId="7389581223062104997" fileName="binaryEcpressionActions_LeftArg.java" startLine="38" startPosition="25" endLine="43" endPosition="9">
+      <varInfo nodeId="7389581223062104999" varName="firstLeaf" />
+    </scopeInfo>
+    <scopeInfo nodeId="7389581223062104967" fileName="binaryEcpressionActions_LeftArg.java" startLine="32" startPosition="75" endLine="44" endPosition="7">
+      <varInfo nodeId="7389581223062104984" varName="editor" />
+      <varInfo nodeId="7389581223062104969" varName="rightExpression" />
+      <varInfo nodeId="7389581223062104990" varName="cell" />
+    </scopeInfo>
+  </root>
+  <root nodeId="7389581223062105031">
+    <nodeInfo nodeId="7389581223062105035" fileName="binaryExpressionActions_Symbol.java" startLine="32" startPosition="75" endLine="33" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062105043" fileName="binaryExpressionActions_Symbol.java" startLine="34" startPosition="34" endLine="35" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105052" fileName="binaryExpressionActions_Symbol.java" startLine="36" startPosition="7" endLine="37" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105057" fileName="binaryExpressionActions_Symbol.java" startLine="37" startPosition="62" endLine="38" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105061" fileName="binaryExpressionActions_Symbol.java" startLine="38" startPosition="34" endLine="39" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062105067" fileName="binaryExpressionActions_Symbol.java" startLine="39" startPosition="70" endLine="40" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062105076" fileName="binaryExpressionActions_Symbol.java" startLine="41" startPosition="25" endLine="42" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7389581223062105083" fileName="binaryExpressionActions_Symbol.java" startLine="42" startPosition="76" endLine="43" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105090" fileName="binaryExpressionActions_Symbol.java" startLine="44" startPosition="52" endLine="45" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7389581223062105041" fileName="binaryExpressionActions_Symbol.java" startLine="33" startPosition="75" endLine="36" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7389581223062105088" fileName="binaryExpressionActions_Symbol.java" startLine="43" startPosition="42" endLine="46" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7389581223062105074" fileName="binaryExpressionActions_Symbol.java" startLine="40" startPosition="59" endLine="47" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="7389581223062105042" fileName="binaryExpressionActions_Symbol.java" startLine="34" startPosition="34" endLine="35" endPosition="70" />
+    <scopeInfo nodeId="7389581223062105089" fileName="binaryExpressionActions_Symbol.java" startLine="44" startPosition="52" endLine="45" endPosition="48" />
+    <scopeInfo nodeId="7389581223062105075" fileName="binaryExpressionActions_Symbol.java" startLine="41" startPosition="25" endLine="46" endPosition="9">
+      <varInfo nodeId="7389581223062105077" varName="firstLeaf" />
+    </scopeInfo>
+    <scopeInfo nodeId="7389581223062105034" fileName="binaryExpressionActions_Symbol.java" startLine="32" startPosition="75" endLine="47" endPosition="7">
+      <varInfo nodeId="7389581223062105062" varName="editor" />
+      <varInfo nodeId="7389581223062105068" varName="cell" />
+      <varInfo nodeId="7389581223062105036" varName="newExpression" />
+    </scopeInfo>
+  </root>
+  <root nodeId="8860443239512129324">
+    <nodeInfo nodeId="8860443239512171919" fileName="BinaryExpression_Editor.java" startLine="81" startPosition="31" endLine="82" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8860443239512171941" fileName="BinaryExpression_Editor.java" startLine="83" startPosition="105" endLine="84" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8860443239512171964" fileName="BinaryExpression_Editor.java" startLine="84" startPosition="107" endLine="85" endPosition="146" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8860443239512171923" fileName="BinaryExpression_Editor.java" startLine="86" startPosition="9" endLine="87" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5763383285156530349" fileName="BinaryExpression_Editor.java" startLine="168" startPosition="110" endLine="169" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7389581223062046197" fileName="BinaryExpression_Editor.java" startLine="172" startPosition="110" endLine="173" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7389581223062046221" fileName="BinaryExpression_Editor.java" startLine="176" startPosition="110" endLine="177" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5763383285156530358" fileName="BinaryExpression_Editor.java" startLine="180" startPosition="110" endLine="181" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8860443239512171927" fileName="BinaryExpression_Editor.java" startLine="82" startPosition="24" endLine="86" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="5763383285156530348" fileName="BinaryExpression_Editor.java" startLine="168" startPosition="110" endLine="169" endPosition="74" />
+    <scopeInfo nodeId="7389581223062046196" fileName="BinaryExpression_Editor.java" startLine="172" startPosition="110" endLine="173" endPosition="123" />
+    <scopeInfo nodeId="8860443239512146718" fileName="BinaryExpression_Editor.java" startLine="176" startPosition="110" endLine="177" endPosition="123" />
+    <scopeInfo nodeId="5763383285156530357" fileName="BinaryExpression_Editor.java" startLine="180" startPosition="110" endLine="181" endPosition="74" />
+    <scopeInfo nodeId="8860443239512171928" fileName="BinaryExpression_Editor.java" startLine="83" startPosition="105" endLine="85" endPosition="146" />
+    <scopeInfo nodeId="8860443239512171898" fileName="BinaryExpression_Editor.java" startLine="81" startPosition="31" endLine="87" endPosition="19">
+      <varInfo nodeId="8860443239512171920" varName="res" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+

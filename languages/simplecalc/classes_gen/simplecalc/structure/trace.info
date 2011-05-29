@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Simplecalc_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.structure.Simplecalc_Language" />
+  <unitInfo fileName="Doc_AnnotationLink.java" startLine="7" startPosition="0" endLine="18" endPosition="0" unitName="simplecalc.structure.Doc_AnnotationLink" />
+  <unitInfo fileName="ANdOP.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="simplecalc.structure.ANdOP" />
+  <unitInfo fileName="DocText.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="simplecalc.structure.DocText" />
+  <unitInfo fileName="System.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="simplecalc.structure.System" />
+  <unitInfo fileName="VarRefExpression.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.VarRefExpression" />
+  <unitInfo fileName="SysContent.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.SysContent" />
+  <unitInfo fileName="StructType.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.StructType" />
+  <unitInfo fileName="StructMemberAccess.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.StructMemberAccess" />
+  <unitInfo fileName="StructRefExpression.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.StructRefExpression" />
+  <unitInfo fileName="MyOwnDotExpression.java" startLine="15" startPosition="0" endLine="96" endPosition="0" unitName="simplecalc.structure.MyOwnDotExpression" />
+  <unitInfo fileName="StructMember.java" startLine="16" startPosition="0" endLine="97" endPosition="0" unitName="simplecalc.structure.StructMember" />
+  <unitInfo fileName="VarDecl.java" startLine="15" startPosition="0" endLine="105" endPosition="0" unitName="simplecalc.structure.VarDecl" />
+  <unitInfo fileName="Calculation.java" startLine="16" startPosition="0" endLine="106" endPosition="0" unitName="simplecalc.structure.Calculation" />
+  <unitInfo fileName="Struct.java" startLine="14" startPosition="0" endLine="107" endPosition="0" unitName="simplecalc.structure.Struct" />
+</debugInfo>
+

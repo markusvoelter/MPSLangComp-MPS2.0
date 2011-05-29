@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="StructMember_Constraints.java" startLine="50" startPosition="27" endLine="54" endPosition="5" unitName="simplecalc.constraints.StructMember_Constraints$1" />
+  <unitInfo fileName="VarRefExpression_Constraints.java" startLine="67" startPosition="26" endLine="85" endPosition="5" unitName="simplecalc.constraints.VarRefExpression_Constraints$1" />
+  <unitInfo fileName="Calculation_Constraints.java" startLine="15" startPosition="0" endLine="60" endPosition="0" unitName="simplecalc.constraints.Calculation_Constraints" />
+  <unitInfo fileName="StructMember_Constraints.java" startLine="18" startPosition="0" endLine="68" endPosition="0" unitName="simplecalc.constraints.StructMember_Constraints" />
+  <unitInfo fileName="VarRefExpression_Constraints.java" startLine="25" startPosition="0" endLine="89" endPosition="0" unitName="simplecalc.constraints.VarRefExpression_Constraints" />
+  <root nodeId="1224145309708863599">
+    <nodeInfo nodeId="1224145309708863603" fileName="StructMember_Constraints.java" startLine="51" startPosition="134" endLine="52" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="1224145309708863602" fileName="StructMember_Constraints.java" startLine="51" startPosition="134" endLine="52" endPosition="101" />
+  </root>
+  <root nodeId="5019556274771920108">
+    <nodeInfo nodeId="8607297853667695493" fileName="VarRefExpression_Constraints.java" startLine="76" startPosition="41" endLine="77" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8607297853667695489" fileName="VarRefExpression_Constraints.java" startLine="75" startPosition="334" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="select#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5019556274771920653" fileName="VarRefExpression_Constraints.java" startLine="74" startPosition="136" endLine="79" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="8607297853667695490" fileName="VarRefExpression_Constraints.java" startLine="76" startPosition="41" endLine="77" endPosition="76" />
+    <scopeInfo nodeId="8607297853667695489" fileName="VarRefExpression_Constraints.java" startLine="75" startPosition="334" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="5019556274771920111" fileName="VarRefExpression_Constraints.java" startLine="74" startPosition="136" endLine="79" endPosition="11" />
+    <unitInfo nodeId="8607297853667695489" fileName="VarRefExpression_Constraints.java" startLine="75" startPosition="307" endLine="79" endPosition="9" unitName="simplecalc.constraints.VarRefExpression_Constraints$2" />
+  </root>
+</debugInfo>
+

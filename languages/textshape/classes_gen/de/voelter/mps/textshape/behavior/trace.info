@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="File_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.textshape.behavior.File_Behavior" />
+  <unitInfo fileName="IFileContent_Behavior.java" startLine="13" startPosition="0" endLine="60" endPosition="0" unitName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+  <root nodeId="369287372546174877">
+    <nodeInfo nodeId="369287372546174889" fileName="IFileContent_Behavior.java" startLine="21" startPosition="71" endLine="22" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5815279313395467767" fileName="IFileContent_Behavior.java" startLine="25" startPosition="74" endLine="26" endPosition="149" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5815279313395613804" fileName="IFileContent_Behavior.java" startLine="29" startPosition="84" endLine="30" endPosition="133" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="369287372546174879" fileName="IFileContent_Behavior.java" startLine="18" startPosition="43" endLine="18" endPosition="43" />
+    <scopeInfo nodeId="369287372546174887" fileName="IFileContent_Behavior.java" startLine="21" startPosition="71" endLine="22" endPosition="105" />
+    <scopeInfo nodeId="5815279313395467766" fileName="IFileContent_Behavior.java" startLine="25" startPosition="74" endLine="26" endPosition="149" />
+    <scopeInfo nodeId="5815279313395613802" fileName="IFileContent_Behavior.java" startLine="29" startPosition="84" endLine="30" endPosition="133" />
+  </root>
+  <root nodeId="5815279313395371991">
+    <scopeInfo nodeId="5815279313395371993" fileName="File_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AttributeResource_Constraints.java" startLine="62" startPosition="32" endLine="76" endPosition="5" unitName="rbac_entities.constraints.AttributeResource_Constraints$1" />
+  <unitInfo fileName="AttributeResource_Constraints.java" startLine="20" startPosition="0" endLine="80" endPosition="0" unitName="rbac_entities.constraints.AttributeResource_Constraints" />
+  <root nodeId="814100379888610071">
+    <nodeInfo nodeId="814100379888610075" fileName="AttributeResource_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="814100379888610074" fileName="AttributeResource_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="93" />
+  </root>
+</debugInfo>
+

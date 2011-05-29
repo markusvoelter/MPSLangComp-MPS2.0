@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="18" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.intentions.IntentionsDescriptor" />
+  <unitInfo fileName="makeBlockExpression_Intention.java" startLine="13" startPosition="0" endLine="47" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.intentions.makeBlockExpression_Intention" />
+  <root nodeId="7827023534244246594">
+    <nodeInfo nodeId="7827023534244255056" fileName="makeBlockExpression_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7827023534244255061" fileName="makeBlockExpression_Intention.java" startLine="37" startPosition="76" endLine="38" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7827023534244255625" fileName="makeBlockExpression_Intention.java" startLine="38" startPosition="120" endLine="39" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7827023534244255074" fileName="makeBlockExpression_Intention.java" startLine="39" startPosition="48" endLine="40" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="7827023534244246596" fileName="makeBlockExpression_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" />
+    <scopeInfo nodeId="7827023534244246598" fileName="makeBlockExpression_Intention.java" startLine="37" startPosition="76" endLine="40" endPosition="55">
+      <varInfo nodeId="7827023534244255062" varName="e" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+

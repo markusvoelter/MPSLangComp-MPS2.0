@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="RbacSpecEntities.java" startLine="7" startPosition="0" endLine="18" endPosition="0" unitName="entities.sandbox.sandbox.RbacSpecEntities" />
+  <unitInfo fileName="Department.java" startLine="6" startPosition="0" endLine="45" endPosition="0" unitName="entities.sandbox.sandbox.Department" />
+  <unitInfo fileName="CompanyStructure.java" startLine="34" startPosition="35" endLine="74" endPosition="5" unitName="entities.sandbox.sandbox.CompanyStructure$1" />
+  <unitInfo fileName="CompanyDBAdapter.java" startLine="6" startPosition="0" endLine="52" endPosition="0" unitName="entities.sandbox.sandbox.CompanyDBAdapter" />
+  <unitInfo fileName="CompanyDBBaseAdapter.java" startLine="6" startPosition="0" endLine="71" endPosition="0" unitName="entities.sandbox.sandbox.CompanyDBBaseAdapter" />
+  <unitInfo fileName="CompanyStructure.java" startLine="16" startPosition="0" endLine="94" endPosition="0" unitName="entities.sandbox.sandbox.CompanyStructure" />
+  <unitInfo fileName="Employee.java" startLine="6" startPosition="0" endLine="101" endPosition="0" unitName="entities.sandbox.sandbox.Employee" />
+</debugInfo>
+

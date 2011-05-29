@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="INamespaceContent.java" startLine="6" startPosition="0" endLine="9" endPosition="0" unitName="de.voelter.mps.naming.structure.INamespaceContent" />
+  <unitInfo fileName="IQualifiedNamedConcept.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.naming.structure.IQualifiedNamedConcept" />
+  <unitInfo fileName="Naming_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.naming.structure.Naming_Language" />
+  <unitInfo fileName="UniqueNamesConstraintAnnotation_AnnotationLink.java" startLine="7" startPosition="0" endLine="18" endPosition="0" unitName="de.voelter.mps.naming.structure.UniqueNamesConstraintAnnotation_AnnotationLink" />
+  <unitInfo fileName="UniqueNamesConstraint.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.naming.structure.UniqueNamesConstraint" />
+  <unitInfo fileName="INamespace.java" startLine="8" startPosition="0" endLine="24" endPosition="0" unitName="de.voelter.mps.naming.structure.INamespace" />
+  <unitInfo fileName="NamespaceImport.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.naming.structure.NamespaceImport" />
+  <unitInfo fileName="Namespace.java" startLine="14" startPosition="0" endLine="128" endPosition="0" unitName="de.voelter.mps.naming.structure.Namespace" />
+</debugInfo>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="NamespaceImport_Editor.java" startLine="79" startPosition="85" endLine="90" endPosition="7" unitName="de.voelter.mps.naming.editor.NamespaceImport_Editor$1" />
+  <unitInfo fileName="UniqueNamesConstraint_Editor.java" startLine="14" startPosition="0" endLine="41" endPosition="0" unitName="de.voelter.mps.naming.editor.UniqueNamesConstraint_Editor" />
+  <unitInfo fileName="NamespaceImport_Editor.java" startLine="65" startPosition="0" endLine="96" endPosition="0" unitName="de.voelter.mps.naming.editor.NamespaceImport_Editor$_Inline_cxywm_a1a" />
+  <unitInfo fileName="Namespace_Editor.java" startLine="148" startPosition="0" endLine="183" endPosition="0" unitName="de.voelter.mps.naming.editor.Namespace_Editor$importsListHandler_moyd1k_c0a" />
+  <unitInfo fileName="Namespace_Editor.java" startLine="184" startPosition="0" endLine="219" endPosition="0" unitName="de.voelter.mps.naming.editor.Namespace_Editor$contentsListHandler_moyd1k_a1b0" />
+  <unitInfo fileName="NamespaceImport_Editor.java" startLine="24" startPosition="0" endLine="97" endPosition="0" unitName="de.voelter.mps.naming.editor.NamespaceImport_Editor" />
+  <unitInfo fileName="Namespace_Editor.java" startLine="30" startPosition="0" endLine="220" endPosition="0" unitName="de.voelter.mps.naming.editor.Namespace_Editor" />
+  <root nodeId="1224145309708868783">
+    <nodeInfo nodeId="1224145309708868797" fileName="NamespaceImport_Editor.java" startLine="80" startPosition="33" endLine="81" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="1224145309708868796" fileName="NamespaceImport_Editor.java" startLine="80" startPosition="33" endLine="81" endPosition="94" />
+  </root>
+  <root nodeId="5019556274771901632">
+    <nodeInfo nodeId="1224145309708873058" fileName="Namespace_Editor.java" startLine="144" startPosition="112" endLine="145" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="1224145309708873054" fileName="Namespace_Editor.java" startLine="144" startPosition="112" endLine="145" endPosition="97" />
+  </root>
+</debugInfo>
+

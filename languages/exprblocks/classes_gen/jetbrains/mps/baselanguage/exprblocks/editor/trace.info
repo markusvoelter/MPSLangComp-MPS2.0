@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BlockExpression_Editor.java" startLine="31" startPosition="54" endLine="41" endPosition="7" unitName="jetbrains.mps.baselanguage.exprblocks.editor.BlockExpression_Editor$1" />
+  <unitInfo fileName="ExpressionBlockExprRef_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.ExpressionBlockExprRef_Editor" />
+  <unitInfo fileName="TransparentBlock_Editor.java" startLine="16" startPosition="0" endLine="61" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.TransparentBlock_Editor" />
+  <unitInfo fileName="BlockExpressionYield_Editor.java" startLine="18" startPosition="0" endLine="67" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.BlockExpressionYield_Editor" />
+  <unitInfo fileName="PlaceholderStatement_Editor.java" startLine="16" startPosition="0" endLine="81" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.PlaceholderStatement_Editor" />
+  <unitInfo fileName="ExpressionBlock_Editor.java" startLine="20" startPosition="0" endLine="94" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.ExpressionBlock_Editor" />
+  <unitInfo fileName="BlockExpression_Editor.java" startLine="21" startPosition="0" endLine="117" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.editor.BlockExpression_Editor" />
+  <root nodeId="7498631926207700447">
+    <nodeInfo nodeId="4808699962363360919" fileName="BlockExpression_Editor.java" startLine="113" startPosition="106" endLine="114" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4808699962363360918" fileName="BlockExpression_Editor.java" startLine="113" startPosition="106" endLine="114" endPosition="36" />
+  </root>
+  <root nodeId="7827023534244214054">
+    <nodeInfo nodeId="7827023534244255702" fileName="ExpressionBlock_Editor.java" startLine="86" startPosition="111" endLine="87" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7827023534244255715" fileName="ExpressionBlock_Editor.java" startLine="90" startPosition="112" endLine="91" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="7827023534244255701" fileName="ExpressionBlock_Editor.java" startLine="86" startPosition="111" endLine="87" endPosition="67" />
+    <scopeInfo nodeId="7827023534244255714" fileName="ExpressionBlock_Editor.java" startLine="90" startPosition="112" endLine="91" endPosition="67" />
+  </root>
+</debugInfo>
+

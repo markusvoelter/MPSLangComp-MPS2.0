@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IComparable.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.IComparable" />
+  <unitInfo fileName="ISimpleText.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.ISimpleText" />
+  <unitInfo fileName="IMemberContainer.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.IMemberContainer" />
+  <unitInfo fileName="IMemberReference.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.IMemberReference" />
+  <unitInfo fileName="INumber.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.INumber" />
+  <unitInfo fileName="IOrdered.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.structure.IOrdered" />
+  <unitInfo fileName="IDotExpression.java" startLine="7" startPosition="0" endLine="14" endPosition="0" unitName="de.voelter.mps.expressions.structure.IDotExpression" />
+  <unitInfo fileName="Expressions_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.structure.Expressions_Language" />
+  <unitInfo fileName="LessEqualsExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.LessEqualsExpression" />
+  <unitInfo fileName="LessExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.LessExpression" />
+  <unitInfo fileName="GreateEqualsExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.GreateEqualsExpression" />
+  <unitInfo fileName="GreaterExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.GreaterExpression" />
+  <unitInfo fileName="EqualsExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.EqualsExpression" />
+  <unitInfo fileName="FalseLiteral.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.FalseLiteral" />
+  <unitInfo fileName="TrueLiteral.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.TrueLiteral" />
+  <unitInfo fileName="BooleanLiteral.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.BooleanLiteral" />
+  <unitInfo fileName="BinaryComparisonExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.BinaryComparisonExpression" />
+  <unitInfo fileName="DivExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.DivExpression" />
+  <unitInfo fileName="MultiExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.MultiExpression" />
+  <unitInfo fileName="MinusExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.MinusExpression" />
+  <unitInfo fileName="PlusExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.PlusExpression" />
+  <unitInfo fileName="BinaryArithmeticExpression.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.BinaryArithmeticExpression" />
+  <unitInfo fileName="StringType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.structure.StringType" />
+  <unitInfo fileName="Type.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.expressions.structure.Type" />
+  <unitInfo fileName="Expression.java" startLine="11" startPosition="0" endLine="27" endPosition="0" unitName="de.voelter.mps.expressions.structure.Expression" />
+  <unitInfo fileName="IntegerLiteral.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.voelter.mps.expressions.structure.IntegerLiteral" />
+  <unitInfo fileName="ParensExpression.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.voelter.mps.expressions.structure.ParensExpression" />
+  <unitInfo fileName="StringLiteral.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.voelter.mps.expressions.structure.StringLiteral" />
+  <unitInfo fileName="BinaryExpression.java" startLine="10" startPosition="0" endLine="43" endPosition="0" unitName="de.voelter.mps.expressions.structure.BinaryExpression" />
+  <unitInfo fileName="IfExpression.java" startLine="10" startPosition="0" endLine="52" endPosition="0" unitName="de.voelter.mps.expressions.structure.IfExpression" />
+  <unitInfo fileName="IntType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.IntType" />
+  <unitInfo fileName="Literal.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.Literal" />
+  <unitInfo fileName="BooleanType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.BooleanType" />
+  <unitInfo fileName="PrimitiveType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.PrimitiveType" />
+  <unitInfo fileName="MemberAccessExpression.java" startLine="13" startPosition="0" endLine="94" endPosition="0" unitName="de.voelter.mps.expressions.structure.MemberAccessExpression" />
+</debugInfo>
+

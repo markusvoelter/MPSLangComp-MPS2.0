@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="5651902197461579757">
+    <nodeInfo nodeId="5651902197461579758" fileName="XYCustomTableModel.java" startLine="18" startPosition="64" endLine="19" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="node" />
+    <nodeInfo nodeId="5651902197461579761" fileName="XYCustomTableModel.java" startLine="19" startPosition="21" endLine="20" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="xlink" />
+    <nodeInfo nodeId="5651902197461579764" fileName="XYCustomTableModel.java" startLine="20" startPosition="22" endLine="21" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ylink" />
+    <nodeInfo nodeId="5651902197461579767" fileName="XYCustomTableModel.java" startLine="21" startPosition="22" endLine="22" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="clink" />
+    <nodeInfo nodeId="5651902197461579770" fileName="XYCustomTableModel.java" startLine="22" startPosition="22" endLine="23" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="editorCtx" />
+    <nodeInfo nodeId="5651902197461579778" fileName="XYCustomTableModel.java" startLine="25" startPosition="109" endLine="26" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579784" fileName="XYCustomTableModel.java" startLine="26" startPosition="21" endLine="27" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579790" fileName="XYCustomTableModel.java" startLine="27" startPosition="23" endLine="28" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579796" fileName="XYCustomTableModel.java" startLine="28" startPosition="23" endLine="29" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579802" fileName="XYCustomTableModel.java" startLine="29" startPosition="23" endLine="30" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579821" fileName="XYCustomTableModel.java" startLine="33" startPosition="26" endLine="34" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579832" fileName="XYCustomTableModel.java" startLine="37" startPosition="26" endLine="38" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579843" fileName="XYCustomTableModel.java" startLine="41" startPosition="26" endLine="42" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579855" fileName="XYCustomTableModel.java" startLine="45" startPosition="28" endLine="46" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579865" fileName="XYCustomTableModel.java" startLine="49" startPosition="31" endLine="50" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579874" fileName="XYCustomTableModel.java" startLine="53" startPosition="40" endLine="54" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461579900" fileName="XYCustomTableModel.java" startLine="57" startPosition="46" endLine="58" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461579952" fileName="XYCustomTableModel.java" startLine="64" startPosition="40" endLine="65" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461580002" fileName="XYCustomTableModel.java" startLine="69" startPosition="34" endLine="70" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580020" fileName="XYCustomTableModel.java" startLine="72" startPosition="33" endLine="73" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580040" fileName="XYCustomTableModel.java" startLine="75" startPosition="33" endLine="76" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580051" fileName="XYCustomTableModel.java" startLine="77" startPosition="5" endLine="78" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580079" fileName="XYCustomTableModel.java" startLine="82" startPosition="34" endLine="83" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580085" fileName="XYCustomTableModel.java" startLine="85" startPosition="19" endLine="86" endPosition="138" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3616070206812405428" fileName="XYCustomTableModel.java" startLine="86" startPosition="138" endLine="87" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580099" fileName="XYCustomTableModel.java" startLine="89" startPosition="22" endLine="90" endPosition="135" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3616070206812405444" fileName="XYCustomTableModel.java" startLine="90" startPosition="135" endLine="91" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461610457" fileName="XYCustomTableModel.java" startLine="92" startPosition="5" endLine="93" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5651902197461610519" fileName="XYCustomTableModel.java" startLine="93" startPosition="70" endLine="94" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5651902197461610401" fileName="XYCustomTableModel.java" startLine="94" startPosition="67" endLine="95" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461580154" fileName="XYCustomTableModel.java" startLine="101" startPosition="34" endLine="102" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580161" fileName="XYCustomTableModel.java" startLine="104" startPosition="19" endLine="105" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580170" fileName="XYCustomTableModel.java" startLine="107" startPosition="22" endLine="108" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461610754" fileName="XYCustomTableModel.java" startLine="109" startPosition="5" endLine="110" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5651902197461610763" fileName="XYCustomTableModel.java" startLine="110" startPosition="70" endLine="111" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5651902197461580195" fileName="XYCustomTableModel.java" startLine="111" startPosition="67" endLine="112" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5651902197461580206" fileName="XYCustomTableModel.java" startLine="117" startPosition="40" endLine="118" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461610890" fileName="XYCustomTableModel.java" startLine="118" startPosition="62" endLine="119" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5651902197461610921" fileName="XYCustomTableModel.java" startLine="119" startPosition="73" endLine="120" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5651902197461610294" fileName="XYCustomTableModel.java" startLine="97" startPosition="0" endLine="99" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNewContentElement#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5651902197461610718" fileName="XYCustomTableModel.java" startLine="114" startPosition="0" endLine="116" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getContentElement#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5651902197461610838" fileName="XYCustomTableModel.java" startLine="122" startPosition="0" endLine="124" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteAllContentsFor#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="5651902197461579940" fileName="XYCustomTableModel.java" startLine="60" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteColumn#(I)V" />
+    <nodeInfo nodeId="5651902197461580000" fileName="XYCustomTableModel.java" startLine="68" startPosition="68" endLine="71" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580011" fileName="XYCustomTableModel.java" startLine="71" startPosition="5" endLine="74" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580031" fileName="XYCustomTableModel.java" startLine="74" startPosition="5" endLine="77" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580070" fileName="XYCustomTableModel.java" startLine="81" startPosition="50" endLine="84" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580145" fileName="XYCustomTableModel.java" startLine="100" startPosition="48" endLine="103" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580156" fileName="XYCustomTableModel.java" startLine="103" startPosition="5" endLine="106" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580168" fileName="XYCustomTableModel.java" startLine="106" startPosition="5" endLine="109" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461579818" fileName="XYCustomTableModel.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="x#()Ljava/util/List;" />
+    <nodeInfo nodeId="5651902197461579829" fileName="XYCustomTableModel.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="y#()Ljava/util/List;" />
+    <nodeInfo nodeId="5651902197461579840" fileName="XYCustomTableModel.java" startLine="40" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="c#()Ljava/util/List;" />
+    <nodeInfo nodeId="5651902197461579851" fileName="XYCustomTableModel.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRowCount#()I" />
+    <nodeInfo nodeId="5651902197461579861" fileName="XYCustomTableModel.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumnCount#()I" />
+    <nodeInfo nodeId="5651902197461579871" fileName="XYCustomTableModel.java" startLine="52" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="dataidx#(II)I" />
+    <nodeInfo nodeId="5651902197461579894" fileName="XYCustomTableModel.java" startLine="56" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertColumn#(I)V" />
+    <nodeInfo nodeId="5651902197461579946" fileName="XYCustomTableModel.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertRow#(I)V" />
+    <nodeInfo nodeId="5651902197461580080" fileName="XYCustomTableModel.java" startLine="84" startPosition="5" endLine="88" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580097" fileName="XYCustomTableModel.java" startLine="88" startPosition="5" endLine="92" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5651902197461580200" fileName="XYCustomTableModel.java" startLine="116" startPosition="0" endLine="122" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteRow#(I)V" />
+    <nodeInfo nodeId="5651902197461579774" fileName="XYCustomTableModel.java" startLine="24" startPosition="0" endLine="31" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="XYCustomTableModel#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <nodeInfo nodeId="5651902197461579992" fileName="XYCustomTableModel.java" startLine="67" startPosition="0" endLine="80" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSubstituteInfo#(II)Ljetbrains/mps/nodeEditor/cellMenu/NodeSubstituteInfo;" />
+    <nodeInfo nodeId="5651902197461580137" fileName="XYCustomTableModel.java" startLine="99" startPosition="0" endLine="114" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAt#(II)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5651902197461580062" fileName="XYCustomTableModel.java" startLine="80" startPosition="0" endLine="97" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createElement#(II)V" />
+    <scopeInfo nodeId="5651902197461579945" fileName="XYCustomTableModel.java" startLine="61" startPosition="46" endLine="61" endPosition="46" />
+    <scopeInfo nodeId="5651902197461579820" fileName="XYCustomTableModel.java" startLine="33" startPosition="26" endLine="34" endPosition="52" />
+    <scopeInfo nodeId="5651902197461579831" fileName="XYCustomTableModel.java" startLine="37" startPosition="26" endLine="38" endPosition="52" />
+    <scopeInfo nodeId="5651902197461579842" fileName="XYCustomTableModel.java" startLine="41" startPosition="26" endLine="42" endPosition="52" />
+    <scopeInfo nodeId="5651902197461579854" fileName="XYCustomTableModel.java" startLine="45" startPosition="28" endLine="46" endPosition="50" />
+    <scopeInfo nodeId="5651902197461579864" fileName="XYCustomTableModel.java" startLine="49" startPosition="31" endLine="50" endPosition="50" />
+    <scopeInfo nodeId="5651902197461579873" fileName="XYCustomTableModel.java" startLine="53" startPosition="40" endLine="54" endPosition="58" />
+    <scopeInfo nodeId="5651902197461579899" fileName="XYCustomTableModel.java" startLine="57" startPosition="46" endLine="58" endPosition="161" />
+    <scopeInfo nodeId="5651902197461579951" fileName="XYCustomTableModel.java" startLine="64" startPosition="40" endLine="65" endPosition="158" />
+    <scopeInfo nodeId="5651902197461580001" fileName="XYCustomTableModel.java" startLine="69" startPosition="34" endLine="70" endPosition="18" />
+    <scopeInfo nodeId="5651902197461580019" fileName="XYCustomTableModel.java" startLine="72" startPosition="33" endLine="73" endPosition="93" />
+    <scopeInfo nodeId="5651902197461580039" fileName="XYCustomTableModel.java" startLine="75" startPosition="33" endLine="76" endPosition="93" />
+    <scopeInfo nodeId="5651902197461580078" fileName="XYCustomTableModel.java" startLine="82" startPosition="34" endLine="83" endPosition="13" />
+    <scopeInfo nodeId="5651902197461580153" fileName="XYCustomTableModel.java" startLine="101" startPosition="34" endLine="102" endPosition="18" />
+    <scopeInfo nodeId="5651902197461580160" fileName="XYCustomTableModel.java" startLine="104" startPosition="19" endLine="105" endPosition="33" />
+    <scopeInfo nodeId="5651902197461580169" fileName="XYCustomTableModel.java" startLine="107" startPosition="22" endLine="108" endPosition="30" />
+    <scopeInfo nodeId="5651902197461580084" fileName="XYCustomTableModel.java" startLine="85" startPosition="19" endLine="87" endPosition="13" />
+    <scopeInfo nodeId="5651902197461580098" fileName="XYCustomTableModel.java" startLine="89" startPosition="22" endLine="91" endPosition="13" />
+    <scopeInfo nodeId="5651902197461610294" fileName="XYCustomTableModel.java" startLine="97" startPosition="0" endLine="99" endPosition="0">
+      <varInfo nodeId="5651902197461610318" varName="colNode" />
+      <varInfo nodeId="5651902197461610340" varName="rowNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461610718" fileName="XYCustomTableModel.java" startLine="114" startPosition="0" endLine="116" endPosition="0">
+      <varInfo nodeId="5651902197461611769" varName="tableRootNode" />
+      <varInfo nodeId="5651902197461610722" varName="colNode" />
+      <varInfo nodeId="5651902197461610724" varName="rowNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461610838" fileName="XYCustomTableModel.java" startLine="122" startPosition="0" endLine="124" endPosition="0">
+      <varInfo nodeId="5651902197461611846" varName="tableRootNode" />
+      <varInfo nodeId="5651902197461610861" varName="rowOrColNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579940" fileName="XYCustomTableModel.java" startLine="60" startPosition="0" endLine="63" endPosition="0">
+      <varInfo nodeId="5651902197461579943" varName="columnNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461580205" fileName="XYCustomTableModel.java" startLine="117" startPosition="40" endLine="120" endPosition="40">
+      <varInfo nodeId="5651902197461610891" varName="rowNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579818" fileName="XYCustomTableModel.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="5651902197461579829" fileName="XYCustomTableModel.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="5651902197461579840" fileName="XYCustomTableModel.java" startLine="40" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="5651902197461579851" fileName="XYCustomTableModel.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="5651902197461579861" fileName="XYCustomTableModel.java" startLine="48" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="5651902197461579871" fileName="XYCustomTableModel.java" startLine="52" startPosition="0" endLine="56" endPosition="0">
+      <varInfo nodeId="5651902197461579891" varName="col" />
+      <varInfo nodeId="5651902197461579889" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579894" fileName="XYCustomTableModel.java" startLine="56" startPosition="0" endLine="60" endPosition="0">
+      <varInfo nodeId="5651902197461579897" varName="columnNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579946" fileName="XYCustomTableModel.java" startLine="63" startPosition="0" endLine="67" endPosition="0">
+      <varInfo nodeId="5651902197461579949" varName="rowNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579777" fileName="XYCustomTableModel.java" startLine="25" startPosition="109" endLine="30" endPosition="35" />
+    <scopeInfo nodeId="5651902197461580200" fileName="XYCustomTableModel.java" startLine="116" startPosition="0" endLine="122" endPosition="0">
+      <varInfo nodeId="5651902197461580203" varName="rowNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579774" fileName="XYCustomTableModel.java" startLine="24" startPosition="0" endLine="31" endPosition="3">
+      <varInfo nodeId="5651902197461579808" varName="node" />
+      <varInfo nodeId="5651902197461579816" varName="editorContext" />
+      <varInfo nodeId="5651902197461579810" varName="xlink" />
+      <varInfo nodeId="5651902197461579812" varName="ylink" />
+      <varInfo nodeId="5651902197461579814" varName="clink" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579999" fileName="XYCustomTableModel.java" startLine="68" startPosition="68" endLine="78" endPosition="91" />
+    <scopeInfo nodeId="5651902197461580144" fileName="XYCustomTableModel.java" startLine="100" startPosition="48" endLine="112" endPosition="53">
+      <varInfo nodeId="5651902197461610755" varName="colNode" />
+      <varInfo nodeId="5651902197461610764" varName="rowNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461579992" fileName="XYCustomTableModel.java" startLine="67" startPosition="0" endLine="80" endPosition="0">
+      <varInfo nodeId="5651902197461579995" varName="column" />
+      <varInfo nodeId="5651902197461579993" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461580069" fileName="XYCustomTableModel.java" startLine="81" startPosition="50" endLine="95" endPosition="85">
+      <varInfo nodeId="5651902197461610458" varName="colNode" />
+      <varInfo nodeId="5651902197461610520" varName="rowNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461580137" fileName="XYCustomTableModel.java" startLine="99" startPosition="0" endLine="114" endPosition="0">
+      <varInfo nodeId="5651902197461580142" varName="column" />
+      <varInfo nodeId="5651902197461580140" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5651902197461580062" fileName="XYCustomTableModel.java" startLine="80" startPosition="0" endLine="97" endPosition="0">
+      <varInfo nodeId="5651902197461580067" varName="column" />
+      <varInfo nodeId="5651902197461580065" varName="row" />
+    </scopeInfo>
+    <unitInfo nodeId="5651902197461579757" fileName="XYCustomTableModel.java" startLine="18" startPosition="0" endLine="125" endPosition="0" unitName="tbcmain.XYCustomTableModel" />
+  </root>
+  <root nodeId="5787972376157070704">
+    <nodeInfo nodeId="611933243531127808" fileName="FlatTableModel.java" startLine="16" startPosition="60" endLine="17" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="colCount" />
+    <nodeInfo nodeId="611933243531127812" fileName="FlatTableModel.java" startLine="17" startPosition="23" endLine="18" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="headers" />
+    <nodeInfo nodeId="611933243531214229" fileName="FlatTableModel.java" startLine="18" startPosition="31" endLine="19" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="contentsCollection" />
+    <nodeInfo nodeId="611933243531214239" fileName="FlatTableModel.java" startLine="19" startPosition="35" endLine="20" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="dataOwner" />
+    <nodeInfo nodeId="611933243531214243" fileName="FlatTableModel.java" startLine="20" startPosition="26" endLine="21" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="dataLink" />
+    <nodeInfo nodeId="611933243531127819" fileName="FlatTableModel.java" startLine="23" startPosition="94" endLine="24" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531203144" fileName="FlatTableModel.java" startLine="24" startPosition="29" endLine="25" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531279165" fileName="FlatTableModel.java" startLine="25" startPosition="27" endLine="26" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531279177" fileName="FlatTableModel.java" startLine="26" startPosition="31" endLine="27" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531212812" fileName="FlatTableModel.java" startLine="30" startPosition="46" endLine="31" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="611933243531212814" fileName="FlatTableModel.java" startLine="34" startPosition="46" endLine="35" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="611933243531214261" fileName="FlatTableModel.java" startLine="38" startPosition="40" endLine="39" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5787972376157070767" fileName="FlatTableModel.java" startLine="42" startPosition="68" endLine="43" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531335610" fileName="FlatTableModel.java" startLine="46" startPosition="50" endLine="47" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531279253" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="53" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279188" fileName="FlatTableModel.java" startLine="58" startPosition="40" endLine="59" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531279065" fileName="FlatTableModel.java" startLine="62" startPosition="28" endLine="63" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279107" fileName="FlatTableModel.java" startLine="66" startPosition="31" endLine="67" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279143" fileName="FlatTableModel.java" startLine="70" startPosition="29" endLine="71" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279211" fileName="FlatTableModel.java" startLine="49" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createElementInColumn#(Ljetbrains/mps/smodel/SNode;I)V" />
+    <nodeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="55" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNodeForColumn#(Ljetbrains/mps/smodel/SNode;I)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5787972376157070711" fileName="FlatTableModel.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertColumn#(I)V" />
+    <nodeInfo nodeId="5787972376157070717" fileName="FlatTableModel.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteColumn#(I)V" />
+    <nodeInfo nodeId="5787972376157070723" fileName="FlatTableModel.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertRow#(I)V" />
+    <nodeInfo nodeId="5787972376157070729" fileName="FlatTableModel.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSubstituteInfo#(II)Ljetbrains/mps/nodeEditor/cellMenu/NodeSubstituteInfo;" />
+    <nodeInfo nodeId="5787972376157070737" fileName="FlatTableModel.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createElement#(II)V" />
+    <nodeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAt#(II)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="57" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteRow#(I)V" />
+    <nodeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="61" startPosition="0" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRowCount#()I" />
+    <nodeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="65" startPosition="0" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumnCount#()I" />
+    <nodeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="69" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="coll#()Ljava/util/List;" />
+    <nodeInfo nodeId="5787972376157070706" fileName="FlatTableModel.java" startLine="22" startPosition="0" endLine="28" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="FlatTableModel#(ILjava/util/List;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;)V" />
+    <scopeInfo nodeId="5787972376157070716" fileName="FlatTableModel.java" startLine="30" startPosition="46" endLine="31" endPosition="20" />
+    <scopeInfo nodeId="5787972376157070722" fileName="FlatTableModel.java" startLine="34" startPosition="46" endLine="35" endPosition="20" />
+    <scopeInfo nodeId="5787972376157070728" fileName="FlatTableModel.java" startLine="38" startPosition="40" endLine="39" endPosition="164" />
+    <scopeInfo nodeId="5787972376157070736" fileName="FlatTableModel.java" startLine="42" startPosition="68" endLine="43" endPosition="16" />
+    <scopeInfo nodeId="5787972376157070744" fileName="FlatTableModel.java" startLine="46" startPosition="50" endLine="47" endPosition="85" />
+    <scopeInfo nodeId="5787972376157070752" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="53" endPosition="87" />
+    <scopeInfo nodeId="5787972376157070758" fileName="FlatTableModel.java" startLine="58" startPosition="40" endLine="59" endPosition="65" />
+    <scopeInfo nodeId="5787972376157070762" fileName="FlatTableModel.java" startLine="62" startPosition="28" endLine="63" endPosition="49" />
+    <scopeInfo nodeId="5787972376157070766" fileName="FlatTableModel.java" startLine="66" startPosition="31" endLine="67" endPosition="25" />
+    <scopeInfo nodeId="611933243531279124" fileName="FlatTableModel.java" startLine="70" startPosition="29" endLine="71" endPosition="70" />
+    <scopeInfo nodeId="611933243531279211" fileName="FlatTableModel.java" startLine="49" startPosition="0" endLine="51" endPosition="0">
+      <varInfo nodeId="611933243531279217" varName="column" />
+      <varInfo nodeId="611933243531335593" varName="dataObject" />
+    </scopeInfo>
+    <scopeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="55" startPosition="0" endLine="57" endPosition="0">
+      <varInfo nodeId="611933243531279248" varName="col" />
+      <varInfo nodeId="611933243531279224" varName="data" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070709" fileName="FlatTableModel.java" startLine="23" startPosition="94" endLine="27" endPosition="29" />
+    <scopeInfo nodeId="5787972376157070711" fileName="FlatTableModel.java" startLine="29" startPosition="0" endLine="33" endPosition="0">
+      <varInfo nodeId="5787972376157070714" varName="columnNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070717" fileName="FlatTableModel.java" startLine="33" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="5787972376157070720" varName="columnNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070723" fileName="FlatTableModel.java" startLine="37" startPosition="0" endLine="41" endPosition="0">
+      <varInfo nodeId="5787972376157070726" varName="rowNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070729" fileName="FlatTableModel.java" startLine="41" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="5787972376157070732" varName="column" />
+      <varInfo nodeId="5787972376157070730" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070737" fileName="FlatTableModel.java" startLine="45" startPosition="0" endLine="49" endPosition="0">
+      <varInfo nodeId="5787972376157070742" varName="column" />
+      <varInfo nodeId="5787972376157070740" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="55" endPosition="0">
+      <varInfo nodeId="5787972376157070750" varName="column" />
+      <varInfo nodeId="5787972376157070748" varName="row" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="57" startPosition="0" endLine="61" endPosition="0">
+      <varInfo nodeId="5787972376157070756" varName="rowNumber" />
+    </scopeInfo>
+    <scopeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="61" startPosition="0" endLine="65" endPosition="0" />
+    <scopeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="65" startPosition="0" endLine="69" endPosition="0" />
+    <scopeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="69" startPosition="0" endLine="73" endPosition="0" />
+    <scopeInfo nodeId="5787972376157070706" fileName="FlatTableModel.java" startLine="22" startPosition="0" endLine="28" endPosition="3">
+      <varInfo nodeId="611933243531119622" varName="headers" />
+      <varInfo nodeId="611933243531214236" varName="dataLink" />
+      <varInfo nodeId="5787972376157070769" varName="colCount" />
+      <varInfo nodeId="611933243531214233" varName="dataOwner" />
+    </scopeInfo>
+    <unitInfo nodeId="5787972376157070704" fileName="FlatTableModel.java" startLine="16" startPosition="0" endLine="74" endPosition="0" unitName="tbcmain.FlatTableModel" />
+  </root>
+</debugInfo>
+

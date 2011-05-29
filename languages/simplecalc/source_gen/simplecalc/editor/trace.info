@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="System_Editor.java" startLine="15" startPosition="0" endLine="44" endPosition="0" unitName="simplecalc.editor.System_Editor" />
+  <unitInfo fileName="StructType_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="simplecalc.editor.StructType_Editor$_Inline_lr7ptq_a0a" />
+  <unitInfo fileName="StructMemberAccess_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="simplecalc.editor.StructMemberAccess_Editor$_Inline_eryuq4_a0a" />
+  <unitInfo fileName="StructRefExpression_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="simplecalc.editor.StructRefExpression_Editor$_Inline_25eejv_a0a" />
+  <unitInfo fileName="VarRefExpression_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="simplecalc.editor.VarRefExpression_Editor$_Inline_7dr510_a0a" />
+  <unitInfo fileName="Struct_Editor.java" startLine="102" startPosition="0" endLine="137" endPosition="0" unitName="simplecalc.editor.Struct_Editor$membersListHandler_a8dvuz_b1a" />
+  <unitInfo fileName="StructMember_Editor.java" startLine="17" startPosition="0" endLine="68" endPosition="0" unitName="simplecalc.editor.StructMember_Editor" />
+  <unitInfo fileName="DocText_Editor.java" startLine="16" startPosition="0" endLine="69" endPosition="0" unitName="simplecalc.editor.DocText_Editor" />
+  <unitInfo fileName="MyOwnDotExpression_Editor.java" startLine="18" startPosition="0" endLine="78" endPosition="0" unitName="simplecalc.editor.MyOwnDotExpression_Editor" />
+  <unitInfo fileName="StructType_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="simplecalc.editor.StructType_Editor" />
+  <unitInfo fileName="StructMemberAccess_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="simplecalc.editor.StructMemberAccess_Editor" />
+  <unitInfo fileName="StructRefExpression_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="simplecalc.editor.StructRefExpression_Editor" />
+  <unitInfo fileName="VarRefExpression_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="simplecalc.editor.VarRefExpression_Editor" />
+  <unitInfo fileName="VarDecl_Editor.java" startLine="21" startPosition="0" endLine="105" endPosition="0" unitName="simplecalc.editor.VarDecl_Editor" />
+  <unitInfo fileName="Calculation_Editor.java" startLine="19" startPosition="0" endLine="115" endPosition="0" unitName="simplecalc.editor.Calculation_Editor" />
+  <unitInfo fileName="Struct_Editor.java" startLine="27" startPosition="0" endLine="138" endPosition="0" unitName="simplecalc.editor.Struct_Editor" />
+  <root nodeId="8860443239512129999">
+    <nodeInfo nodeId="5856418980159004409" fileName="VarDecl_Editor.java" startLine="101" startPosition="111" endLine="102" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5856418980159004408" fileName="VarDecl_Editor.java" startLine="101" startPosition="111" endLine="102" endPosition="60" />
+  </root>
+</debugInfo>
+

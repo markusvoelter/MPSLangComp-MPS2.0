@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Attribute_Behavior.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="entities.behavior.Attribute_Behavior" />
+  <root nodeId="814100379888502465">
+    <nodeInfo nodeId="814100379888534961" fileName="Attribute_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="193" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="726639030028408859" fileName="Attribute_Behavior.java" startLine="17" startPosition="75" endLine="18" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="726639030028408919" fileName="Attribute_Behavior.java" startLine="21" startPosition="75" endLine="22" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="814100379888502467" fileName="Attribute_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="814100379888502471" fileName="Attribute_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="193" />
+    <scopeInfo nodeId="726639030028387525" fileName="Attribute_Behavior.java" startLine="17" startPosition="75" endLine="18" endPosition="160" />
+    <scopeInfo nodeId="726639030028408918" fileName="Attribute_Behavior.java" startLine="21" startPosition="75" endLine="22" endPosition="160" />
+  </root>
+</debugInfo>
+

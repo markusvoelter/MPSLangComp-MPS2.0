@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AttrToColMapping_Editor.java" startLine="91" startPosition="85" endLine="102" endPosition="7" unitName="relmapping_annotations.editor.AttrToColMapping_Editor$1" />
+  <unitInfo fileName="AttrToColMapping_Editor.java" startLine="77" startPosition="0" endLine="113" endPosition="0" unitName="relmapping_annotations.editor.AttrToColMapping_Editor$_Inline_t5hg0p_a2a" />
+  <unitInfo fileName="AttrToColMapping_Editor.java" startLine="27" startPosition="0" endLine="114" endPosition="0" unitName="relmapping_annotations.editor.AttrToColMapping_Editor" />
+  <root nodeId="4808699962363388038">
+    <nodeInfo nodeId="4808699962363388054" fileName="AttrToColMapping_Editor.java" startLine="92" startPosition="33" endLine="93" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4808699962363388053" fileName="AttrToColMapping_Editor.java" startLine="92" startPosition="33" endLine="93" endPosition="69" />
+  </root>
+</debugInfo>
+

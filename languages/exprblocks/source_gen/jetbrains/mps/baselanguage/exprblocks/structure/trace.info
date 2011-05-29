@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Exprblocks_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.Exprblocks_Language" />
+  <unitInfo fileName="ExpressionBlockExprRef.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.ExpressionBlockExprRef" />
+  <unitInfo fileName="BlockExpressionYield.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.BlockExpressionYield" />
+  <unitInfo fileName="TransparentBlock.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.TransparentBlock" />
+  <unitInfo fileName="ExpressionBlock.java" startLine="12" startPosition="0" endLine="45" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.ExpressionBlock" />
+  <unitInfo fileName="PlaceholderStatement.java" startLine="15" startPosition="0" endLine="96" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.PlaceholderStatement" />
+  <unitInfo fileName="BlockExpression.java" startLine="16" startPosition="0" endLine="97" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.structure.BlockExpression" />
+</debugInfo>
+

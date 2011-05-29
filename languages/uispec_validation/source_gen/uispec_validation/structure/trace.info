@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Uispec_validation_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="uispec_validation.structure.Uispec_validation_Language" />
+  <unitInfo fileName="IsSetExpression.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="uispec_validation.structure.IsSetExpression" />
+  <unitInfo fileName="LenghtOf.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="uispec_validation.structure.LenghtOf" />
+  <unitInfo fileName="AttributeRefExpr.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="uispec_validation.structure.AttributeRefExpr" />
+  <unitInfo fileName="ValidatedField.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="uispec_validation.structure.ValidatedField" />
+</debugInfo>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Relmapping_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="relmapping.structure.Relmapping_Language" />
+  <unitInfo fileName="NumberType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="relmapping.structure.NumberType" />
+  <unitInfo fileName="CharType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="relmapping.structure.CharType" />
+  <unitInfo fileName="ColumnMapper.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="relmapping.structure.ColumnMapper" />
+  <unitInfo fileName="DataType.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="relmapping.structure.DataType" />
+  <unitInfo fileName="Column.java" startLine="15" startPosition="0" endLine="105" endPosition="0" unitName="relmapping.structure.Column" />
+  <unitInfo fileName="Table.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="relmapping.structure.Table" />
+  <unitInfo fileName="Database.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="relmapping.structure.Database" />
+</debugInfo>
+

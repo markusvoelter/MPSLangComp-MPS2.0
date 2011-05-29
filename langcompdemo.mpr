@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="${project}/languages/blgen/blgen.mpl" folder="basic" />
+      <modulePath path="${project}/languages/entities/entities.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/exprblocks/exprblocks.mpl" folder="basic" />
+      <modulePath path="${project}/languages/expressions/expressions.mpl" folder="basic" />
+      <modulePath path="${project}/languages/naming/naming.mpl" folder="basic" />
+      <modulePath path="${project}/languages/rbac-entities/rbac-entities.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/rbac/rbac.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/relmapping/relmapping.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/relmapping_annotations/relmapping_annotations.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/remapping_entities/remapping_entities.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/simplecalc/simplecalc.mpl" folder="basic" />
+      <modulePath path="${project}/languages/textshape/textshape.mpl" folder="basic" />
+      <modulePath path="${project}/languages/uispec/uispec.mpl" folder="langmod" />
+      <modulePath path="${project}/languages/uispec_validation/uispec_validation.mpl" folder="langmod" />
+      <modulePath path="${project}/solutions/entities.sandbox/entities.sandbox.msd" />
+      <modulePath path="${project}/solutions/rbac_runtime/rbac_runtime.msd" folder="langmod" />
+      <modulePath path="${project}/solutions/tablebaseclasses/tablebaseclasses.msd" folder="basic" />
+    </projectModules>
+    <genConfs />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
+

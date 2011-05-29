@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Rbac_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="rbac.structure.Rbac_Language" />
+  <unitInfo fileName="Resource.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="rbac.structure.Resource" />
+  <unitInfo fileName="UserRef.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="rbac.structure.UserRef" />
+  <unitInfo fileName="Right_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="rbac.structure.Right_PropertySupport" />
+  <unitInfo fileName="Permission.java" startLine="13" startPosition="0" endLine="68" endPosition="0" unitName="rbac.structure.Permission" />
+  <unitInfo fileName="Right.java" startLine="9" startPosition="0" endLine="72" endPosition="0" unitName="rbac.structure.Right" />
+  <unitInfo fileName="RBACSpec.java" startLine="13" startPosition="0" endLine="91" endPosition="0" unitName="rbac.structure.RBACSpec" />
+  <unitInfo fileName="User.java" startLine="15" startPosition="0" endLine="96" endPosition="0" unitName="rbac.structure.User" />
+  <unitInfo fileName="Role.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="rbac.structure.Role" />
+</debugInfo>
+

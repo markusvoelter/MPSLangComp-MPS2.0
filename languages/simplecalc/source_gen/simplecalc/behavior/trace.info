@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="MyOwnDotExpression_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="simplecalc.behavior.MyOwnDotExpression_Behavior" />
+  <unitInfo fileName="VarDecl_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.VarDecl_Behavior" />
+  <unitInfo fileName="StructType_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.StructType_Behavior" />
+  <unitInfo fileName="StructRefExpression_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.StructRefExpression_Behavior" />
+  <unitInfo fileName="VarRefExpression_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.VarRefExpression_Behavior" />
+  <root nodeId="5815279313395687011">
+    <nodeInfo nodeId="5815279313395687020" fileName="VarRefExpression_Behavior.java" startLine="13" startPosition="75" endLine="14" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395687013" fileName="VarRefExpression_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="5815279313395687017" fileName="VarRefExpression_Behavior.java" startLine="13" startPosition="75" endLine="14" endPosition="100" />
+  </root>
+  <root nodeId="5815279313395689807">
+    <scopeInfo nodeId="5815279313395689809" fileName="MyOwnDotExpression_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+  </root>
+  <root nodeId="5815279313395716465">
+    <nodeInfo nodeId="5815279313395716474" fileName="StructRefExpression_Behavior.java" startLine="13" startPosition="75" endLine="14" endPosition="103" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395716467" fileName="StructRefExpression_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="5815279313395716471" fileName="StructRefExpression_Behavior.java" startLine="13" startPosition="75" endLine="14" endPosition="103" />
+  </root>
+  <root nodeId="5856418980158945474">
+    <nodeInfo nodeId="5856418980158964114" fileName="StructType_Behavior.java" startLine="12" startPosition="88" endLine="13" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5856418980158945476" fileName="StructType_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5856418980158964111" fileName="StructType_Behavior.java" startLine="12" startPosition="88" endLine="13" endPosition="96" />
+  </root>
+  <root nodeId="5856418980158996229">
+    <nodeInfo nodeId="5856418980158996238" fileName="VarDecl_Behavior.java" startLine="12" startPosition="89" endLine="13" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5856418980158996231" fileName="VarDecl_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5856418980158996235" fileName="VarDecl_Behavior.java" startLine="12" startPosition="89" endLine="13" endPosition="64" />
+  </root>
+</debugInfo>
+

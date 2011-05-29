@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="18" endPosition="0" unitName="relmapping_annotations.intentions.IntentionsDescriptor" />
+  <unitInfo fileName="toggleColMapping_Intention.java" startLine="13" startPosition="0" endLine="49" endPosition="0" unitName="relmapping_annotations.intentions.toggleColMapping_Intention" />
+  <root nodeId="4808699962363388635">
+    <nodeInfo nodeId="4808699962363397102" fileName="toggleColMapping_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4808699962363397571" fileName="toggleColMapping_Intention.java" startLine="38" startPosition="118" endLine="39" endPosition="134" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4808699962363397588" fileName="toggleColMapping_Intention.java" startLine="40" startPosition="12" endLine="41" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4808699962363397586" fileName="toggleColMapping_Intention.java" startLine="40" startPosition="10" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4808699962363397104" fileName="toggleColMapping_Intention.java" startLine="37" startPosition="76" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="4808699962363388637" fileName="toggleColMapping_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="35" />
+    <scopeInfo nodeId="4808699962363397106" fileName="toggleColMapping_Intention.java" startLine="38" startPosition="118" endLine="39" endPosition="134" />
+    <scopeInfo nodeId="4808699962363397587" fileName="toggleColMapping_Intention.java" startLine="40" startPosition="12" endLine="41" endPosition="155" />
+    <scopeInfo nodeId="4808699962363388639" fileName="toggleColMapping_Intention.java" startLine="37" startPosition="76" endLine="42" endPosition="5" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="4808699962363371932">
+    <nodeInfo nodeId="4808699962363378406" fileName="RbacContext.java" startLine="6" startPosition="35" endLine="7" endPosition="57" />
+    <nodeInfo nodeId="4808699962363378415" fileName="RbacContext.java" startLine="16" startPosition="32" endLine="17" endPosition="34" />
+    <nodeInfo nodeId="4808699962363371940" fileName="RbacContext.java" startLine="8" startPosition="0" endLine="10" endPosition="3" />
+    <nodeInfo nodeId="4808699962363375557" fileName="RbacContext.java" startLine="11" startPosition="0" endLine="15" endPosition="0" />
+    <nodeInfo nodeId="4808699962363378410" fileName="RbacContext.java" startLine="15" startPosition="0" endLine="19" endPosition="0" />
+    <scopeInfo nodeId="4808699962363371943" fileName="RbacContext.java" startLine="9" startPosition="24" endLine="9" endPosition="24" />
+    <scopeInfo nodeId="4808699962363375560" fileName="RbacContext.java" startLine="12" startPosition="62" endLine="13" endPosition="17" />
+    <scopeInfo nodeId="4808699962363378413" fileName="RbacContext.java" startLine="16" startPosition="32" endLine="17" endPosition="34" />
+    <scopeInfo nodeId="4808699962363371940" fileName="RbacContext.java" startLine="8" startPosition="0" endLine="10" endPosition="3" />
+    <scopeInfo nodeId="4808699962363375557" fileName="RbacContext.java" startLine="11" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="4808699962363378431" varName="resId" />
+    </scopeInfo>
+    <scopeInfo nodeId="4808699962363378410" fileName="RbacContext.java" startLine="15" startPosition="0" endLine="19" endPosition="0" />
+    <unitInfo nodeId="4808699962363371932" fileName="RbacContext.java" startLine="6" startPosition="0" endLine="20" endPosition="0" unitName="rbac_rt.RbacContext" />
+  </root>
+</debugInfo>
+

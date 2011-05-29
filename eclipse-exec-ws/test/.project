@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mps-gen</name>
+			<type>2</type>
+			<location>/Users/markus/Documents/mps-demos/MPS-Language-Composition-Demos/solutions/entities.sandbox/source_gen</location>
+		</link>
+		<link>
+			<name>src_rbac_rt</name>
+			<type>2</type>
+			<location>/Users/markus/Documents/mps-demos/MPS-Language-Composition-Demos/solutions/rbac_runtime/source_gen</location>
+		</link>
+	</linkedResources>
+</projectDescription>

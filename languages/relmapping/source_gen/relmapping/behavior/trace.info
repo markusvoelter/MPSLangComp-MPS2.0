@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Column_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="relmapping.behavior.Column_Behavior" />
+  <unitInfo fileName="ColumnMapper_Behavior.java" startLine="13" startPosition="0" endLine="34" endPosition="0" unitName="relmapping.behavior.ColumnMapper_Behavior" />
+  <root nodeId="655010299496087810">
+    <nodeInfo nodeId="655010299496087818" fileName="Column_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="655010299496087812" fileName="Column_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="655010299496087816" fileName="Column_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="155" />
+  </root>
+  <root nodeId="726639030028562149">
+    <nodeInfo nodeId="3423138233967644296" fileName="ColumnMapper_Behavior.java" startLine="20" startPosition="81" endLine="21" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="726639030028566081" fileName="ColumnMapper_Behavior.java" startLine="21" startPosition="30" endLine="22" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="726639030028562151" fileName="ColumnMapper_Behavior.java" startLine="17" startPosition="43" endLine="17" endPosition="43" />
+    <scopeInfo nodeId="726639030028562155" fileName="ColumnMapper_Behavior.java" startLine="20" startPosition="81" endLine="22" endPosition="83" />
+  </root>
+</debugInfo>
+

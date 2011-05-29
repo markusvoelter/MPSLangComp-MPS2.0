@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <option name="myBookmarkInfos">
+      <array>
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+      </array>
+    </option>
+  </component>
+  <component name="BookmarksTool">
+    <option name="myTreeState">
+      <TreeState>
+        <option name="expansion">
+          <list>
+            <option value="/" />
+          </list>
+        </option>
+      </TreeState>
+    </option>
+  </component>
+  <component name="BreakpointManager">
+    <breakpoint kind="JAVA_LINE_BREAKPOINT">
+      <JavaBreakpointInfo>
+        <option name="mySuspendPolicy" value="2" />
+        <option name="myIsLogMessage" value="false" />
+        <option name="myModelReference" value="r:5f76c7dd-5e08-40f3-a141-a9b57d3a7fdb(uispec.constraints)" />
+        <option name="myNodeId" value="517595247550249027" />
+        <option name="myCreationTime" value="1306411785889" />
+        <option name="myIsEnabled" value="true" />
+      </JavaBreakpointInfo>
+    </breakpoint>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17c0d7d6-7c0a-4cb4-b5c8-385f4d48227c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/constraints/.hash.874umtlr4u1n75yr2cbpfnfk4xcz4vi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/editor/.hash.3er419c0fdwut20rrp8lh2yfl6a75yn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/structure/.hash.cnctl7cifcikrky05c5alk2x24x2840" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/typesystem/.hash.-3avo6r9nriouq14jmumcbdtzs5a41f2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/behavior/.hash.-39pnzgmosep0n2s2bfumvav12dkrx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/constraints/.hash.-41ajnpkoxq6pjbej8bmyo37oenev952" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/editor/.hash.-bmygj9qgc57duoiqdt71qkxh3sylmzm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.hash.4l5xrakns1d9w9bvx17adwa8mb9j9v6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/typesystem/.hash.-ie82dk70wz3v6kbd1h3md5udqoqbaq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/behavior/.hash.bc1ijy1x3hdx4998suceaf3k64taml2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/constraints/.hash.-7wo8ucixjubva4s3qyvvwt3fdbjvqfb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/dataFlow/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/dataFlow/.hash.67hyyo5hwipnsg8d6d6skg4i7dks6te" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/editor/.hash.dnlcsywanlusa6d4owh9h6iubrpg9ce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/intentions/.hash.-7jx7ys6yy4mbarb6rvvf4d0a5hnvop2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/structure/.hash.8b8ipsoeiufaxpfrr9ekky2nvggg7np" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/typesystem/.hash.3z7iz9gm7pyxja2rjzzghznh96l3o74" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.hash.b51u805wphkpvn638a0hsudtscj153j" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.hash.-d4fy8u7zzxed9bce8gi85jyfhffbqba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.hash.-3e7imsriwjlmfpf6il0o7mnaquwmyo0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.hash.7rx7b6stm3y2bwjh0p26c0l7uy6b8ry" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.hash.-bglaaszl76uu0dp3hluy1ifq9ld0uc3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/plugin/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/plugin/.hash.-8kxpu9gnczjj2maep1fgfuw1sysiqlp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.hash.6im82ncsnrgpmcn8x67pawy3w26hugu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.hash.-b8xi0h1ev82pfdlld91b19hnv65c1w0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/constraints/BinaryExpression_alias_PropertyConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.hash.b2p9wryrdkf0261q9wv14ifk1ehvh6z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/constraints/.hash.-8p8x8bib20y91n93hs5ufj5a1ovwv3d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/editor/.hash.-5w61dq40sg4xui47l3lnfc5r3qxdsdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.hash.-3s1d0jlfusf43bgk8cuk9st68e4fcbz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/structure/.hash.-85lvy1y9k4jat2czxin78pj1l4min69" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.hash.-8rpo4beipbvrj6bkwe7pr6sz6l3nrfy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/constraints/IQualifiedNamedConcept_name_PropertyConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/constraints/NamespaceImport_namespace_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/constraints/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/constraints/.hash.3q9thhx2216dpcdkf649z4gkwucfpe7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/editor/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/editor/.hash.eea5zygi6go6vt6kdjeern484rbtzoo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/structure/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/structure/.hash.-9s0ylqe2mo9jebsm3ztyy24hk3nbi5p" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/typesystem/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac-entities/typesystem/.hash.d9dmndvq1a1nchuxjmwthf9i92cuyt8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/constraints/.hash.-4gocf1fl09f9eo5mcwzi1kg52x5o8j4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/editor/.hash.-dz6ycajshx8nyr9jthcdin42uj2m7k6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/rt/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/rt/.hash.7k0zn587zmzfxs3pmpunxbmxbji7yiv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/structure/.hash.6makybmyoxdtj52j7dgwmypkoelfxov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/typesystem/.hash.en9na0nenb5etogs9q0zpghp5u6iavq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen/rbac_entities/constraints/AttributeResource_attribute_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen/rbac_entities/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/constraints/.hash.-bg8rqdu3srmfquabdu9ani3xinn6d6a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/editor/.hash.278q6k17q4byft2ixc3429iqs5xb063" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/structure/.hash.-et5ct4cwc985yitieqyeny9wou6og81" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/typesystem/.hash.-2b7us8afohc9gnfrdnbf3ihukfteixw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.hash.-ch5a8mecj8bry6jt9ecgt0ppovam9c9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/constraints/.hash.bl698xxud6cml7pl91m0niv651ld25t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/editor/.hash.dqlvqiqi0uozvee6tbfdi0fqtv05zwi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/structure/.hash.-dv03q5hysn1iqffrdwxh24sc97ac2hi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/typesystem/.hash.1chyqjmndi3a1zds704ngb8atg02o2b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/constraints/.hash.ax8tjilgg7h9y8u65tveij0s02zrsqr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/editor/.hash.-8596jhntylvmo4hkckpw54wlbzudpb0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.hash.14fs3l69pvnab80amjsqouunieh05qz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/structure/.hash.1c0wbyocli5pnvomkwev2ysni069xf3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/typesystem/.hash.8d22bdrdfypq0u0mv41fw81lejea5br" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen/relmapping_annotations/constraints/AttrToColMapping_column_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen/relmapping_annotations/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/behavior/.hash.-9nxh2czjylt28wtlgyrsz3yheb9hq0t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/constraints/.hash.4ubld3qe0t02w2rzvmfa6jfi1ckjswa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/editor/.hash.ebefdvpsrse3r23dx3tzstxnrmvlder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/structure/.hash.d41lp64yy3l2azigpzkheerxrf86vcx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/typesystem/.hash.-e8fgbovennxvpguty0afydvtgxk819s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/constraints/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/constraints/.hash.-55lfsctoa2vdumg788xtitmluw8590a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/editor/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/editor/.hash.8b8lqv01uelc9i8a5ojy3myyimtzxpm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/structure/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/remapping_entities/structure/.hash.-6uwp5i2ugs30zzx9ko4dw8qniz5wmqk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen/relmapping_entities/constraints/AttributeColMapping_attribute_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen/relmapping_entities/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/behavior/.hash.-bjhzflohgz7xmynnrwvzrbdkwi104fm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/constraints/.hash.-19vkj8xw1ttu4zuwdqw1jtp50agb9tq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.hash.clr4y9e4kpn0bsvr98hgrw4ch3xw7re" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.hash.-8a3ivgmv6lgvd9cjpldgzpx5c4wwbag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.hash.8ho69xhjzjkpk4bjnekv9a2frn05z5h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/typesystem/.hash.48cycy0jkvtblvaeki656io1eglj7q2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/constraints/StructMember_name_PropertyConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/constraints/VarRefExpression_var_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/behavior/.hash.-eems0xisy84lamjtbm1t81eh7kzs9zd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/editor/.hash.arl8xf6adqxb31dob6he3x1rer03akc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.hash.49qofg7qt105cnbpw5xswyiv8rafqo1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/structure/.hash.-dto5uulrcffhw12qwa32jauwf8gcdwy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/textGen/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/textGen/.hash.-e0daokhcgnsg6vf37fx9frh05gkjrwc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/behavior/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/behavior/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/behavior/.hash.en2df3v8z2cgneu04xba01a8tcbbbd3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/editor/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/editor/.hash.b8gg0aq02amo6ircmc2stg11ta66478" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/structure/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/structure/.hash.-23ii86w0eudni6bujcskfjpgkxez0c3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/textGen/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/textGen/.dependencies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/textshape/textGen/.hash.-2bxl25m9optsyub24eak391jxumtyzs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/behavior/File_Behavior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/behavior/IFileContent_Behavior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/File_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/IndentedBlock_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/Line_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/List_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/MultiTextToken_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/PascalDeclaration_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/SingleTextToken_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/editor/While_Editor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/File.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/IFileContent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/IStatement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/IndentedBlock.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/Line.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/List.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/MultiTextToken.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/PascalDeclaration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/SingleTextToken.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/TextToken.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/Textshape_Language.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/structure/While.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/File_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/IndentedBlock_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/Line_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/MultiTextToken_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/PascalDeclaration_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/SingleTextToken_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/textshape/textGen/While_TextGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/constraints/.hash.4rtvw6xf87f3u69bc5u26spjl9dpdwj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/editor/.hash.2h26ybgozfhxta7154u0x5cuh96ktp0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/structure/.hash.-ev36eqs1nhokc5fr6qow8sq2bnsek1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/typesystem/.hash.4bz12te6dx693bkaw22cov31zcx75qc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/constraints/Field_attribute_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.hash.-6sv2qsirg7p9pb51yfn8vsgz1mmp10w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/editor/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/editor/.hash.-93m3r35u274g22ym3xy8nu86fhgrjuc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.hash.eudfwswc9exmhr0e2p6oqqvjjmw06eg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/structure/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/structure/.hash.-316tyjgzdq9mimksdafvy2agh6b5rir" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.hash.5valp9s5btad3mqtpn7sy6iclfzs21r" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/constraints/AttributeRefExpr_attr_ReferentConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/constraints/ConstraintsDescriptor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/entities/sandbox/sandbox.metadata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.debug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.hash.-7q32omd4ns2znj7ujva0u8w799y29k2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.dependencies" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/editor/.dependencies" afterPath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/editor/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/rbac/source_gen.caches/rbac/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.dependencies" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.dependencies" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/generator/template/config/.hash.6kwe2v7i7ejslrqfq5xjdt8yjr7otwr" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/generator/template/config/.hash.6kwe2v7i7ejslrqfq5xjdt8yjr7otwr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/behavior/.dependencies" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/behavior/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/structure/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langcompdemo.iws" afterPath="$PROJECT_DIR$/langcompdemo.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langcompdemo.mpr" afterPath="$PROJECT_DIR$/langcompdemo.mpr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/blgen.mpl" afterPath="$PROJECT_DIR$/languages/blgen/blgen.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/blgen/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/blgen/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/blgen/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/blgen/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/blgen/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/entities.mpl" afterPath="$PROJECT_DIR$/languages/entities/entities.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/entities/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Attribute_Editor.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Attribute_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Entity_Editor.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Entity_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Module_Editor.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/editor/Module_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Attribute.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Attribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Entity.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Entity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Module.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/structure/Module.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/typesystem/typeof_Attribute_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/typesystem/typeof_Attribute_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen/entities/typesystem/typeof_Type_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/entities/source_gen/entities/typesystem/typeof_Type_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/exprblocks.mpl" afterPath="$PROJECT_DIR$/languages/exprblocks/exprblocks.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/dataFlow.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/dataFlow.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/exprblocks/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/constraints/ExpressionBlockExprRef_Constraints.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/constraints/ExpressionBlockExprRef_Constraints.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/editor/BlockExpression_Editor.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/editor/BlockExpression_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/structure/BlockExpression.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/structure/BlockExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/structure/PlaceholderStatement.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/structure/PlaceholderStatement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExprResultRef_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExprResultRef_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExpressionYield_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExpressionYield_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen/jetbrains/mps/baselanguage/exprblocks/typesystem/typeof_BlockExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/expressions.mpl" afterPath="$PROJECT_DIR$/languages/expressions/expressions.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/actions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/plugin.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/plugin.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/BinaryExpression_Behavior.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/BinaryExpression_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/IMemberContainer_Behavior.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/IMemberContainer_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/ISimpleText_Behavior.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/behavior/ISimpleText_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/BooleanType.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/BooleanType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/IntType.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/IntType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/Literal.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/Literal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/MemberAccessExpression.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/MemberAccessExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/PrimitiveType.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/PrimitiveType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/checkForChildrenInstanceOf_NonTypesystemRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/checkForChildrenInstanceOf_NonTypesystemRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/check_MemberAccessExpression_NonTypesystemRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/check_MemberAccessExpression_NonTypesystemRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryArithmeticExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryArithmeticExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryComparisonExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryComparisonExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BooleanLiteral_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_BooleanLiteral_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_IfExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_IfExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_IntegerLiteral_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_IntegerLiteral_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_MemberAccessExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_MemberAccessExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_ParensExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_ParensExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_PrimitiveType_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_PrimitiveType_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_StringLiteral_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/typeof_StringLiteral_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/naming/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/naming.mpl" afterPath="$PROJECT_DIR$/languages/naming/naming.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/INamespaceContent_Behavior.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/INamespaceContent_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/INamespace_Behavior.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/INamespace_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/IQualifiedNamedConcept_Behavior.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/behavior/IQualifiedNamedConcept_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/editor/Namespace_Editor.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/editor/Namespace_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/structure/Namespace.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/structure/Namespace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/typesystem/check_IQualifiedNamedConcept_NonTypesystemRule.java" afterPath="$PROJECT_DIR$/languages/naming/source_gen/de/voelter/mps/naming/typesystem/check_IQualifiedNamedConcept_NonTypesystemRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/languageModels/rt.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/languageModels/rt.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/rbac-entities/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/rbac-entities.mpl" afterPath="$PROJECT_DIR$/languages/rbac-entities/rbac-entities.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/rbac/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/rbac/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/rbac/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/rbac/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/rbac.mpl" afterPath="$PROJECT_DIR$/languages/rbac/rbac.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/Permission_Editor.java" afterPath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/Permission_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/RBACSpec_Editor.java" afterPath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/RBACSpec_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/Role_Editor.java" afterPath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/Role_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/structure/Role.java" afterPath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/structure/Role.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/structure/User.java" afterPath="$PROJECT_DIR$/languages/rbac/source_gen/rbac/structure/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/relmapping/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/relmapping/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/relmapping/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/relmapping/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/relmapping/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/relmapping/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/relmapping.mpl" afterPath="$PROJECT_DIR$/languages/relmapping/relmapping.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/behavior/ColumnMapper_Behavior.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/behavior/ColumnMapper_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Column_Editor.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Column_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Database_Editor.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Database_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Table_Editor.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/editor/Table_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/generator/template/main/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Column.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Column.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Database.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Table.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/structure/Table.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_CharType_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_CharType_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_ColumnMapper_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_ColumnMapper_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_Column_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_Column_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_NumberType_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen/relmapping/typesystem/typeof_NumberType_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/relmapping_annotations.mpl" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/relmapping_annotations.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/remapping_entities/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/remapping_entities.mpl" afterPath="$PROJECT_DIR$/languages/remapping_entities/remapping_entities.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen/relmapping_entities/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/remapping_entities/source_gen/relmapping_entities/generator/template/main/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/simplecalc/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/simplecalc.mpl" afterPath="$PROJECT_DIR$/languages/simplecalc/simplecalc.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/Calculation_Editor.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/Calculation_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/StructMember_Editor.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/StructMember_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/Struct_Editor.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/Struct_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/VarDecl_Editor.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/editor/VarDecl_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/Calculation.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/Calculation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/MyOwnDotExpression.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/MyOwnDotExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/Struct.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/Struct.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructMember.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructMember.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructMemberAccess.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructMemberAccess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructRefExpression.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructRefExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructType.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/StructType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/SysContent.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/SysContent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/VarDecl.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/VarDecl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/VarRefExpression.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/structure/VarRefExpression.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_Calculation_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_Calculation_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_MyOwnDotExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_MyOwnDotExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructMemberAccess_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructMemberAccess_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructMember_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructMember_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructRefExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_StructRefExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_VarDecl_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_VarDecl_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_VarRefExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen/simplecalc/typesystem/typeof_VarRefExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/textshape/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/textshape/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/textshape/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/textshape/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/languageModels/textGen.mps" afterPath="$PROJECT_DIR$/languages/textshape/languageModels/textGen.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/behavior/IFileContent_Behavior.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/behavior/IFileContent_Behavior.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/File_Editor.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/File_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/IndentedBlock_Editor.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/IndentedBlock_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/List_Editor.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/List_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/MultiTextToken_Editor.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/MultiTextToken_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/PascalDeclaration_Editor.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/editor/PascalDeclaration_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/intentions/makeStatement_Intention.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/intentions/makeStatement_Intention.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/File.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/File.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/IndentedBlock.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/IndentedBlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/Line.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/Line.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/List.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/List.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/MultiTextToken.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/MultiTextToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/PascalDeclaration.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/PascalDeclaration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/PlaceHolder.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/PlaceHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/Statement.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/Statement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/TextShapeConfig.java" afterPath="$PROJECT_DIR$/languages/textshape/source_gen/de/voelter/mps/textshape/structure/TextShapeConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/textshape.mpl" afterPath="$PROJECT_DIR$/languages/textshape/textshape.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/uispec/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/uispec/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/uispec/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/uispec/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/uispec/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/ComboWidget_Editor.java" afterPath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/ComboWidget_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/Field_Editor.java" afterPath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/Field_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/Form_Editor.java" afterPath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/editor/Form_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/structure/Form.java" afterPath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/structure/Form.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/typesystem/checkTypes_NonTypesystemRule.java" afterPath="$PROJECT_DIR$/languages/uispec/source_gen/uispec/typesystem/checkTypes_NonTypesystemRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/uispec.mpl" afterPath="$PROJECT_DIR$/languages/uispec/uispec.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/languageModels/constraints.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/languageModels/intentions.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/languageModels/intentions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/uispec_validation/languageModels/typesystem.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/constraints/ValidatedField_Constraints.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/constraints/ValidatedField_Constraints.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/editor/ValidatedField_Editor.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/editor/ValidatedField_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_AttributeRefExpr_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_AttributeRefExpr_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_IsSetExpression_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_IsSetExpression_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_LenghtOf_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_LenghtOf_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_ValidatedField_InferenceRule.java" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen/uispec_validation/typesystem/typeof_ValidatedField_InferenceRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/uispec_validation.mpl" afterPath="$PROJECT_DIR$/languages/uispec_validation/uispec_validation.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/entities.sandbox.msd" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/entities.sandbox.msd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/entities/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/entities/sandbox/sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyDBAdapter.java" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyDBAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyStructure.java" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyStructure.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/rbac_runtime/rbac_rt.mps" afterPath="$PROJECT_DIR$/solutions/rbac_runtime/rbac_rt.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/rbac_runtime/rbac_runtime.msd" afterPath="$PROJECT_DIR$/solutions/rbac_runtime/rbac_runtime.msd" />
+    </list>
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="langcompdemo.iws" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DefaultSearchOptionsComponent">
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.FindersOptions">
+      <finders>
+        <finder class_name="jetbrains.mps.lang.structure.findUsages.NodeUsages_Finder" />
+        <finder class_name="jetbrains.mps.lang.structure.findUsages.ConceptInstances_Finder" />
+      </finders>
+    </option>
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ViewOptions">
+      <flags show_one_result="true" new_tab="false" />
+    </option>
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ScopeOptions">
+      <scope_type scope_type="project_scope" module="&lt;default&gt;" model="&lt;default&gt;" />
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="company" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://entities.sandbox.sandbox/company">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="47" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                    </cellInfo>
+                  </stackElement>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="selectionEnd" value="2" />
+                    <property name="hasNonTrivialSelection" value="true" />
+                    <property name="selectionStart" value="0" />
+                    <property name="caretX" value="47" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                    </cellInfo>
+                  </stackElement>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="0" />
+                    <cellInfo cellId="Collection_mc4j88_a" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyStructure.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MessagesViewTool">
+    <option name="autoscrollToSource" value="true" />
+    <option name="info" value="true" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectPluginManager">
+    <option name="pluginsState">
+      <option name="jetbrains.mps.baseLanguage.collections.plugin.Collections_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.collections.trove.plugin.Trove_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.dates.plugin.Dates_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.plugin.BaseLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.runConfigurations.plugin.RunConfigurations_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.tuples.plugin.Tuples_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.unitTest.plugin.UnitTest_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.baseLanguage.unitTest.plugin.JUnitTestActionOptions_PreferencesComponent" />
+                  <params>
+                    <option name="isHidePassed" value="false" />
+                    <option name="isSelectFirstFailed" value="false" />
+                    <option name="isTrackRunning" value="false" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.custommps.plugin.Custommps_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.generictasks.plugin.Generictasks_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.packaging.plugin.Packaging_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.buildlanguage.plugin.Buildlanguage_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.buildlanguage.plugin.AntRunnerPreferences_PreferencesComponent" />
+                  <params>
+                    <option name="data">
+                      <map />
+                    </option>
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.debugger.api.ui.actions.Api_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.actions.Ide_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.ide.actions.PersistentOptions_PreferencesComponent" />
+                  <params>
+                    <option name="addReturnsOnImplement" value="false" />
+                    <option name="sortAlphabetically" value="false" />
+                    <option name="addOverrideAnnotation" value="true" />
+                    <option name="removeAttributes" value="true" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.devkit.actions.Mpsdevkit_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.editor.actions.Editor_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.java.actions.Java_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.make.actions.Make_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.migration.actions.Migration_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.modelchecker.actions.Modelchecker_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.actions.plugin.Actions_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.behavior.plugin.Behavior_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.constraints.plugin.Constraints_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.core.plugin.Core_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.dataFlow.plugin.DataFlow_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.editor.plugin.Editor_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.findUsages.plugin.FindUsages_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.generator.plugin.Generator_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.intentions.plugin.Intentions_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.quotation.plugin.Quotation_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.refactoring.plugin.Refactoring_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.script.plugin.Script_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.smodel.plugin.Smodel_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.structure.plugin.Structure_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.stubs.plugin.Stubs_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.test.plugin.Test_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.textGen.plugin.TextGen_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.typesystem.plugin.Typesystem_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.make.facet.plugin.Facet_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.quickQueryLanguage.plugin.QuickQueryLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.gwt.plugin.Gwt_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.modeling.plugin.Modeling_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.plugin.Ui_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.swing.plugin.Swing_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.swt.plugin.Swt_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.uiLanguage.plugin.UiLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.vcs.plugin.Vcs_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ypath.plugin.Ypath_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+    </option>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Favorites">
+        <subPane />
+      </pane>
+      <pane id="FileSystem">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities.sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities.sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities.sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities.sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langmod" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langmod" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uispec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langmod" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uispec" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constraints" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="langcompdemo" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="VCSRoots" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="mps.editor.settings" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="MPS.Unnamed">
+    <configuration default="true" type="JavaApplication" factoryName="Java Application">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="true" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodeId" />
+        <option name="modelId" />
+      </MyState>
+      <method>
+        <option name="Legacy" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MPS" factoryName="MPS Instance">
+      <MyState>
+        <option name="myVmOptions" />
+        <option name="myJrePath" />
+        <option name="mySystemPath" value="$USER_HOME$/.MPSDebug1x/system" />
+        <option name="myConfigurationPath" value="$USER_HOME$/.MPSDebug1x/config" />
+      </MyState>
+      <method />
+    </configuration>
+    <configuration default="false" name="CompanyStructure" type="JavaApplication" factoryName="Java Application">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" value="" />
+            <option name="alternativeJRE" value="" />
+            <option name="make" value="false" />
+            <option name="programParameters" value="" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" value="" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodeId" />
+        <option name="modelId" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="MPS" factoryName="MPS Instance">
+      <MyState>
+        <option name="myVmOptions" value="-client -Xss1024k -ea -Xmx1200m -XX:MaxPermSize=150m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8" />
+        <option name="myJrePath" value="" />
+        <option name="mySystemPath" value="$USER_HOME$/.MPSDebug1x/system" />
+        <option name="myConfigurationPath" value="$USER_HOME$/.MPSDebug1x/config" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Debug Runner" />
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Debug Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Java Application.CompanyStructure" />
+      <item index="1" class="java.lang.String" itemvalue="MPS.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1366" height="742" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.49701938" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32589287" sideWeight="0.3099851" order="22" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32927758" sideWeight="0.6" order="3" side_tool="false" content_ui="tabs" x="705" y="117" width="626" height="554" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44615385" sideWeight="0.4314456" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962743" sideWeight="0.55230767" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26602086" sideWeight="0.6" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49701938" order="27" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.39269745" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.4880775" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="MPS Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.54694486" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Concept Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5089419" order="21" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.48509687" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UsagesViewTool">
+    <version id="0.9997" />
+    <tabs />
+    <default_view_options>
+      <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+    </default_view_options>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://jetbrains.mps.lang.editor.table.runtime/Utils">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="367" />
+                <cellInfo cellId="Constant_avk0kx_d0" cellNumber="0" isInList="false">
+                  <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="1106247515661683534" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="367" />
+                <cellInfo cellId="Constant_avk0kx_d0" cellNumber="0" isInList="false">
+                  <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="1106247515661683534" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/Resource">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" id="517595247550295581" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" id="517595247550295581" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550295581" modelId="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.debug.evaluation/com.sun.tools.javac.util@java_stub/List">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#com.sun.tools.javac.util(JDK/com.sun.tools.javac.util@java_stub)" id="611933243531361785" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#com.sun.tools.javac.util(JDK/com.sun.tools.javac.util@java_stub)" id="611933243531361785" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/User">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550292912" modelId="r:aa96f9ee-d707-42de-a2f6-fe205af531d8(rbac.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://tbcmain/XYCustomTableModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="55" />
+                <cellInfo cellId="Constant_eb7h0d_c4a" cellNumber="0" isInList="false">
+                  <node model="r:d5e468a9-0b87-4ddf-8a7a-247187edd32b(tbcmain)" id="5651902197461580156" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="55" />
+                <cellInfo cellId="Constant_eb7h0d_c4a" cellNumber="0" isInList="false">
+                  <node model="r:d5e468a9-0b87-4ddf-8a7a-247187edd32b(tbcmain)" id="5651902197461580156" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/RBACSpec">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550292925" modelId="r:aa96f9ee-d707-42de-a2f6-fe205af531d8(rbac.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/Role">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" id="517595247550292900" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" id="517595247550292900" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550292900" modelId="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/UserRef">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="611933243531388604" modelId="r:aa96f9ee-d707-42de-a2f6-fe205af531d8(rbac.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/rbac/source_gen/rbac/editor/RBACSpec_Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="23" selection-start="7246" selection-end="7246" vertical-scroll-proportion="0.036585364" />
+      </provider>
+    </entry>
+    <entry file="mps://rbac.structure/Permission">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550295586" modelId="r:aa96f9ee-d707-42de-a2f6-fe205af531d8(rbac.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/tablebaseclasses/source_gen/tbcmain/FlatTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="24" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.03448276" />
+      </provider>
+    </entry>
+    <entry file="mps://tbcmain/FlatTableModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="63" />
+                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
+                  <node model="r:d5e468a9-0b87-4ddf-8a7a-247187edd32b(tbcmain)" id="611933243531380793" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="63" />
+                <cellInfo cellId="Constant_7h2wce_a" cellNumber="0" isInList="false">
+                  <node model="r:d5e468a9-0b87-4ddf-8a7a-247187edd32b(tbcmain)" id="611933243531380793" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/RBACSpec">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <cellInfo cellId="Constant_idjs6n_a0" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="5359815737040718497" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <cellInfo cellId="Constant_idjs6n_a0" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="5359815737040718497" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.structure/Attribute">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="147" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:63ac29a9-7475-4c4e-8661-1e70b28db0f1(entities.behavior)" id="814100379888502465" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="147" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:63ac29a9-7475-4c4e-8661-1e70b28db0f1(entities.behavior)" id="814100379888502465" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="814100379888502465" modelId="r:63ac29a9-7475-4c4e-8661-1e70b28db0f1(entities.behavior)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://uispec.structure/Field">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="95" />
+                <cellInfo cellId="Constant_pv0rjz_a0" cellNumber="0" isInList="false">
+                  <node model="r:5f76c7dd-5e08-40f3-a141-a9b57d3a7fdb(uispec.constraints)" id="517595247550252044" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="95" />
+                <cellInfo cellId="Constant_pv0rjz_a0" cellNumber="0" isInList="false">
+                  <node model="r:5f76c7dd-5e08-40f3-a141-a9b57d3a7fdb(uispec.constraints)" id="517595247550252044" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="517595247550248482" modelId="r:5f76c7dd-5e08-40f3-a141-a9b57d3a7fdb(uispec.constraints)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/company">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="47" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="2" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="47" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <cellInfo cellId="Collection_mc4j88_a" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="8607297853667757875" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

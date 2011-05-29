@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AttributeRefExpr_Editor.java" startLine="66" startPosition="85" endLine="77" endPosition="7" unitName="uispec_validation.editor.AttributeRefExpr_Editor$1" />
+  <unitInfo fileName="ValidatedField_Editor.java" startLine="169" startPosition="85" endLine="180" endPosition="7" unitName="uispec_validation.editor.ValidatedField_Editor$1" />
+  <unitInfo fileName="AttributeRefExpr_Editor.java" startLine="52" startPosition="0" endLine="83" endPosition="0" unitName="uispec_validation.editor.AttributeRefExpr_Editor$_Inline_6a318w_a0a" />
+  <unitInfo fileName="ValidatedField_Editor.java" startLine="155" startPosition="0" endLine="186" endPosition="0" unitName="uispec_validation.editor.ValidatedField_Editor$_Inline_5ktzuo_a5a" />
+  <unitInfo fileName="IsSetExpression_Editor.java" startLine="18" startPosition="0" endLine="80" endPosition="0" unitName="uispec_validation.editor.IsSetExpression_Editor" />
+  <unitInfo fileName="LenghtOf_Editor.java" startLine="18" startPosition="0" endLine="80" endPosition="0" unitName="uispec_validation.editor.LenghtOf_Editor" />
+  <unitInfo fileName="AttributeRefExpr_Editor.java" startLine="22" startPosition="0" endLine="84" endPosition="0" unitName="uispec_validation.editor.AttributeRefExpr_Editor" />
+  <unitInfo fileName="ValidatedField_Editor.java" startLine="29" startPosition="0" endLine="187" endPosition="0" unitName="uispec_validation.editor.ValidatedField_Editor" />
+  <root nodeId="814100379888667799">
+    <nodeInfo nodeId="814100379888667817" fileName="ValidatedField_Editor.java" startLine="170" startPosition="33" endLine="171" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="814100379888667816" fileName="ValidatedField_Editor.java" startLine="170" startPosition="33" endLine="171" endPosition="72" />
+  </root>
+  <root nodeId="814100379888678038">
+    <nodeInfo nodeId="814100379888678096" fileName="AttributeRefExpr_Editor.java" startLine="67" startPosition="33" endLine="68" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="814100379888678095" fileName="AttributeRefExpr_Editor.java" startLine="67" startPosition="33" endLine="68" endPosition="72" />
+  </root>
+</debugInfo>
+

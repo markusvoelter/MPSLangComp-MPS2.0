@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.naming.typesystem.TypesystemDescriptor" />
+  <unitInfo fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="24" startPosition="0" endLine="66" endPosition="0" unitName="de.voelter.mps.naming.typesystem.check_IQualifiedNamedConcept_NonTypesystemRule" />
+  <root nodeId="5019556274771897635">
+    <nodeInfo nodeId="5019556274771897638" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="28" startPosition="115" endLine="29" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898076" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="31" startPosition="141" endLine="32" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898098" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="32" startPosition="67" endLine="33" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898126" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="35" startPosition="99" endLine="36" endPosition="140" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898168" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="38" startPosition="15" endLine="39" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898168" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="39" startPosition="68" endLine="40" endPosition="229" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771898159" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="42" startPosition="20" endLine="43" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5019556274771898157" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="42" startPosition="18" endLine="44" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5019556274771898168" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="37" startPosition="60" endLine="41" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5019556274771898144" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="36" startPosition="140" endLine="44" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5019556274771898115" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="34" startPosition="57" endLine="45" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5019556274771898088" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="33" startPosition="71" endLine="46" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="5019556274771897664" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="30" startPosition="106" endLine="47" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5019556274771897650" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="29" startPosition="62" endLine="48" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <scopeInfo nodeId="5019556274771898158" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="42" startPosition="20" endLine="43" endPosition="58" />
+    <scopeInfo nodeId="5019556274771898168" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="38" startPosition="15" endLine="40" endPosition="229" />
+    <scopeInfo nodeId="5019556274771898145" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="37" startPosition="60" endLine="41" endPosition="15" />
+    <scopeInfo nodeId="5019556274771898117" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="35" startPosition="99" endLine="44" endPosition="13">
+      <varInfo nodeId="5019556274771898127" varName="name" />
+    </scopeInfo>
+    <scopeInfo nodeId="5019556274771898091" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="34" startPosition="57" endLine="45" endPosition="11" />
+    <scopeInfo nodeId="5019556274771898088" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="33" startPosition="71" endLine="46" endPosition="9" />
+    <scopeInfo nodeId="5019556274771897666" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="31" startPosition="141" endLine="46" endPosition="9">
+      <varInfo nodeId="5019556274771898099" varName="names" />
+      <varInfo nodeId="5019556274771898077" varName="children" />
+    </scopeInfo>
+    <scopeInfo nodeId="5019556274771897653" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="30" startPosition="106" endLine="47" endPosition="7" />
+    <scopeInfo nodeId="5019556274771897650" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="29" startPosition="62" endLine="48" endPosition="5" />
+    <scopeInfo nodeId="5019556274771897636" fileName="check_IQualifiedNamedConcept_NonTypesystemRule.java" startLine="28" startPosition="115" endLine="48" endPosition="5">
+      <varInfo nodeId="5019556274771897639" varName="concept" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+

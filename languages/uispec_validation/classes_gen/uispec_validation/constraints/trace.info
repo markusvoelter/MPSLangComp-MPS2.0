@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ValidatedField_Constraints.java" startLine="45" startPosition="15" endLine="55" endPosition="5" unitName="uispec_validation.constraints.ValidatedField_Constraints$1" />
+  <unitInfo fileName="AttributeRefExpr_Constraints.java" startLine="69" startPosition="27" endLine="96" endPosition="5" unitName="uispec_validation.constraints.AttributeRefExpr_Constraints$1" />
+  <unitInfo fileName="ValidatedField_Constraints.java" startLine="22" startPosition="0" endLine="87" endPosition="0" unitName="uispec_validation.constraints.ValidatedField_Constraints" />
+  <unitInfo fileName="AttributeRefExpr_Constraints.java" startLine="27" startPosition="0" endLine="100" endPosition="0" unitName="uispec_validation.constraints.AttributeRefExpr_Constraints" />
+  <root nodeId="2745426714000066682">
+    <nodeInfo nodeId="2745426714000077117" fileName="ValidatedField_Constraints.java" startLine="83" startPosition="122" endLine="84" endPosition="285" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="2745426714000077094" fileName="ValidatedField_Constraints.java" startLine="83" startPosition="122" endLine="84" endPosition="285" />
+  </root>
+  <root nodeId="814100379888678043">
+    <nodeInfo nodeId="814100379888678082" fileName="AttributeRefExpr_Constraints.java" startLine="74" startPosition="133" endLine="75" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="814100379888678047" fileName="AttributeRefExpr_Constraints.java" startLine="84" startPosition="136" endLine="85" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="814100379888678053" fileName="AttributeRefExpr_Constraints.java" startLine="85" startPosition="49" endLine="86" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="814100379888678066" fileName="AttributeRefExpr_Constraints.java" startLine="87" startPosition="81" endLine="88" endPosition="168" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="814100379888678078" fileName="AttributeRefExpr_Constraints.java" startLine="89" startPosition="9" endLine="90" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="814100379888678062" fileName="AttributeRefExpr_Constraints.java" startLine="86" startPosition="116" endLine="89" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <scopeInfo nodeId="814100379888678081" fileName="AttributeRefExpr_Constraints.java" startLine="74" startPosition="133" endLine="75" endPosition="93" />
+    <scopeInfo nodeId="814100379888678065" fileName="AttributeRefExpr_Constraints.java" startLine="87" startPosition="81" endLine="88" endPosition="168" />
+    <scopeInfo nodeId="814100379888678062" fileName="AttributeRefExpr_Constraints.java" startLine="86" startPosition="116" endLine="89" endPosition="9">
+      <varInfo nodeId="814100379888678063" varName="er" />
+    </scopeInfo>
+    <scopeInfo nodeId="814100379888678046" fileName="AttributeRefExpr_Constraints.java" startLine="84" startPosition="136" endLine="90" endPosition="19">
+      <varInfo nodeId="814100379888678048" varName="res" />
+      <varInfo nodeId="814100379888678054" varName="form" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+

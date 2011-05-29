@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="PlaceHolder_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="de.voelter.mps.textshape.editor.PlaceHolder_Editor" />
+  <unitInfo fileName="SingleTextToken_Editor.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.textshape.editor.SingleTextToken_Editor" />
+  <unitInfo fileName="Line_Editor.java" startLine="15" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.textshape.editor.Line_Editor" />
+  <unitInfo fileName="NeedsBlankLink_Editor.java" startLine="17" startPosition="0" endLine="48" endPosition="0" unitName="de.voelter.mps.textshape.editor.NeedsBlankLink_Editor" />
+  <unitInfo fileName="File_Editor.java" startLine="153" startPosition="0" endLine="185" endPosition="0" unitName="de.voelter.mps.textshape.editor.File_Editor$_Inline_jqfb9k_a5a0" />
+  <unitInfo fileName="MultiTextToken_Editor.java" startLine="104" startPosition="0" endLine="139" endPosition="0" unitName="de.voelter.mps.textshape.editor.MultiTextToken_Editor$tokensListHandler_f08x58_a0" />
+  <unitInfo fileName="IndentedBlock_Editor.java" startLine="154" startPosition="0" endLine="189" endPosition="0" unitName="de.voelter.mps.textshape.editor.IndentedBlock_Editor$contentsListHandler_j8vmit_b2a" />
+  <unitInfo fileName="File_Editor.java" startLine="186" startPosition="0" endLine="221" endPosition="0" unitName="de.voelter.mps.textshape.editor.File_Editor$contentsListHandler_jqfb9k_c0" />
+  <unitInfo fileName="List_Editor.java" startLine="235" startPosition="0" endLine="270" endPosition="0" unitName="de.voelter.mps.textshape.editor.List_Editor$elementsListHandler_6m31uf_c0" />
+  <unitInfo fileName="PascalDeclaration_Editor.java" startLine="17" startPosition="0" endLine="91" endPosition="0" unitName="de.voelter.mps.textshape.editor.PascalDeclaration_Editor" />
+  <unitInfo fileName="MultiTextToken_Editor.java" startLine="29" startPosition="0" endLine="140" endPosition="0" unitName="de.voelter.mps.textshape.editor.MultiTextToken_Editor" />
+  <unitInfo fileName="IndentedBlock_Editor.java" startLine="30" startPosition="0" endLine="190" endPosition="0" unitName="de.voelter.mps.textshape.editor.IndentedBlock_Editor" />
+  <unitInfo fileName="File_Editor.java" startLine="28" startPosition="0" endLine="222" endPosition="0" unitName="de.voelter.mps.textshape.editor.File_Editor" />
+  <unitInfo fileName="List_Editor.java" startLine="26" startPosition="0" endLine="271" endPosition="0" unitName="de.voelter.mps.textshape.editor.List_Editor" />
+  <unitInfo fileName="TextShapeConfig_Editor.java" startLine="18" startPosition="0" endLine="265" endPosition="0" unitName="de.voelter.mps.textshape.editor.TextShapeConfig_Editor" />
+  <root nodeId="369287372546186860">
+    <nodeInfo nodeId="5815279313395709500" fileName="MultiTextToken_Editor.java" startLine="100" startPosition="111" endLine="101" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395709499" fileName="MultiTextToken_Editor.java" startLine="100" startPosition="111" endLine="101" endPosition="60" />
+  </root>
+  <root nodeId="5815279313395444724">
+    <nodeInfo nodeId="5815279313395626232" fileName="IndentedBlock_Editor.java" startLine="142" startPosition="112" endLine="143" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5815279313395633099" fileName="IndentedBlock_Editor.java" startLine="146" startPosition="111" endLine="147" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5815279313395633108" fileName="IndentedBlock_Editor.java" startLine="150" startPosition="111" endLine="151" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395626231" fileName="IndentedBlock_Editor.java" startLine="142" startPosition="112" endLine="143" endPosition="59" />
+    <scopeInfo nodeId="5815279313395633098" fileName="IndentedBlock_Editor.java" startLine="146" startPosition="111" endLine="147" endPosition="59" />
+    <scopeInfo nodeId="5815279313395633107" fileName="IndentedBlock_Editor.java" startLine="150" startPosition="111" endLine="151" endPosition="59" />
+  </root>
+</debugInfo>
+

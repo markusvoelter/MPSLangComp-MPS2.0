@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="14" startPosition="0" endLine="28" endPosition="0" unitName="rbac_entities.generator.template.main.QueriesGenerated" />
+  <root nodeId="3423138233967802644">
+    <nodeInfo nodeId="5359815737040844023" fileName="QueriesGenerated.java" startLine="15" startPosition="152" endLine="16" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4808699962363379043" fileName="QueriesGenerated.java" startLine="19" startPosition="154" endLine="20" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4808699962363379052" fileName="QueriesGenerated.java" startLine="20" startPosition="164" endLine="21" endPosition="185" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4808699962363376979" fileName="QueriesGenerated.java" startLine="24" startPosition="151" endLine="25" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="3423138233967802648" fileName="QueriesGenerated.java" startLine="15" startPosition="152" endLine="16" endPosition="87" />
+    <scopeInfo nodeId="4808699962363376978" fileName="QueriesGenerated.java" startLine="24" startPosition="151" endLine="25" endPosition="30" />
+    <scopeInfo nodeId="4808699962363378436" fileName="QueriesGenerated.java" startLine="19" startPosition="154" endLine="21" endPosition="185">
+      <varInfo nodeId="4808699962363379044" varName="attr" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+

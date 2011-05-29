@@ -1,0 +1,28 @@
+our system begin
+  
+  namespace main begin
+    (a,b,v1)
+    let a: int;
+    let b: int;
+    caculate int c = a  b;
+    caculate bool bigger = a  b;
+    caculate int x = a  b  b  b;
+    caculate bool y = a  b;
+    
+    namespace inner begin
+      (v1)
+      public let v1: int;
+      caculate int i1 = a  b;
+    end
+    
+    namespace inner2 begin
+      ()
+      caculate int it = v1  2;
+      struct s begin
+        mem int m1;
+        mem int m2;
+      end
+      caculate int x = <!TextGen not found for 'simplecalc.structure.MyOwnDotExpression'!>;
+    end
+  end
+end

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="3423138233967788299">
+    <nodeInfo nodeId="3423138233967790410" fileName="QueriesGenerated.java" startLine="47" startPosition="141" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="3423138233967798360" fileName="QueriesGenerated.java" startLine="18" startPosition="154" endLine="19" endPosition="91" />
+    <scopeInfo nodeId="3423138233967790413" fileName="QueriesGenerated.java" startLine="22" startPosition="154" endLine="23" endPosition="230" />
+    <scopeInfo nodeId="3423138233967788308" fileName="QueriesGenerated.java" startLine="26" startPosition="154" endLine="27" endPosition="81" />
+    <scopeInfo nodeId="3423138233967798341" fileName="QueriesGenerated.java" startLine="30" startPosition="151" endLine="31" endPosition="312" />
+    <scopeInfo nodeId="3423138233967798376" fileName="QueriesGenerated.java" startLine="34" startPosition="151" endLine="35" endPosition="312" />
+    <scopeInfo nodeId="3423138233967798404" fileName="QueriesGenerated.java" startLine="38" startPosition="151" endLine="39" endPosition="250" />
+    <scopeInfo nodeId="3423138233967788938" fileName="QueriesGenerated.java" startLine="42" startPosition="151" endLine="43" endPosition="85" />
+    <scopeInfo nodeId="3423138233967790410" fileName="QueriesGenerated.java" startLine="48" startPosition="50" endLine="49" endPosition="63" />
+    <scopeInfo nodeId="3423138233967790410" fileName="QueriesGenerated.java" startLine="47" startPosition="141" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="3423138233967790404" fileName="QueriesGenerated.java" startLine="46" startPosition="155" endLine="51" endPosition="7" />
+    <unitInfo nodeId="3423138233967790410" fileName="QueriesGenerated.java" startLine="47" startPosition="111" endLine="51" endPosition="5" unitName="relmapping_entities.generator.template.main.ITranslator2$anonymous" />
+  </root>
+</debugInfo>
+

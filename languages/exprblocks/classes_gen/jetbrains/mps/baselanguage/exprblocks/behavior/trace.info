@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ExpressionBlockExprRef_Behavior.java" startLine="7" startPosition="0" endLine="15" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.ExpressionBlockExprRef_Behavior" />
+  <unitInfo fileName="PlaceholderStatement_Behavior.java" startLine="9" startPosition="0" endLine="21" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.PlaceholderStatement_Behavior" />
+  <unitInfo fileName="BlockExpression_Behavior.java" startLine="15" startPosition="0" endLine="33" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpression_Behavior" />
+  <root nodeId="5359815737040877618">
+    <nodeInfo nodeId="5359815737040879041" fileName="PlaceholderStatement_Behavior.java" startLine="13" startPosition="98" endLine="14" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5359815737040879083" fileName="PlaceholderStatement_Behavior.java" startLine="17" startPosition="109" endLine="18" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="5359815737040877620" fileName="PlaceholderStatement_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="5359815737040877624" fileName="PlaceholderStatement_Behavior.java" startLine="13" startPosition="98" endLine="14" endPosition="88" />
+    <scopeInfo nodeId="5359815737040879076" fileName="PlaceholderStatement_Behavior.java" startLine="17" startPosition="109" endLine="18" endPosition="79" />
+  </root>
+  <root nodeId="7498631926207727704">
+    <nodeInfo nodeId="7498631926207728771" fileName="BlockExpression_Behavior.java" startLine="19" startPosition="103" endLine="20" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="726639030028500928" fileName="BlockExpression_Behavior.java" startLine="22" startPosition="39" endLine="23" endPosition="163" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7498631926207728789" fileName="BlockExpression_Behavior.java" startLine="26" startPosition="35" endLine="27" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7498631926207728781" fileName="BlockExpression_Behavior.java" startLine="29" startPosition="7" endLine="30" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="726639030028500253" fileName="BlockExpression_Behavior.java" startLine="21" startPosition="182" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="7498631926207728785" fileName="BlockExpression_Behavior.java" startLine="25" startPosition="39" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7498631926207727711" fileName="BlockExpression_Behavior.java" startLine="20" startPosition="69" endLine="29" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <scopeInfo nodeId="7498631926207727706" fileName="BlockExpression_Behavior.java" startLine="16" startPosition="43" endLine="16" endPosition="43" />
+    <scopeInfo nodeId="726639030028500254" fileName="BlockExpression_Behavior.java" startLine="22" startPosition="39" endLine="23" endPosition="163" />
+    <scopeInfo nodeId="7498631926207728786" fileName="BlockExpression_Behavior.java" startLine="26" startPosition="35" endLine="27" endPosition="105" />
+    <scopeInfo nodeId="726639030028500253" fileName="BlockExpression_Behavior.java" startLine="21" startPosition="182" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="7498631926207728785" fileName="BlockExpression_Behavior.java" startLine="25" startPosition="39" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="7498631926207727710" fileName="BlockExpression_Behavior.java" startLine="19" startPosition="103" endLine="30" endPosition="15">
+      <varInfo nodeId="7498631926207728772" varName="res" />
+    </scopeInfo>
+    <unitInfo nodeId="726639030028500253" fileName="BlockExpression_Behavior.java" startLine="21" startPosition="159" endLine="25" endPosition="5" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpression_Behavior$1" />
+    <unitInfo nodeId="7498631926207728785" fileName="BlockExpression_Behavior.java" startLine="25" startPosition="20" endLine="29" endPosition="5" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpression_Behavior$2" />
+  </root>
+  <root nodeId="7498631926207745117">
+    <nodeInfo nodeId="7498631926207745126" fileName="ExpressionBlockExprRef_Behavior.java" startLine="11" startPosition="72" endLine="12" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="7498631926207745119" fileName="ExpressionBlockExprRef_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="7498631926207745123" fileName="ExpressionBlockExprRef_Behavior.java" startLine="11" startPosition="72" endLine="12" endPosition="16" />
+  </root>
+</debugInfo>
+

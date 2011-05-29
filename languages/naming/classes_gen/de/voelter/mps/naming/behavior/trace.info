@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IQualifiedNamedConcept_Behavior.java" startLine="12" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.naming.behavior.IQualifiedNamedConcept_Behavior" />
+  <unitInfo fileName="INamespaceContent_Behavior.java" startLine="11" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespaceContent_Behavior" />
+  <unitInfo fileName="INamespace_Behavior.java" startLine="17" startPosition="0" endLine="92" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespace_Behavior" />
+  <root nodeId="5019556274771758837">
+    <nodeInfo nodeId="5019556274771797755" fileName="IQualifiedNamedConcept_Behavior.java" startLine="18" startPosition="82" endLine="19" endPosition="124" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5019556274771797753" fileName="IQualifiedNamedConcept_Behavior.java" startLine="20" startPosition="113" endLine="21" endPosition="143" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5019556274771863785" fileName="IQualifiedNamedConcept_Behavior.java" startLine="22" startPosition="5" endLine="23" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5019556274771791332" fileName="IQualifiedNamedConcept_Behavior.java" startLine="19" startPosition="124" endLine="22" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="5019556274771758839" fileName="IQualifiedNamedConcept_Behavior.java" startLine="15" startPosition="43" endLine="15" endPosition="43" />
+    <scopeInfo nodeId="5019556274771791334" fileName="IQualifiedNamedConcept_Behavior.java" startLine="20" startPosition="113" endLine="21" endPosition="143" />
+    <scopeInfo nodeId="5019556274771758843" fileName="IQualifiedNamedConcept_Behavior.java" startLine="18" startPosition="82" endLine="23" endPosition="59">
+      <varInfo nodeId="5019556274771797756" varName="p" />
+    </scopeInfo>
+  </root>
+  <root nodeId="5019556274771919320">
+    <nodeInfo nodeId="5019556274771919328" fileName="INamespaceContent_Behavior.java" startLine="18" startPosition="83" endLine="19" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5856418980158996219" fileName="INamespaceContent_Behavior.java" startLine="22" startPosition="89" endLine="23" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5019556274771919322" fileName="INamespaceContent_Behavior.java" startLine="15" startPosition="43" endLine="15" endPosition="43" />
+    <scopeInfo nodeId="5019556274771919326" fileName="INamespaceContent_Behavior.java" startLine="18" startPosition="83" endLine="19" endPosition="108" />
+    <scopeInfo nodeId="5856418980158996217" fileName="INamespaceContent_Behavior.java" startLine="22" startPosition="89" endLine="23" endPosition="16" />
+  </root>
+  <root nodeId="7517722170421689480">
+    <nodeInfo nodeId="7517722170421689486" fileName="INamespace_Behavior.java" startLine="25" startPosition="82" endLine="26" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7517722170421689494" fileName="INamespace_Behavior.java" startLine="27" startPosition="21" endLine="28" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7517722170421689501" fileName="INamespace_Behavior.java" startLine="29" startPosition="5" endLine="30" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7517722170421689525" fileName="INamespace_Behavior.java" startLine="33" startPosition="102" endLine="34" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7517722170421689531" fileName="INamespace_Behavior.java" startLine="34" startPosition="45" endLine="35" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7517722170421689542" fileName="INamespace_Behavior.java" startLine="36" startPosition="23" endLine="37" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7517722170421689548" fileName="INamespace_Behavior.java" startLine="37" startPosition="97" endLine="38" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7517722170421689554" fileName="INamespace_Behavior.java" startLine="39" startPosition="5" endLine="40" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7517722170421689570" fileName="INamespace_Behavior.java" startLine="44" startPosition="94" endLine="45" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5856418980159003760" fileName="INamespace_Behavior.java" startLine="48" startPosition="43" endLine="49" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7517722170421689586" fileName="INamespace_Behavior.java" startLine="54" startPosition="43" endLine="55" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7517722170421689600" fileName="INamespace_Behavior.java" startLine="59" startPosition="96" endLine="60" endPosition="147" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7517722170421689492" fileName="INamespace_Behavior.java" startLine="26" startPosition="93" endLine="29" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7517722170421689594" fileName="INamespace_Behavior.java" startLine="58" startPosition="7" endLine="61" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7517722170421689537" fileName="INamespace_Behavior.java" startLine="35" startPosition="23" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="5856418980159003758" fileName="INamespace_Behavior.java" startLine="47" startPosition="152" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="7517722170421689584" fileName="INamespace_Behavior.java" startLine="53" startPosition="152" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="5856418980159003749" fileName="INamespace_Behavior.java" startLine="46" startPosition="23" endLine="51" endPosition="12" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7517722170421689575" fileName="INamespace_Behavior.java" startLine="52" startPosition="14" endLine="57" endPosition="12" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980159003777" fileName="INamespace_Behavior.java" startLine="52" startPosition="12" endLine="58" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5856418980159003743" fileName="INamespace_Behavior.java" startLine="45" startPosition="94" endLine="58" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7517722170421689568" fileName="INamespace_Behavior.java" startLine="43" startPosition="146" endLine="62" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="7517722170421689482" fileName="INamespace_Behavior.java" startLine="22" startPosition="43" endLine="22" endPosition="43" />
+    <scopeInfo nodeId="7517722170421689493" fileName="INamespace_Behavior.java" startLine="27" startPosition="21" endLine="28" endPosition="36" />
+    <scopeInfo nodeId="5856418980159003759" fileName="INamespace_Behavior.java" startLine="48" startPosition="43" endLine="49" endPosition="160" />
+    <scopeInfo nodeId="7517722170421689585" fileName="INamespace_Behavior.java" startLine="54" startPosition="43" endLine="55" endPosition="81" />
+    <scopeInfo nodeId="7517722170421689599" fileName="INamespace_Behavior.java" startLine="59" startPosition="96" endLine="60" endPosition="147" />
+    <scopeInfo nodeId="7517722170421689541" fileName="INamespace_Behavior.java" startLine="36" startPosition="23" endLine="38" endPosition="81" />
+    <scopeInfo nodeId="7517722170421689594" fileName="INamespace_Behavior.java" startLine="58" startPosition="7" endLine="61" endPosition="7" />
+    <scopeInfo nodeId="5856418980159003758" fileName="INamespace_Behavior.java" startLine="47" startPosition="152" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="7517722170421689584" fileName="INamespace_Behavior.java" startLine="53" startPosition="152" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="7517722170421689485" fileName="INamespace_Behavior.java" startLine="25" startPosition="82" endLine="30" endPosition="60">
+      <varInfo nodeId="7517722170421689487" varName="ns" />
+    </scopeInfo>
+    <scopeInfo nodeId="5856418980159003744" fileName="INamespace_Behavior.java" startLine="46" startPosition="23" endLine="51" endPosition="12" />
+    <scopeInfo nodeId="5856418980159003778" fileName="INamespace_Behavior.java" startLine="52" startPosition="14" endLine="57" endPosition="12" />
+    <scopeInfo nodeId="7517722170421689524" fileName="INamespace_Behavior.java" startLine="33" startPosition="102" endLine="40" endPosition="53">
+      <varInfo nodeId="7517722170421689526" varName="res" />
+      <varInfo nodeId="7517722170421689532" varName="n" />
+    </scopeInfo>
+    <scopeInfo nodeId="7517722170421689569" fileName="INamespace_Behavior.java" startLine="44" startPosition="94" endLine="61" endPosition="7">
+      <varInfo nodeId="7517722170421689571" varName="ns" />
+    </scopeInfo>
+    <scopeInfo nodeId="7517722170421689567" fileName="INamespace_Behavior.java" startLine="43" startPosition="146" endLine="62" endPosition="5" />
+    <unitInfo nodeId="5856418980159003758" fileName="INamespace_Behavior.java" startLine="47" startPosition="129" endLine="51" endPosition="9" unitName="de.voelter.mps.naming.behavior.INamespace_Behavior$1" />
+    <unitInfo nodeId="7517722170421689584" fileName="INamespace_Behavior.java" startLine="53" startPosition="129" endLine="57" endPosition="9" unitName="de.voelter.mps.naming.behavior.INamespace_Behavior$2" />
+  </root>
+</debugInfo>
+

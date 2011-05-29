@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Relmapping_annotations_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="relmapping_annotations.structure.Relmapping_annotations_Language" />
+  <unitInfo fileName="ColMapping_AnnotationLink.java" startLine="7" startPosition="0" endLine="18" endPosition="0" unitName="relmapping_annotations.structure.ColMapping_AnnotationLink" />
+  <unitInfo fileName="AttrToColMapping.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="relmapping_annotations.structure.AttrToColMapping" />
+</debugInfo>
+

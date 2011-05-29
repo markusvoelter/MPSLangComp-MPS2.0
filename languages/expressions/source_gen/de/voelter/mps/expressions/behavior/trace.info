@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="PrimitiveType_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.PrimitiveType_Behavior" />
+  <unitInfo fileName="StringLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.StringLiteral_Behavior" />
+  <unitInfo fileName="IntegerLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IntegerLiteral_Behavior" />
+  <unitInfo fileName="BooleanLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BooleanLiteral_Behavior" />
+  <unitInfo fileName="PlusExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.PlusExpression_Behavior" />
+  <unitInfo fileName="BinaryArithmeticExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_Behavior" />
+  <unitInfo fileName="LessExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.LessExpression_Behavior" />
+  <unitInfo fileName="LessEqualsExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.LessEqualsExpression_Behavior" />
+  <unitInfo fileName="GreaterExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.GreaterExpression_Behavior" />
+  <unitInfo fileName="GreateEqualsExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.GreateEqualsExpression_Behavior" />
+  <unitInfo fileName="BinaryComparisonExpression_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_Behavior" />
+  <unitInfo fileName="Expression_Behavior.java" startLine="9" startPosition="0" endLine="23" endPosition="0" unitName="de.voelter.mps.expressions.behavior.Expression_Behavior" />
+  <unitInfo fileName="ISimpleText_Behavior.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.expressions.behavior.ISimpleText_Behavior" />
+  <unitInfo fileName="IMemberContainer_Behavior.java" startLine="11" startPosition="0" endLine="30" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IMemberContainer_Behavior" />
+  <unitInfo fileName="BinaryExpression_Behavior.java" startLine="11" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryExpression_Behavior" />
+  <root nodeId="2088909457728259226">
+    <nodeInfo nodeId="2088909457728259235" fileName="PlusExpression_Behavior.java" startLine="12" startPosition="94" endLine="13" endPosition="104" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="2088909457728259228" fileName="PlusExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="2088909457728259232" fileName="PlusExpression_Behavior.java" startLine="12" startPosition="94" endLine="13" endPosition="104" />
+  </root>
+  <root nodeId="5763383285156300899">
+    <nodeInfo nodeId="5763383285156300908" fileName="GreateEqualsExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156300901" fileName="GreateEqualsExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5763383285156300905" fileName="GreateEqualsExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" />
+  </root>
+  <root nodeId="5763383285156300911">
+    <nodeInfo nodeId="5763383285156300916" fileName="GreaterExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156300913" fileName="GreaterExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5763383285156300915" fileName="GreaterExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" />
+  </root>
+  <root nodeId="5763383285156300920">
+    <nodeInfo nodeId="5763383285156300925" fileName="LessEqualsExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156300922" fileName="LessEqualsExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5763383285156300924" fileName="LessEqualsExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" />
+  </root>
+  <root nodeId="5763383285156300929">
+    <nodeInfo nodeId="5763383285156300934" fileName="LessExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156300931" fileName="LessExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5763383285156300933" fileName="LessExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="102" />
+  </root>
+  <root nodeId="5763383285156373001">
+    <nodeInfo nodeId="5763383285156373010" fileName="BinaryArithmeticExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156373003" fileName="BinaryArithmeticExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5763383285156373007" fileName="BinaryArithmeticExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="101" />
+  </root>
+  <root nodeId="5763383285156530281">
+    <nodeInfo nodeId="5763383285156530289" fileName="Expression_Behavior.java" startLine="13" startPosition="78" endLine="14" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5763383285156530312" fileName="Expression_Behavior.java" startLine="15" startPosition="98" endLine="16" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5763383285156530325" fileName="Expression_Behavior.java" startLine="16" startPosition="155" endLine="17" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5763383285156530336" fileName="Expression_Behavior.java" startLine="17" startPosition="82" endLine="18" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5763383285156530344" fileName="Expression_Behavior.java" startLine="19" startPosition="5" endLine="20" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5763383285156530300" fileName="Expression_Behavior.java" startLine="14" startPosition="55" endLine="19" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <scopeInfo nodeId="5763383285156530283" fileName="Expression_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />
+    <scopeInfo nodeId="5763383285156530301" fileName="Expression_Behavior.java" startLine="15" startPosition="98" endLine="18" endPosition="35">
+      <varInfo nodeId="5763383285156530326" varName="thisPrio" />
+      <varInfo nodeId="5763383285156530313" varName="parentPrio" />
+    </scopeInfo>
+    <scopeInfo nodeId="5763383285156530287" fileName="Expression_Behavior.java" startLine="13" startPosition="78" endLine="20" endPosition="17">
+      <varInfo nodeId="5763383285156530290" varName="parent" />
+    </scopeInfo>
+  </root>
+  <root nodeId="5815279313395675459">
+    <scopeInfo nodeId="5815279313395675461" fileName="ISimpleText_Behavior.java" startLine="14" startPosition="43" endLine="14" endPosition="43" />
+  </root>
+  <root nodeId="5815279313395677658">
+    <nodeInfo nodeId="5815279313395677667" fileName="BooleanLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395677660" fileName="BooleanLiteral_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5815279313395677664" fileName="BooleanLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="67" />
+  </root>
+  <root nodeId="5815279313395677675">
+    <nodeInfo nodeId="5815279313395677680" fileName="IntegerLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395677677" fileName="IntegerLiteral_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5815279313395677679" fileName="IntegerLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="66" />
+  </root>
+  <root nodeId="5815279313395677697">
+    <nodeInfo nodeId="5815279313395677702" fileName="StringLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395677699" fileName="StringLiteral_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5815279313395677701" fileName="StringLiteral_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="60" />
+  </root>
+  <root nodeId="5815279313395677709">
+    <nodeInfo nodeId="5815279313395677714" fileName="PrimitiveType_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5815279313395677711" fileName="PrimitiveType_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="5815279313395677713" fileName="PrimitiveType_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="67" />
+  </root>
+  <root nodeId="5856418980158941319">
+    <nodeInfo nodeId="5856418980158945471" fileName="IMemberContainer_Behavior.java" startLine="17" startPosition="88" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5856418980158941321" fileName="IMemberContainer_Behavior.java" startLine="14" startPosition="43" endLine="14" endPosition="43" />
+    <scopeInfo nodeId="5856418980158943577" fileName="IMemberContainer_Behavior.java" startLine="17" startPosition="88" endLine="18" endPosition="16" />
+  </root>
+  <root nodeId="8860443239512166653">
+    <nodeInfo nodeId="8860443239512166661" fileName="BinaryExpression_Behavior.java" startLine="18" startPosition="93" endLine="19" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2088909457728257445" fileName="BinaryExpression_Behavior.java" startLine="22" startPosition="94" endLine="23" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="8860443239512166655" fileName="BinaryExpression_Behavior.java" startLine="15" startPosition="43" endLine="15" endPosition="43" />
+    <scopeInfo nodeId="8860443239512166659" fileName="BinaryExpression_Behavior.java" startLine="18" startPosition="93" endLine="19" endPosition="16" />
+    <scopeInfo nodeId="2088909457728257444" fileName="BinaryExpression_Behavior.java" startLine="22" startPosition="94" endLine="23" endPosition="16" />
+  </root>
+  <root nodeId="8860443239512166664">
+    <nodeInfo nodeId="8860443239512169873" fileName="BinaryComparisonExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="8860443239512166666" fileName="BinaryComparisonExpression_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="8860443239512166670" fileName="BinaryComparisonExpression_Behavior.java" startLine="12" startPosition="93" endLine="13" endPosition="105" />
+  </root>
+</debugInfo>
+
