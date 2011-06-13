@@ -167,39 +167,41 @@
     <nodeInfo nodeId="611933243531214261" fileName="FlatTableModel.java" startLine="38" startPosition="40" endLine="39" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="5787972376157070767" fileName="FlatTableModel.java" startLine="42" startPosition="68" endLine="43" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="611933243531335610" fileName="FlatTableModel.java" startLine="46" startPosition="50" endLine="47" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="611933243531279253" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="53" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="611933243531279188" fileName="FlatTableModel.java" startLine="58" startPosition="40" endLine="59" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="611933243531279065" fileName="FlatTableModel.java" startLine="62" startPosition="28" endLine="63" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="611933243531279107" fileName="FlatTableModel.java" startLine="66" startPosition="31" endLine="67" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="611933243531279143" fileName="FlatTableModel.java" startLine="70" startPosition="29" endLine="71" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531380793" fileName="FlatTableModel.java" startLine="53" startPosition="19" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="611933243531279253" fileName="FlatTableModel.java" startLine="55" startPosition="5" endLine="56" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279188" fileName="FlatTableModel.java" startLine="61" startPosition="40" endLine="62" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="611933243531279065" fileName="FlatTableModel.java" startLine="65" startPosition="28" endLine="66" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279107" fileName="FlatTableModel.java" startLine="69" startPosition="31" endLine="70" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="611933243531279143" fileName="FlatTableModel.java" startLine="73" startPosition="29" endLine="74" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="611933243531279211" fileName="FlatTableModel.java" startLine="49" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createElementInColumn#(Ljetbrains/mps/smodel/SNode;I)V" />
-    <nodeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="55" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNodeForColumn#(Ljetbrains/mps/smodel/SNode;I)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="58" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNodeForColumn#(Ljetbrains/mps/smodel/SNode;I)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="611933243531380791" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="55" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <nodeInfo nodeId="5787972376157070711" fileName="FlatTableModel.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertColumn#(I)V" />
     <nodeInfo nodeId="5787972376157070717" fileName="FlatTableModel.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteColumn#(I)V" />
     <nodeInfo nodeId="5787972376157070723" fileName="FlatTableModel.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="insertRow#(I)V" />
     <nodeInfo nodeId="5787972376157070729" fileName="FlatTableModel.java" startLine="41" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSubstituteInfo#(II)Ljetbrains/mps/nodeEditor/cellMenu/NodeSubstituteInfo;" />
     <nodeInfo nodeId="5787972376157070737" fileName="FlatTableModel.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createElement#(II)V" />
-    <nodeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAt#(II)Ljetbrains/mps/smodel/SNode;" />
-    <nodeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="57" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteRow#(I)V" />
-    <nodeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="61" startPosition="0" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRowCount#()I" />
-    <nodeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="65" startPosition="0" endLine="69" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumnCount#()I" />
-    <nodeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="69" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="coll#()Ljava/util/List;" />
+    <nodeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="60" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="deleteRow#(I)V" />
+    <nodeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="64" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRowCount#()I" />
+    <nodeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="68" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getColumnCount#()I" />
+    <nodeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="72" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="coll#()Ljava/util/List;" />
     <nodeInfo nodeId="5787972376157070706" fileName="FlatTableModel.java" startLine="22" startPosition="0" endLine="28" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="FlatTableModel#(ILjava/util/List;Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAt#(II)Ljetbrains/mps/smodel/SNode;" />
     <scopeInfo nodeId="5787972376157070716" fileName="FlatTableModel.java" startLine="30" startPosition="46" endLine="31" endPosition="20" />
     <scopeInfo nodeId="5787972376157070722" fileName="FlatTableModel.java" startLine="34" startPosition="46" endLine="35" endPosition="20" />
     <scopeInfo nodeId="5787972376157070728" fileName="FlatTableModel.java" startLine="38" startPosition="40" endLine="39" endPosition="164" />
     <scopeInfo nodeId="5787972376157070736" fileName="FlatTableModel.java" startLine="42" startPosition="68" endLine="43" endPosition="16" />
     <scopeInfo nodeId="5787972376157070744" fileName="FlatTableModel.java" startLine="46" startPosition="50" endLine="47" endPosition="85" />
-    <scopeInfo nodeId="5787972376157070752" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="53" endPosition="87" />
-    <scopeInfo nodeId="5787972376157070758" fileName="FlatTableModel.java" startLine="58" startPosition="40" endLine="59" endPosition="65" />
-    <scopeInfo nodeId="5787972376157070762" fileName="FlatTableModel.java" startLine="62" startPosition="28" endLine="63" endPosition="49" />
-    <scopeInfo nodeId="5787972376157070766" fileName="FlatTableModel.java" startLine="66" startPosition="31" endLine="67" endPosition="25" />
-    <scopeInfo nodeId="611933243531279124" fileName="FlatTableModel.java" startLine="70" startPosition="29" endLine="71" endPosition="70" />
+    <scopeInfo nodeId="611933243531380792" fileName="FlatTableModel.java" startLine="53" startPosition="19" endLine="54" endPosition="0" />
+    <scopeInfo nodeId="5787972376157070758" fileName="FlatTableModel.java" startLine="61" startPosition="40" endLine="62" endPosition="65" />
+    <scopeInfo nodeId="5787972376157070762" fileName="FlatTableModel.java" startLine="65" startPosition="28" endLine="66" endPosition="53" />
+    <scopeInfo nodeId="5787972376157070766" fileName="FlatTableModel.java" startLine="69" startPosition="31" endLine="70" endPosition="25" />
+    <scopeInfo nodeId="611933243531279124" fileName="FlatTableModel.java" startLine="73" startPosition="29" endLine="74" endPosition="70" />
     <scopeInfo nodeId="611933243531279211" fileName="FlatTableModel.java" startLine="49" startPosition="0" endLine="51" endPosition="0">
       <varInfo nodeId="611933243531279217" varName="column" />
       <varInfo nodeId="611933243531335593" varName="dataObject" />
     </scopeInfo>
-    <scopeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="55" startPosition="0" endLine="57" endPosition="0">
+    <scopeInfo nodeId="611933243531279219" fileName="FlatTableModel.java" startLine="58" startPosition="0" endLine="60" endPosition="0">
       <varInfo nodeId="611933243531279248" varName="col" />
       <varInfo nodeId="611933243531279224" varName="data" />
     </scopeInfo>
@@ -221,23 +223,24 @@
       <varInfo nodeId="5787972376157070742" varName="column" />
       <varInfo nodeId="5787972376157070740" varName="row" />
     </scopeInfo>
-    <scopeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="55" endPosition="0">
-      <varInfo nodeId="5787972376157070750" varName="column" />
-      <varInfo nodeId="5787972376157070748" varName="row" />
-    </scopeInfo>
-    <scopeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="57" startPosition="0" endLine="61" endPosition="0">
+    <scopeInfo nodeId="5787972376157070752" fileName="FlatTableModel.java" startLine="52" startPosition="48" endLine="56" endPosition="87" />
+    <scopeInfo nodeId="5787972376157070753" fileName="FlatTableModel.java" startLine="60" startPosition="0" endLine="64" endPosition="0">
       <varInfo nodeId="5787972376157070756" varName="rowNumber" />
     </scopeInfo>
-    <scopeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="61" startPosition="0" endLine="65" endPosition="0" />
-    <scopeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="65" startPosition="0" endLine="69" endPosition="0" />
-    <scopeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="69" startPosition="0" endLine="73" endPosition="0" />
+    <scopeInfo nodeId="5787972376157070759" fileName="FlatTableModel.java" startLine="64" startPosition="0" endLine="68" endPosition="0" />
+    <scopeInfo nodeId="5787972376157070763" fileName="FlatTableModel.java" startLine="68" startPosition="0" endLine="72" endPosition="0" />
+    <scopeInfo nodeId="611933243531279121" fileName="FlatTableModel.java" startLine="72" startPosition="0" endLine="76" endPosition="0" />
     <scopeInfo nodeId="5787972376157070706" fileName="FlatTableModel.java" startLine="22" startPosition="0" endLine="28" endPosition="3">
       <varInfo nodeId="611933243531119622" varName="headers" />
       <varInfo nodeId="611933243531214236" varName="dataLink" />
       <varInfo nodeId="5787972376157070769" varName="colCount" />
       <varInfo nodeId="611933243531214233" varName="dataOwner" />
     </scopeInfo>
-    <unitInfo nodeId="5787972376157070704" fileName="FlatTableModel.java" startLine="16" startPosition="0" endLine="74" endPosition="0" unitName="tbcmain.FlatTableModel" />
+    <scopeInfo nodeId="5787972376157070745" fileName="FlatTableModel.java" startLine="51" startPosition="0" endLine="58" endPosition="0">
+      <varInfo nodeId="5787972376157070750" varName="column" />
+      <varInfo nodeId="5787972376157070748" varName="row" />
+    </scopeInfo>
+    <unitInfo nodeId="5787972376157070704" fileName="FlatTableModel.java" startLine="16" startPosition="0" endLine="77" endPosition="0" unitName="tbcmain.FlatTableModel" />
   </root>
 </debugInfo>
 

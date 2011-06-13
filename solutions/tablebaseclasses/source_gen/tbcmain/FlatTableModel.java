@@ -50,6 +50,9 @@ public abstract class FlatTableModel implements TableModel {
   protected abstract void createElementInColumn(SNode dataObject, int column);
 
   public SNode getValueAt(int row, int column) {
+    if (row == 0) {
+
+    }
     return getNodeForColumn(ListSequence.fromList(coll()).getElement(row - 1), column);
   }
 
@@ -60,7 +63,7 @@ public abstract class FlatTableModel implements TableModel {
   }
 
   public int getRowCount() {
-    return ListSequence.fromList(coll()).count();
+    return ListSequence.fromList(coll()).count() + 1;
   }
 
   public int getColumnCount() {

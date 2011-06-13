@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-2f1uw7tbpveq2uhwqpf2bhr7me3efnj">
+<dependencies version="2" modelHash="6oya5esr3fmc2mfdd7dnx55rl23uiqc">
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing.text(JDK/javax.swing.text@java_stub)" />
@@ -11,7 +11,7 @@
   <dep model="r:07b50b86-cebe-4cb4-922a-faa41bf68ced(relmapping_entities.generator.template.main@generator)" hash="-906slu4piedgywa2434dei52456ux8q" />
   <dep model="r:097c15dc-8d65-4865-8fd0-c0ec16cccf20(jetbrains.mps.baselanguage.exprblocks.generator.template.main@generator)" hash="1ionoprlkqv7ggyyfpyo40n1gxv4dw8" />
   <dep model="r:3c6f41cb-6a0d-4347-850a-58ecfae31699(uispec.generator.template.main@generator)" hash="7ucng4ibt5mmce1wv83gb9op5pqikkx" />
-  <dep model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" hash="-2f1uw7tbpveq2uhwqpf2bhr7me3efnj" />
+  <dep model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" hash="6oya5esr3fmc2mfdd7dnx55rl23uiqc" />
   <dep model="r:6f47ca04-b919-4572-ba26-a32d7cb9107b(rbac_entities.generator.template.main@generator)" hash="-87e6uzispzpt496thll1jjp70bgallm" />
   <dep model="r:714c2385-79de-4e56-83da-f2bbebe1f5c8(relmapping.generator.template.main@generator)" hash="17slzf2dfh6qh41jyjz7j32fer3h73j" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
@@ -21,8 +21,8 @@
   <dep model="r:d9e3e77a-10fd-4b74-af5b-425f85858c9a(uispec_validation.generator.template.main@generator)" hash="4sk9xdeup4thhhl4u5uktb383axcab" />
   <dep model="r:e7877523-51b5-49f5-ba18-51db32c24ff2(de.voelter.mps.expressions.blgen.generator.template.main@generator)" hash="2cmg0kz6j33cekfgia06kp5y269cnzt" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="5aec02ils30e8yhyxqrvhqlqxi5r3tv" />
-  <source id="517595247550218132" name="company" hash="-ay7y9d6j6kvc07c1cjbxwai60enfxww">
+  <common hash="-6ks3xe1vwlutrztqh71wqc4xq79caer" />
+  <source id="517595247550218132" name="company" hash="-a8diveomn7zhnpzujf93309nbrf5ljk">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -38,7 +38,7 @@
     <file name="Department.java" />
     <file name="Employee.java" />
   </source>
-  <source id="517595247550227028" name="CompanyStructure" hash="8k40p3j7bgi4ikh5xsd1t74exms0ygw">
+  <source id="517595247550227028" name="CompanyStructure" hash="cxuwud854ytgyqwpoccb476f3bnb41o">
     <dep root="3423138233967794216" />
     <dep root="517595247550218132" />
     <dep root="5359815737040718497" />
@@ -63,7 +63,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="CompanyStructure.java" />
   </source>
-  <source id="3423138233967794216" name="CompanyDB" hash="-4naypgdfyegsmxtt7g9sdrbqn9rmx96">
+  <source id="3423138233967794216" name="CompanyDB" hash="apd05ixyolvir7okodnytd9tw5qxlqq">
     <dep root="517595247550218132" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -76,7 +76,7 @@
     <file name="CompanyDBAdapter.java" />
     <file name="CompanyDBBaseAdapter.java" />
   </source>
-  <source id="5359815737040718497" hash="-aq3mjyrltip5yle5sb0uy11v0pugfo2">
+  <source id="5359815737040718497" hash="8is2wkdcwrkvsaiqfjbdoaxxdvquv22">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />

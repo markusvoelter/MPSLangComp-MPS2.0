@@ -3,14 +3,14 @@
   <unitInfo fileName="UserRef_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="rbac.editor.UserRef_Editor$_Inline_pqp8ci_a0a" />
   <unitInfo fileName="Permission_Editor.java" startLine="106" startPosition="0" endLine="138" endPosition="0" unitName="rbac.editor.Permission_Editor$_Inline_ry9pf2_a0a" />
   <unitInfo fileName="Permission_Editor.java" startLine="139" startPosition="0" endLine="174" endPosition="0" unitName="rbac.editor.Permission_Editor$resourcesListHandler_ry9pf2_e0" />
-  <unitInfo fileName="RBACSpec_Editor.java" startLine="154" startPosition="0" endLine="189" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$usersListHandler_idjs6n_b3a" />
-  <unitInfo fileName="RBACSpec_Editor.java" startLine="190" startPosition="0" endLine="225" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$rolesListHandler_idjs6n_b6a" />
-  <unitInfo fileName="RBACSpec_Editor.java" startLine="226" startPosition="0" endLine="261" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$permissionsListHandler_idjs6n_a9a" />
+  <unitInfo fileName="RBACSpec_Editor.java" startLine="160" startPosition="0" endLine="195" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$usersListHandler_idjs6n_b3a" />
+  <unitInfo fileName="RBACSpec_Editor.java" startLine="196" startPosition="0" endLine="231" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$rolesListHandler_idjs6n_b6a" />
+  <unitInfo fileName="RBACSpec_Editor.java" startLine="232" startPosition="0" endLine="267" endPosition="0" unitName="rbac.editor.RBACSpec_Editor$permissionsListHandler_idjs6n_b9a" />
   <unitInfo fileName="Role_Editor.java" startLine="81" startPosition="0" endLine="126" endPosition="0" unitName="rbac.editor.Role_Editor$usersListHandler_9924kr_d0" />
   <unitInfo fileName="UserRef_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="rbac.editor.UserRef_Editor" />
   <unitInfo fileName="User_Editor.java" startLine="16" startPosition="0" endLine="81" endPosition="0" unitName="rbac.editor.User_Editor" />
   <unitInfo fileName="Role_Editor.java" startLine="26" startPosition="0" endLine="127" endPosition="0" unitName="rbac.editor.Role_Editor" />
   <unitInfo fileName="Permission_Editor.java" startLine="28" startPosition="0" endLine="175" endPosition="0" unitName="rbac.editor.Permission_Editor" />
-  <unitInfo fileName="RBACSpec_Editor.java" startLine="23" startPosition="0" endLine="262" endPosition="0" unitName="rbac.editor.RBACSpec_Editor" />
+  <unitInfo fileName="RBACSpec_Editor.java" startLine="23" startPosition="0" endLine="268" endPosition="0" unitName="rbac.editor.RBACSpec_Editor" />
 </debugInfo>
 
