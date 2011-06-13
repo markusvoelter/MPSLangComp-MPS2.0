@@ -10,14 +10,6 @@ import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.style.Style;
 import jetbrains.mps.nodeEditor.style.StyleAttributes;
-import jetbrains.mps.nodeEditor.cells.EditorCell_Property;
-import jetbrains.mps.nodeEditor.cells.ModelAccessor;
-import de.voelter.mps.expressions.behavior.BinaryExpression_Behavior;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
-import jetbrains.mps.util.EqualUtil;
-import jetbrains.mps.nodeEditor.CellActionType;
-import jetbrains.mps.nodeEditor.cellActions.CellAction_Empty;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.nodeEditor.FocusPolicy;
@@ -28,15 +20,12 @@ import jetbrains.mps.nodeEditor.cellMenu.CompositeSubstituteInfo;
 import jetbrains.mps.nodeEditor.cellMenu.SubstituteInfoPart;
 import jetbrains.mps.smodel.IScope;
 import de.voelter.mps.expressions.behavior.Expression_Behavior;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.editor.generator.internal.AbstractCellMenuPart_ReplaceNode_CustomNodeConcept;
 
 public class BinaryExpression_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
     return this.createCollection_uefsp_a(editorContext, node);
-  }
-
-  public EditorCell createInspectedCell(EditorContext editorContext, SNode node) {
-    return this.createReadOnlyModelAccessor_uefsp_a(editorContext, node);
   }
 
   private EditorCell createCollection_uefsp_a(EditorContext editorContext, SNode node) {
@@ -73,29 +62,6 @@ public class BinaryExpression_Editor extends DefaultNodeEditor {
       style.set(StyleAttributes.PUNCTUATION_LEFT, true);
     }
     editorCell.setDefaultText("");
-    return editorCell;
-  }
-
-  private EditorCell createReadOnlyModelAccessor_uefsp_a(final EditorContext editorContext, final SNode node) {
-    EditorCell_Property editorCell = EditorCell_Property.create(editorContext, new ModelAccessor() {
-      public String getText() {
-        String res = "";
-        if (BinaryExpression_Behavior.call_childTypeMustBeInstanceOf_8860443239512166656(node) != null) {
-          res += BinaryExpression_Behavior.call_childTypeMustBeInstanceOf_8860443239512166656(node) + "  ";
-          res += SNodeOperations.isInstanceOf(SLinkOperations.getTarget(node, "left", true), "jetbrains.mps.lang.core.structure.IContainer") + "";
-        }
-        return res;
-      }
-
-      public void setText(String s) {
-      }
-
-      public boolean isValidText(String s) {
-        return EqualUtil.equals(s, this.getText());
-      }
-    }, node);
-    editorCell.setAction(CellActionType.DELETE, new CellAction_Empty());
-    editorCell.setCellId("ReadOnlyModelAccessor_uefsp_a");
     return editorCell;
   }
 

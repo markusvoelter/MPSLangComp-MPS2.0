@@ -14,7 +14,7 @@ public class AttributeColMapping_Behavior {
 
   public static SNode virtual_typeMappedToDB_726639030028562152(SNode thisNode) {
     SNode attrType = TypeChecker.getInstance().getTypeOf(SLinkOperations.getTarget(SLinkOperations.getTarget(thisNode, "attribute", false), "type", true));
-    if (SNodeOperations.isInstanceOf(attrType, "entities.structure.IntType")) {
+    if (SNodeOperations.isInstanceOf(attrType, "entities.structure.EIntType")) {
       return SConceptOperations.createNewNode("relmapping.structure.NumberType", null);
     }
     return SConceptOperations.createNewNode("relmapping.structure.CharType", null);

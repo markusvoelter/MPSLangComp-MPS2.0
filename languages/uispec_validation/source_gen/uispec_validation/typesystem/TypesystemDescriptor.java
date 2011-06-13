@@ -4,6 +4,12 @@ package uispec_validation.typesystem;
 
 import jetbrains.mps.lang.typesystem.runtime.BaseHelginsDescriptor;
 import jetbrains.mps.lang.typesystem.runtime.InferenceRule_Runtime;
+import jetbrains.mps.lang.typesystem.runtime.OverloadedOpsProvider_OneTypeSpecified;
+import jetbrains.mps.smodel.SNode;
+import java.util.Set;
+import java.util.HashSet;
+import jetbrains.mps.smodel.SModelUtil_new;
+import jetbrains.mps.project.GlobalScope;
 
 public class TypesystemDescriptor extends BaseHelginsDescriptor {
   public TypesystemDescriptor() {
@@ -22,6 +28,55 @@ public class TypesystemDescriptor extends BaseHelginsDescriptor {
     {
       InferenceRule_Runtime inferenceRule = new typeof_ValidatedField_InferenceRule();
       this.myInferenceRules.add(inferenceRule);
+    }
+    {
+      OverloadedOpsProvider_OneTypeSpecified provider = new OverloadedOpsProvider_OneTypeSpecified() {
+        {
+          this.myOperandType = new TypesystemDescriptor.QuotationClass_3ist9o_a0a0a0a0a0a0a0e0a().createNode();
+          this.myOperationConceptFQName = "de.voelter.mps.expressions.structure.EqualsExpression";
+          this.myTypeIsExact = false;
+          this.myIsStrong = false;
+        }
+
+        public SNode getOperationType(SNode operation, SNode leftOperandType, SNode rightOperandType) {
+          return new TypesystemDescriptor.QuotationClass_3ist9o_a0a0a0a0a0a0a4a0().createNode();
+        }
+      };
+      this.myOverloadedOperationsTypesProviders.add(provider);
+    }
+  }
+
+  public static class QuotationClass_3ist9o_a0a0a0a0a0a0a4a0 {
+    public QuotationClass_3ist9o_a0a0a0a0a0a0a4a0() {
+    }
+
+    public SNode createNode() {
+      SNode result = null;
+      Set<SNode> _parameterValues_129834374 = new HashSet<SNode>();
+      SNode quotedNode_1 = null;
+      {
+        quotedNode_1 = SModelUtil_new.instantiateConceptDeclaration("de.voelter.mps.expressions.structure.BooleanType", null, GlobalScope.getInstance(), false);
+        SNode quotedNode1_2 = quotedNode_1;
+        result = quotedNode1_2;
+      }
+      return result;
+    }
+  }
+
+  public static class QuotationClass_3ist9o_a0a0a0a0a0a0a0e0a {
+    public QuotationClass_3ist9o_a0a0a0a0a0a0a0e0a() {
+    }
+
+    public SNode createNode() {
+      SNode result = null;
+      Set<SNode> _parameterValues_129834374 = new HashSet<SNode>();
+      SNode quotedNode_1 = null;
+      {
+        quotedNode_1 = SModelUtil_new.instantiateConceptDeclaration("entities.structure.EBooleanType", null, GlobalScope.getInstance(), false);
+        SNode quotedNode1_2 = quotedNode_1;
+        result = quotedNode1_2;
+      }
+      return result;
     }
   }
 }

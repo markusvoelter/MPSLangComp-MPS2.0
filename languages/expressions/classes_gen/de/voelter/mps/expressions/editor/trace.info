@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="BinaryExpression_Editor.java" startLine="184" startPosition="0" endLine="192" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor$ReplaceWith_BinaryExpression_cellMenu_a0c0" />
-  <unitInfo fileName="BinaryExpression_Editor.java" startLine="80" startPosition="83" endLine="96" endPosition="5" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor$1" />
+  <unitInfo fileName="BinaryExpression_Editor.java" startLine="150" startPosition="0" endLine="158" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor$ReplaceWith_BinaryExpression_cellMenu_a0c0" />
   <unitInfo fileName="BooleanLiteral_Editor.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.expressions.editor.BooleanLiteral_Editor" />
   <unitInfo fileName="PrimitiveType_Editor.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.expressions.editor.PrimitiveType_Editor" />
   <unitInfo fileName="binaryEcpressionActions_LeftArg.java" startLine="21" startPosition="0" endLine="47" endPosition="0" unitName="de.voelter.mps.expressions.editor.binaryEcpressionActions_LeftArg$binaryEcpressionActions_LeftArg_DELETE" />
@@ -15,7 +14,7 @@
   <unitInfo fileName="StringLiteral_Editor.java" startLine="20" startPosition="0" endLine="83" endPosition="0" unitName="de.voelter.mps.expressions.editor.StringLiteral_Editor" />
   <unitInfo fileName="MemberAccessExpression_Editor.java" startLine="21" startPosition="0" endLine="88" endPosition="0" unitName="de.voelter.mps.expressions.editor.MemberAccessExpression_Editor" />
   <unitInfo fileName="IfExpression_Editor.java" startLine="18" startPosition="0" endLine="123" endPosition="0" unitName="de.voelter.mps.expressions.editor.IfExpression_Editor" />
-  <unitInfo fileName="BinaryExpression_Editor.java" startLine="33" startPosition="0" endLine="193" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor" />
+  <unitInfo fileName="BinaryExpression_Editor.java" startLine="26" startPosition="0" endLine="159" endPosition="0" unitName="de.voelter.mps.expressions.editor.BinaryExpression_Editor" />
   <root nodeId="5763383285156484386">
     <nodeInfo nodeId="5763383285156489079" fileName="MemberAccessExpression_Editor.java" startLine="84" startPosition="111" endLine="85" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <scopeInfo nodeId="5763383285156489078" fileName="MemberAccessExpression_Editor.java" startLine="84" startPosition="111" endLine="85" endPosition="70" />
@@ -87,23 +86,14 @@
     </scopeInfo>
   </root>
   <root nodeId="8860443239512129324">
-    <nodeInfo nodeId="8860443239512171919" fileName="BinaryExpression_Editor.java" startLine="81" startPosition="31" endLine="82" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8860443239512171941" fileName="BinaryExpression_Editor.java" startLine="83" startPosition="105" endLine="84" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8860443239512171964" fileName="BinaryExpression_Editor.java" startLine="84" startPosition="107" endLine="85" endPosition="146" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8860443239512171923" fileName="BinaryExpression_Editor.java" startLine="86" startPosition="9" endLine="87" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="5763383285156530349" fileName="BinaryExpression_Editor.java" startLine="168" startPosition="110" endLine="169" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7389581223062046197" fileName="BinaryExpression_Editor.java" startLine="172" startPosition="110" endLine="173" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7389581223062046221" fileName="BinaryExpression_Editor.java" startLine="176" startPosition="110" endLine="177" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="5763383285156530358" fileName="BinaryExpression_Editor.java" startLine="180" startPosition="110" endLine="181" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8860443239512171927" fileName="BinaryExpression_Editor.java" startLine="82" startPosition="24" endLine="86" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <scopeInfo nodeId="5763383285156530348" fileName="BinaryExpression_Editor.java" startLine="168" startPosition="110" endLine="169" endPosition="74" />
-    <scopeInfo nodeId="7389581223062046196" fileName="BinaryExpression_Editor.java" startLine="172" startPosition="110" endLine="173" endPosition="123" />
-    <scopeInfo nodeId="8860443239512146718" fileName="BinaryExpression_Editor.java" startLine="176" startPosition="110" endLine="177" endPosition="123" />
-    <scopeInfo nodeId="5763383285156530357" fileName="BinaryExpression_Editor.java" startLine="180" startPosition="110" endLine="181" endPosition="74" />
-    <scopeInfo nodeId="8860443239512171928" fileName="BinaryExpression_Editor.java" startLine="83" startPosition="105" endLine="85" endPosition="146" />
-    <scopeInfo nodeId="8860443239512171898" fileName="BinaryExpression_Editor.java" startLine="81" startPosition="31" endLine="87" endPosition="19">
-      <varInfo nodeId="8860443239512171920" varName="res" />
-    </scopeInfo>
+    <nodeInfo nodeId="5763383285156530349" fileName="BinaryExpression_Editor.java" startLine="134" startPosition="110" endLine="135" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7389581223062046197" fileName="BinaryExpression_Editor.java" startLine="138" startPosition="110" endLine="139" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7389581223062046221" fileName="BinaryExpression_Editor.java" startLine="142" startPosition="110" endLine="143" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5763383285156530358" fileName="BinaryExpression_Editor.java" startLine="146" startPosition="110" endLine="147" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5763383285156530348" fileName="BinaryExpression_Editor.java" startLine="134" startPosition="110" endLine="135" endPosition="74" />
+    <scopeInfo nodeId="7389581223062046196" fileName="BinaryExpression_Editor.java" startLine="138" startPosition="110" endLine="139" endPosition="123" />
+    <scopeInfo nodeId="8860443239512146718" fileName="BinaryExpression_Editor.java" startLine="142" startPosition="110" endLine="143" endPosition="123" />
+    <scopeInfo nodeId="5763383285156530357" fileName="BinaryExpression_Editor.java" startLine="146" startPosition="110" endLine="147" endPosition="74" />
   </root>
 </debugInfo>
 

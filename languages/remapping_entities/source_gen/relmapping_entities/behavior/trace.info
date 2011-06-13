@@ -3,11 +3,11 @@
   <unitInfo fileName="AttributeColMapping_Behavior.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="relmapping_entities.behavior.AttributeColMapping_Behavior" />
   <root nodeId="726639030028562157">
     <nodeInfo nodeId="726639030028566390" fileName="AttributeColMapping_Behavior.java" startLine="15" startPosition="81" endLine="16" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="726639030028566402" fileName="AttributeColMapping_Behavior.java" startLine="17" startPosition="79" endLine="18" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="726639030028566402" fileName="AttributeColMapping_Behavior.java" startLine="17" startPosition="80" endLine="18" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="726639030028566410" fileName="AttributeColMapping_Behavior.java" startLine="19" startPosition="5" endLine="20" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="726639030028566400" fileName="AttributeColMapping_Behavior.java" startLine="16" startPosition="155" endLine="19" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <scopeInfo nodeId="726639030028562159" fileName="AttributeColMapping_Behavior.java" startLine="12" startPosition="43" endLine="12" endPosition="43" />
-    <scopeInfo nodeId="726639030028566401" fileName="AttributeColMapping_Behavior.java" startLine="17" startPosition="79" endLine="18" endPosition="87" />
+    <scopeInfo nodeId="726639030028566401" fileName="AttributeColMapping_Behavior.java" startLine="17" startPosition="80" endLine="18" endPosition="87" />
     <scopeInfo nodeId="726639030028566387" fileName="AttributeColMapping_Behavior.java" startLine="15" startPosition="81" endLine="20" endPosition="83">
       <varInfo nodeId="726639030028566391" varName="attrType" />
     </scopeInfo>

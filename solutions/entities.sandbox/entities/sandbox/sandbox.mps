@@ -39,15 +39,15 @@
       <property name="name" nameId="tpck.1169194664001" value="Employee" />
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="8607297853667757875">
         <property name="name" nameId="tpck.1169194664001" value="id" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.IntType" typeId="4um0.517595247550220424" id="8607297853667757877" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EIntType" typeId="4um0.517595247550220424" id="8607297853667757877" />
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="8607297853667757878">
         <property name="name" nameId="tpck.1169194664001" value="name" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.StringType" typeId="4um0.517595247550220428" id="8607297853667757880" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EStringType" typeId="4um0.517595247550220428" id="8607297853667757880" />
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="517595247550259956">
         <property name="name" nameId="tpck.1169194664001" value="role" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.StringType" typeId="4um0.517595247550220428" id="5359815737040795815" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EStringType" typeId="4um0.517595247550220428" id="5359815737040795815" />
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="517595247550225539">
         <property name="name" nameId="tpck.1169194664001" value="worksAt" />
@@ -56,23 +56,23 @@
         </node>
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="1421745537588606572">
-        <property name="name" nameId="tpck.1169194664001" value="hallo" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.IntType" typeId="4um0.517595247550220424" id="1421745537588606575" />
+        <property name="name" nameId="tpck.1169194664001" value="age" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EIntType" typeId="4um0.517595247550220424" id="3406978297571804253" />
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="517595247550272115">
         <property name="name" nameId="tpck.1169194664001" value="freelancer" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.BooleanType" typeId="4um0.517595247550227063" id="517595247550272118" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EBooleanType" typeId="4um0.517595247550227063" id="517595247550272118" />
       </node>
     </node>
     <node role="entities" roleId="4um0.517595247550104439" type="4um0.Entity" typeId="4um0.517595247550104415" id="517595247550218136">
       <property name="name" nameId="tpck.1169194664001" value="Department" />
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="517595247550225546">
         <property name="name" nameId="tpck.1169194664001" value="id" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.IntType" typeId="4um0.517595247550220424" id="517595247550225548" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EIntType" typeId="4um0.517595247550220424" id="517595247550225548" />
       </node>
       <node role="attributes" roleId="4um0.517595247550104421" type="4um0.Attribute" typeId="4um0.517595247550104418" id="517595247550218140">
         <property name="name" nameId="tpck.1169194664001" value="description" />
-        <node role="type" roleId="4um0.517595247550222976" type="4um0.StringType" typeId="4um0.517595247550220428" id="517595247550225542" />
+        <node role="type" roleId="4um0.517595247550222976" type="4um0.EStringType" typeId="4um0.517595247550220428" id="517595247550225542" />
       </node>
     </node>
   </root>
@@ -85,7 +85,7 @@
       </node>
       <node role="expr" roleId="gx9o.814100379888667798" type="mj1l.GreaterExpression" typeId="mj1l.8860443239512147445" id="5787972376157070697">
         <node role="left" roleId="mj1l.8860443239512128064" type="gx9o.LenghtOf" typeId="gx9o.814100379888684705" id="5787972376157070701">
-          <node role="expr" roleId="gx9o.814100379888684706" type="gx9o.AttributeRefExpr" typeId="gx9o.814100379888678036" id="5787972376157070703">
+          <node role="expr" roleId="gx9o.814100379888684706" type="gx9o.AttributeRefExpr" typeId="gx9o.814100379888678036" id="3406978297571805119">
             <link role="attr" roleId="gx9o.814100379888678037" targetNodeId="8607297853667757878" resolveInfo="name" />
           </node>
         </node>

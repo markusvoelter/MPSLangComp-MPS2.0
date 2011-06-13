@@ -18,9 +18,16 @@ public class typeof_LenghtOf_InferenceRule extends AbstractInferenceRule_Runtime
 
   public void applyRule(final SNode lenghtOf, final TypeCheckingContext typeCheckingContext, IsApplicableStatus status) {
     {
-      SNode _nodeToCheck_1029348928467 = SLinkOperations.getTarget(lenghtOf, "expr", true);
-      EquationInfo _info_12389875345 = new EquationInfo(_nodeToCheck_1029348928467, null, "r:baae5d1a-3a66-410e-83a2-6f4942fbd071(uispec_validation.typesystem)", "814100379888684735", 0, null);
-      typeCheckingContext.createEquation((SNode) typeCheckingContext.typeOf(_nodeToCheck_1029348928467, "r:baae5d1a-3a66-410e-83a2-6f4942fbd071(uispec_validation.typesystem)", "814100379888684727", true), (SNode) SConceptOperations.createNewNode("entities.structure.StringType", null), _info_12389875345);
+      final SNode exprtype = typeCheckingContext.typeOf(SLinkOperations.getTarget(lenghtOf, "expr", true), "r:baae5d1a-3a66-410e-83a2-6f4942fbd071(uispec_validation.typesystem)", "3406978297571804258", true);
+      typeCheckingContext.whenConcrete(exprtype, new Runnable() {
+        public void run() {
+          {
+            SNode _nodeToCheck_1029348928467 = lenghtOf;
+            EquationInfo _info_12389875345 = new EquationInfo(_nodeToCheck_1029348928467, null, "r:baae5d1a-3a66-410e-83a2-6f4942fbd071(uispec_validation.typesystem)", "3406978297571804268", 0, null);
+            typeCheckingContext.createEquation((SNode) typeCheckingContext.getRepresentative(exprtype), (SNode) SConceptOperations.createNewNode("entities.structure.EStringType", null), _info_12389875345);
+          }
+        }
+      }, "r:baae5d1a-3a66-410e-83a2-6f4942fbd071(uispec_validation.typesystem)", "3406978297571804255", false, false);
     }
     {
       SNode _nodeToCheck_1029348928467 = lenghtOf;

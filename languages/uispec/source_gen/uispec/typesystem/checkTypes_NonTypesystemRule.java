@@ -19,13 +19,13 @@ public class checkTypes_NonTypesystemRule extends AbstractNonTypesystemRule_Runt
   }
 
   public void applyRule(final SNode field, final TypeCheckingContext typeCheckingContext, IsApplicableStatus status) {
-    if (SNodeOperations.isInstanceOf(SLinkOperations.getTarget(field, "widget", true), "uispec.structure.CheckBoxWidget") && !(SNodeOperations.isInstanceOf(SLinkOperations.getTarget(SLinkOperations.getTarget(field, "attribute", false), "type", true), "entities.structure.BooleanType"))) {
+    if (SNodeOperations.isInstanceOf(SLinkOperations.getTarget(field, "widget", true), "uispec.structure.CheckBoxWidget") && !(SNodeOperations.isInstanceOf(SLinkOperations.getTarget(SLinkOperations.getTarget(field, "attribute", false), "type", true), "entities.structure.EBooleanType"))) {
       {
         MessageTarget errorTarget = new NodeMessageTarget();
         IErrorReporter _reporter_2309309498 = typeCheckingContext.reportTypeError(SLinkOperations.getTarget(field, "widget", true), "checkbox can only be used with booleans", "r:f3bf1bdb-285a-4d15-a215-7e1513851435(uispec.typesystem)", "517595247550282743", null, errorTarget);
       }
     }
-    if (SNodeOperations.isInstanceOf(SLinkOperations.getTarget(field, "widget", true), "uispec.structure.ComboWidget") && !(SNodeOperations.isInstanceOf(SLinkOperations.getTarget(SLinkOperations.getTarget(field, "attribute", false), "type", true), "entities.structure.StringType"))) {
+    if (SNodeOperations.isInstanceOf(SLinkOperations.getTarget(field, "widget", true), "uispec.structure.ComboWidget") && !(SNodeOperations.isInstanceOf(SLinkOperations.getTarget(SLinkOperations.getTarget(field, "attribute", false), "type", true), "entities.structure.EStringType"))) {
       {
         MessageTarget errorTarget = new NodeMessageTarget();
         IErrorReporter _reporter_2309309498 = typeCheckingContext.reportTypeError(SLinkOperations.getTarget(field, "widget", true), "combobox can only be used with strings", "r:f3bf1bdb-285a-4d15-a215-7e1513851435(uispec.typesystem)", "517595247550282756", null, errorTarget);

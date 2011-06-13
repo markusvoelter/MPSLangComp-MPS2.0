@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="BooleanType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.BooleanType_Editor" />
-  <unitInfo fileName="StringType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.StringType_Editor" />
-  <unitInfo fileName="IntType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.IntType_Editor" />
+  <unitInfo fileName="EBooleanType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.EBooleanType_Editor" />
+  <unitInfo fileName="EStringType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.EStringType_Editor" />
+  <unitInfo fileName="EIntType_Editor.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="entities.editor.EIntType_Editor" />
   <unitInfo fileName="EntityType_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="entities.editor.EntityType_Editor$_Inline_mz193_a0a" />
   <unitInfo fileName="Entity_Editor.java" startLine="108" startPosition="0" endLine="143" endPosition="0" unitName="entities.editor.Entity_Editor$attributesListHandler_n4nctg_b1a" />
   <unitInfo fileName="Module_Editor.java" startLine="93" startPosition="0" endLine="137" endPosition="0" unitName="entities.editor.Module_Editor$entitiesListHandler_iuuvkg_b1a" />
