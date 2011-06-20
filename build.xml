@@ -1,0 +1,15 @@
+<project name="MPS Build Test" default="generate" basedir=".">
+
+  <property name="mps.home" location="/Users/markus/Downloads/MPS2.app"/>
+
+
+  <taskdef resource="jetbrains/mps/build/ant/antlib.xml"
+           classpath="${mps.home}/languages/generate.ant.task.jar"/>
+
+  <target name="generate">
+    <mps.generate loglevel="debug">
+      <project file="langcompdemo.mpr"/>
+    </mps.generate>
+  </target>
+
+</project>

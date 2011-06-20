@@ -23,6 +23,8 @@
       <modulePath path="${project}/solutions/entities.sandbox/entities.sandbox.msd" />
       <modulePath path="${project}/solutions/rbac_runtime/rbac_runtime.msd" folder="langmod" />
       <modulePath path="${project}/solutions/tablebaseclasses/tablebaseclasses.msd" folder="basic" />
+      <modulePath path="${project}/languages/playground/playground.mpl" folder="basic" />
+      <modulePath path="${project}/solutions/expressions.sandbox/sandbox.msd" folder="" />
     </projectModules>
     <genConfs />
   </component>

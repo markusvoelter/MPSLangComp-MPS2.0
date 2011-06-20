@@ -30,6 +30,7 @@
   <unitInfo fileName="StringLiteral.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.voelter.mps.expressions.structure.StringLiteral" />
   <unitInfo fileName="BinaryExpression.java" startLine="10" startPosition="0" endLine="43" endPosition="0" unitName="de.voelter.mps.expressions.structure.BinaryExpression" />
   <unitInfo fileName="IfExpression.java" startLine="10" startPosition="0" endLine="52" endPosition="0" unitName="de.voelter.mps.expressions.structure.IfExpression" />
+  <unitInfo fileName="DoubleType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.DoubleType" />
   <unitInfo fileName="IntType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.IntType" />
   <unitInfo fileName="Literal.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.Literal" />
   <unitInfo fileName="BooleanType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.BooleanType" />

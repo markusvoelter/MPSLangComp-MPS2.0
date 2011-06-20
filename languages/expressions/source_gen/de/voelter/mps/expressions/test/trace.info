@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="testTypes_Test.java" startLine="28" startPosition="0" endLine="41" endPosition="0" unitName="de.voelter.mps.expressions.test.testTypes_Test$TestBody" />
+  <unitInfo fileName="testTypes_Test.java" startLine="14" startPosition="0" endLine="42" endPosition="0" unitName="de.voelter.mps.expressions.test.testTypes_Test" />
+  <root nodeId="4667664698752029664">
+    <nodeInfo nodeId="4667664698752168958" fileName="testTypes_Test.java" startLine="30" startPosition="51" endLine="31" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2006351577540590765" fileName="testTypes_Test.java" startLine="31" startPosition="46" endLine="32" endPosition="245" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="2006351577540640212" fileName="testTypes_Test.java" startLine="32" startPosition="245" endLine="33" endPosition="250" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="4667664698752168958" fileName="testTypes_Test.java" startLine="29" startPosition="53" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="test_TestTypes#()V" />
+    <scopeInfo nodeId="4667664698752168958" fileName="testTypes_Test.java" startLine="30" startPosition="51" endLine="33" endPosition="250" />
+    <scopeInfo nodeId="4667664698752168958" fileName="testTypes_Test.java" startLine="29" startPosition="53" endLine="35" endPosition="0" />
+  </root>
+</debugInfo>
+

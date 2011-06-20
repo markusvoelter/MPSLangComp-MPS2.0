@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="VarRef_Editor.java" startLine="47" startPosition="0" endLine="79" endPosition="0" unitName="de.voelter.mps.expressions.playground.editor.VarRef_Editor$_Inline_kzlle8_a0a" />
+  <unitInfo fileName="Playground_Editor.java" startLine="39" startPosition="0" endLine="74" endPosition="0" unitName="de.voelter.mps.expressions.playground.editor.Playground_Editor$varsListHandler_60oabc_a0" />
+  <unitInfo fileName="Playground_Editor.java" startLine="19" startPosition="0" endLine="75" endPosition="0" unitName="de.voelter.mps.expressions.playground.editor.Playground_Editor" />
+  <unitInfo fileName="VarRef_Editor.java" startLine="17" startPosition="0" endLine="80" endPosition="0" unitName="de.voelter.mps.expressions.playground.editor.VarRef_Editor" />
+  <unitInfo fileName="Variable_Editor.java" startLine="18" startPosition="0" endLine="103" endPosition="0" unitName="de.voelter.mps.expressions.playground.editor.Variable_Editor" />
+</debugInfo>
+

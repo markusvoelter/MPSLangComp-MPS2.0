@@ -58,6 +58,21 @@
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
     <classNode extendsClassName="jetbrains.mps.lang.core.structure.BaseConcept" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.structure.DoubleType" file="DoubleType.java">
+    <classNode dependClassName="de.voelter.mps.expressions.structure.IComparable" />
+    <classNode dependClassName="de.voelter.mps.expressions.structure.INumber" />
+    <classNode dependClassName="de.voelter.mps.expressions.structure.IOrdered" />
+    <classNode dependClassName="de.voelter.mps.expressions.structure.PrimitiveType" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Iterator" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.lang.core.structure.Attribute" />
+    <classNode dependClassName="jetbrains.mps.project.GlobalScope" />
+    <classNode dependClassName="jetbrains.mps.smodel.SModel" />
+    <classNode dependClassName="jetbrains.mps.smodel.SModelUtil_new" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="jetbrains.mps.lang.core.structure.BaseConcept" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.structure.EqualsExpression" file="EqualsExpression.java">
     <classNode dependClassName="de.voelter.mps.expressions.structure.BinaryComparisonExpression" />
     <classNode dependClassName="java.lang.String" />
