@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
   <dependency className="de.voelter.mps.expressions.editor.BinaryExpression_Editor" file="BinaryExpression_Editor.java">
-    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_Behavior" />
     <classNode dependClassName="de.voelter.mps.expressions.editor.binaryEcpressionActions_LeftArg" />
     <classNode dependClassName="de.voelter.mps.expressions.editor.binaryExpressionActions_RightArg" />
     <classNode dependClassName="de.voelter.mps.expressions.editor.binaryExpressionActions_Symbol" />
@@ -18,7 +17,6 @@
     <classNode dependClassName="jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole" />
     <classNode dependClassName="jetbrains.mps.nodeEditor.cells.EditorCell" />
     <classNode dependClassName="jetbrains.mps.nodeEditor.cells.EditorCell_Collection" />
-    <classNode dependClassName="jetbrains.mps.nodeEditor.cells.EditorCell_Constant" />
     <classNode dependClassName="jetbrains.mps.nodeEditor.style.Style" />
     <classNode dependClassName="jetbrains.mps.nodeEditor.style.StyleAttributes" />
     <classNode dependClassName="jetbrains.mps.smodel.IOperationContext" />

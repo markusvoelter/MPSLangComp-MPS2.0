@@ -92,6 +92,7 @@ public class QueriesGenerated {
             SNode result = SNodeFactoryOperations.createNewNode(NameUtil.nodeFQName(subconcept), null);
             SNodeOperations.replaceWithAnother(_context.getSourceNode(), result);
             SLinkOperations.setTarget(result, "right", _context.getSourceNode(), true);
+            PrioUtil.checkOperationWRTPriority(result);
             return result;
           }
         });
@@ -118,6 +119,7 @@ public class QueriesGenerated {
             SNode result = SNodeFactoryOperations.createNewNode(NameUtil.nodeFQName(subconcept), null);
             SNodeOperations.replaceWithAnother(_context.getSourceNode(), result);
             SLinkOperations.setTarget(result, "left", _context.getSourceNode(), true);
+            PrioUtil.checkOperationWRTPriority(result);
             return result;
           }
         });

@@ -58,10 +58,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/typesystem/checkForChildrenInstanceOf_NonTypesystemRule.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryArithmeticExpression_InferenceRule.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/typesystem/typeof_BinaryComparisonExpression_InferenceRule.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/structure.metadata" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/.hash.1s3k9wodujuywhso9x09kqd07w261y" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.hash.8vecrt0uubd5pyfdfxprj6ucsddvy1a" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.hash.4bu8m5fzh8a4zrx5fgznptuwib82ahm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.hash.-8benccoob6u2d2tnej9z2121tt2kpbo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.hash.6g8nwa7f34crxrbailymiv50ryoaua1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.hash.bn4c0kafnih6gcty133gxozdxlhjmh1" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.hash.4yshan1gtgyttn3x02yzp9v8fhll6in" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.hash.yj7zbdhlenlupto63khegkyv8aqf63" afterPath="" />
@@ -73,32 +74,68 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/.hash.5dc09woqsguxckoilvr8wf9rmrzj0b" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.hash.-99fqcfhavfeetd7ra6zkhpsriwi1e7s" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.hash.-2f1uw7tbpveq2uhwqpf2bhr7me3efnj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.hash.6oya5esr3fmc2mfdd7dnx55rl23uiqc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/rbac_runtime/source_gen.caches/rbac_rt/.debug" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/rbac_runtime/source_gen.caches/rbac_rt/.hash.-j60ahfm6jyf569j1uu098ssxrjxvt5" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/tablebaseclasses/source_gen.caches/tbcmain/.hash.-d8r05n2h00tzhy43wtami13krdfzcdv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/blgen/source_gen.caches/de/voelter/mps/expressions/blgen/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/.generated" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/behavior/.generated" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/behavior/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.generated" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/entities/structure/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/behavior/.generated" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/behavior/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/exprblocks/source_gen.caches/jetbrains/mps/baselanguage/exprblocks/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$2.class" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$3.class" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$4.class" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/QueriesGenerated.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/actions/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.class" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/editor/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/classes_gen/de/voelter/mps/expressions/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/actions/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/behavior/.generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/constraints/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/editor/.generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/intentions/.generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/structure/.generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.dependencies" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.generated" afterPath="$PROJECT_DIR$/languages/expressions/source_gen.caches/de/voelter/mps/expressions/typesystem/.generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/trace.info" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.generated" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/behavior/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.generated" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/intentions/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.generated" afterPath="$PROJECT_DIR$/languages/naming/source_gen.caches/de/voelter/mps/naming/typesystem/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/playground/source_gen.caches/de/voelter/mps/expressions/playground/.generated" afterPath="$PROJECT_DIR$/languages/playground/source_gen.caches/de/voelter/mps/expressions/playground/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/playground/source_gen.caches/de/voelter/mps/expressions/playground/structure/.generated" afterPath="$PROJECT_DIR$/languages/playground/source_gen.caches/de/voelter/mps/expressions/playground/structure/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/rbac-entities/source_gen.caches/rbac_entities/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.generated" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/behavior/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/relmapping/source_gen.caches/relmapping/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/editor/.generated" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/editor/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.generated" afterPath="$PROJECT_DIR$/languages/relmapping_annotations/source_gen.caches/relmapping_annotations/intentions/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/remapping_entities/source_gen.caches/relmapping_entities/generator/template/main/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/behavior/.generated" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/behavior/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.generated" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/editor/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/generator/template/main/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.generated" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/intentions/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.generated" afterPath="$PROJECT_DIR$/languages/simplecalc/source_gen.caches/simplecalc/structure/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/editor/.generated" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/editor/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.generated" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/intentions/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/textGen/.generated" afterPath="$PROJECT_DIR$/languages/textshape/source_gen.caches/de/voelter/mps/textshape/textGen/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/uispec/source_gen.caches/uispec/generator/template/main/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.generated" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/constraints/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/generator/template/main/.generated" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/generator/template/main/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.generated" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/intentions/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/structure/.generated" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/structure/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.generated" afterPath="$PROJECT_DIR$/languages/uispec_validation/source_gen.caches/uispec_validation/typesystem/.generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/classes_gen/entities/sandbox/sandbox/CompanyStructure$1.class" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/classes_gen/entities/sandbox/sandbox/CompanyStructure$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/classes_gen/entities/sandbox/sandbox/Employee.class" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/classes_gen/entities/sandbox/sandbox/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.generated" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen.caches/entities/sandbox/sandbox/.generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langcompdemo.iws" afterPath="$PROJECT_DIR$/langcompdemo.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/langcompdemo.mpr" afterPath="$PROJECT_DIR$/langcompdemo.mpr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/typesystem.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/TypesystemDescriptor.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/typesystem/TypesystemDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/actions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/actions/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.java" afterPath="$PROJECT_DIR$/languages/expressions/source_gen/de/voelter/mps/expressions/editor/BinaryExpression_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyStructure.java" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/CompanyStructure.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/Employee.java" afterPath="$PROJECT_DIR$/solutions/entities.sandbox/source_gen/entities/sandbox/sandbox/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/expressions.sandbox/pgm.mps" afterPath="$PROJECT_DIR$/solutions/expressions.sandbox/pgm.mps" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="langcompdemo.iws" />
@@ -129,7 +166,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Playground" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Playground" pinned="false" current="false" current-in-tab="false">
         <entry file="mps://pgm/Playground">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
@@ -137,9 +174,240 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="179" />
+                    <property name="caretX" value="139" />
+                    <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                      <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                    </cellInfo>
+                  </stackElement>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="selectionEnd" value="1" />
+                    <property name="hasNonTrivialSelection" value="true" />
+                    <property name="selectionStart" value="0" />
+                    <property name="caretX" value="139" />
+                    <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                      <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                    </cellInfo>
+                  </stackElement>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="0" />
+                    <cellInfo cellId="Collection_uefsp_a" cellNumber="0" isInList="false">
+                      <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                    </cellInfo>
+                  </stackElement>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="0" />
+                    <cellInfo cellId="Collection_uefsp_a" cellNumber="0" isInList="false">
+                      <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705022" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="makeBinaryOperator" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.voelter.mps.expressions.actions/makeBinaryOperator">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="297" />
+                    <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
+                      <node model="r:58a558d9-50ed-4b86-91cf-66ce18b52794(de.voelter.mps.expressions.actions)" id="2169813270746260191" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlusExpression" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.voelter.mps.expressions.structure/PlusExpression">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="323" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="8864856114140240464" />
+                      <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="5763383285156373013" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="5763383285156373013" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryExpression" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.voelter.mps.expressions.structure/BinaryExpression">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento>
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="8860443239512129324" modelId="r:53e59391-150a-45ff-930e-2b4fdafb0904(de.voelter.mps.expressions.editor)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompanyDB" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://entities.sandbox.sandbox/CompanyDB">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="83" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3423138233967794216" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompanyStructure" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://entities.sandbox.sandbox/CompanyStructure">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="623" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_6a318w_a0a0" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3406978297571805119" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RBACSpec" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://entities.sandbox.sandbox/RBACSpec">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="67" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="5359815737040736949" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="company" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://entities.sandbox.sandbox/company">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="67" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="517595247550218132" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParenthesisUtil" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://jetbrains.mps.baseLanguage.plugin/ParenthesisUtil">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="15" />
+                    <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                      <node model="r:00000000-0000-4000-0000-011c895902c8(jetbrains.mps.baseLanguage.plugin)" id="155142699038773931" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento>
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrioUtil" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.voelter.mps.expressions.actions/PrioUtil">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="275" />
+                    <cellInfo cellId="Constant_eb7h0d_a4a" cellNumber="0" isInList="false">
+                      <node model="r:58a558d9-50ed-4b86-91cf-66ce18b52794(de.voelter.mps.expressions.actions)" id="2169813270746228290" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -474,6 +742,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Favorites" />
+      <pane id="VCSRoots" />
       <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
@@ -489,60 +759,12 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expressions.sandbox" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pgm" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="langcompdemo" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="basic" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="langcompdemo" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de.voelter.mps.expressions.playground" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="langcompdemo" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de.voelter.mps.expressions.playground" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="editor" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="VCSRoots" />
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -643,40 +865,40 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1366" height="742" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.49701938" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49701938" order="27" side_tool="false" content_ui="tabs" />
-      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.39269745" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49701938" order="28" side_tool="false" content_ui="tabs" />
+      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.39269745" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44615385" sideWeight="0.4195231" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44615385" sideWeight="0.4195231" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26602086" sideWeight="0.67230767" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935917" sideWeight="0.67230767" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32615384" sideWeight="0.7295082" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.47615498" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.54769003" order="21" side_tool="true" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32589287" sideWeight="0.3099851" order="22" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32927758" sideWeight="0.6" order="3" side_tool="false" content_ui="tabs" x="705" y="117" width="626" height="554" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.47615498" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5536513" order="22" side_tool="true" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32589287" sideWeight="0.3099851" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32927758" sideWeight="0.6" order="4" side_tool="false" content_ui="tabs" x="705" y="117" width="626" height="554" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.44634873" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.4403875" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962743" sideWeight="0.55230767" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="27" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="MPS Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.54694486" order="19" side_tool="false" content_ui="tabs" />
-      <window_info id="Concept Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="MPS Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.54694486" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Concept Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -721,276 +943,6 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://entities.sandbox.sandbox/CompanyStructure">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="623" />
-                <cellInfo cellId="ReadOnlyModelAccessor_6a318w_a0a0" cellNumber="0" isInList="false">
-                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3406978297571805119" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.structure/BinaryArithmeticExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5763383285156372997" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.structure/BinaryComparisonExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="8860443239512128063" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.structure/DoubleType">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="139" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="8864856114140038682" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="selectionEnd" value="6" />
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="selectionStart" value="0" />
-                <property name="caretX" value="139" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="8864856114140038682" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <cellInfo cellId="Collection_dj7k4g_a" cellNumber="0" isInList="false">
-                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="8864856114140038682" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <cellInfo cellId="Collection_ueqr71_a" cellNumber="0" isInList="false">
-                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="8864856114140038681" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="8864856114140038681" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.typesystem/binaryComparisonOperation">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="207" />
-                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
-                  <node model="r:1f4b6c73-0d50-4599-bc8a-9f6948adf243(de.voelter.mps.expressions.typesystem)" id="8864856114140188486" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://entities.sandbox.sandbox/CompanyDB">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="83" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3423138233967794216" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mpslang://de.voelter.mps.expressions.playground">
-      <provider selected="true" editor-type-id="MPSLanguageFileEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.structure/ParensExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="99" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="8864856114140197036" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5763383285156533447" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.playground.typesystem/typeof_VarRef">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="343" />
-                <cellInfo cellId="property_role" cellNumber="0" isInList="false">
-                  <node model="r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)" id="8864856114140197520" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.typesystem/supertypeof_IntType">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="159" />
-                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
-                  <node model="r:1f4b6c73-0d50-4599-bc8a-9f6948adf243(de.voelter.mps.expressions.typesystem)" id="8864856114140203112" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.structure/BinaryExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3406978297571773909" modelId="r:1f4b6c73-0d50-4599-bc8a-9f6948adf243(de.voelter.mps.expressions.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.typesystem/binaryArithOperation">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
-                <cellInfo cellId="Constant_29llnk_a0" cellNumber="0" isInList="false">
-                  <node model="r:1f4b6c73-0d50-4599-bc8a-9f6948adf243(de.voelter.mps.expressions.typesystem)" id="8864856114140211322" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <cellInfo cellId="Collection_29llnk_a" cellNumber="0" isInList="false">
-                  <node model="r:1f4b6c73-0d50-4599-bc8a-9f6948adf243(de.voelter.mps.expressions.typesystem)" id="8864856114140211322" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.voelter.mps.expressions.playground.structure/VarRef">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento>
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento>
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="8864856114140197500" modelId="r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://de.voelter.mps.expressions.playground.structure/Playground">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
@@ -1043,10 +995,264 @@
             <folded />
           </memento>
           <inspectorMemento>
-            <selectionStack />
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="111" />
+                <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
+                  <node model="r:192d66e5-2661-4f86-b058-e698c5b999c0(de.voelter.mps.expressions.playground.editor)" id="8864856114140194162" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="3" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="111" />
+                <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a" cellNumber="0" isInList="false">
+                  <node model="r:192d66e5-2661-4f86-b058-e698c5b999c0(de.voelter.mps.expressions.playground.editor)" id="8864856114140194162" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <cellInfo cellId="Collection_2hk56f_a" cellNumber="0" isInList="false">
+                  <node model="r:192d66e5-2661-4f86-b058-e698c5b999c0(de.voelter.mps.expressions.playground.editor)" id="8864856114140194162" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <cellInfo cellId="Collection_cvgoyj_a0_0" cellNumber="0" isInList="false">
+                  <node model="r:192d66e5-2661-4f86-b058-e698c5b999c0(de.voelter.mps.expressions.playground.editor)" id="8864856114140194157" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <folded />
           </inspectorMemento>
           <node nodeId="8864856114140194155" modelId="r:192d66e5-2661-4f86-b058-e698c5b999c0(de.voelter.mps.expressions.playground.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.actions/PrecedenceUtil">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="323" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="1302191354694001008" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="323" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="1302191354694001008" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.actions/BL_EditorActions">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="179" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="1235058518070" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="179" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="1235058518070" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.actions/binaryOperations">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="185" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="5391504215793252220" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="185" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902bf(jetbrains.mps.baseLanguage.actions)" id="5391504215793252220" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.voelter.mps.expressions.structure/BinaryArithmeticExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="443" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="5763383285156372997" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="443" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="5763383285156372997" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5763383285156372997" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.voelter.mps.expressions.actions/makeBinaryOperator">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="297" />
+                <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
+                  <node model="r:58a558d9-50ed-4b86-91cf-66ce18b52794(de.voelter.mps.expressions.actions)" id="2169813270746260191" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.voelter.mps.expressions.structure/PlusExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="323" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" id="5763383285156373013" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5763383285156373013" modelId="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(de.voelter.mps.expressions.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.voelter.mps.expressions.structure/BinaryExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento>
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="8860443239512129324" modelId="r:53e59391-150a-45ff-930e-2b4fdafb0904(de.voelter.mps.expressions.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.plugin/ParenthesisUtil">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902c8(jetbrains.mps.baseLanguage.plugin)" id="155142699038773931" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.voelter.mps.expressions.actions/PrioUtil">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="275" />
+                <cellInfo cellId="Constant_eb7h0d_a4a" cellNumber="0" isInList="false">
+                  <node model="r:58a558d9-50ed-4b86-91cf-66ce18b52794(de.voelter.mps.expressions.actions)" id="2169813270746228290" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
         </state>
       </provider>
     </entry>
@@ -1057,9 +1263,118 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="179" />
+                <property name="caretX" value="139" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="1" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="139" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <cellInfo cellId="Collection_uefsp_a" cellNumber="0" isInList="false">
+                  <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705020" />
+                </cellInfo>
+              </stackElement>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <cellInfo cellId="Collection_uefsp_a" cellNumber="0" isInList="false">
+                  <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="3308994391659705022" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/CompanyStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="623" />
+                <cellInfo cellId="ReadOnlyModelAccessor_6a318w_a0a0" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3406978297571805119" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/CompanyDB">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="83" />
                 <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:f954afaa-e580-4c91-bb8e-7085b4739a52(pgm)" id="8864856114140240464" />
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="3423138233967794216" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/RBACSpec">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="67" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="5359815737040736949" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento>
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://entities.sandbox.sandbox/company">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="67" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:648f82f7-512a-405e-88e1-201a52c0d4d5(entities.sandbox.sandbox)" id="517595247550218132" />
                 </cellInfo>
               </stackElement>
             </selectionStack>

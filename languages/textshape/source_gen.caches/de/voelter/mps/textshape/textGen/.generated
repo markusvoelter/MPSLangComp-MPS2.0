@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependencies version="2" modelHash="bmb33f7dlkdkpf5cnhnve1dq2hhk8tw">
-  <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+  <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -37,7 +37,7 @@
     <file name="Line_TextGen.java" />
   </source>
   <source id="5839100313780144396" name="File_TextGen" hash="-1lcctmokdhr1ljkzusvnvaj1r3uvi9m">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -58,7 +58,7 @@
     <file name="File_TextGen.java" />
   </source>
   <source id="5839100313780183743" name="PascalDeclaration_TextGen" hash="y8hinnuscf92rqytw01o8k4wkzvs8e">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -75,7 +75,7 @@
     <file name="PascalDeclaration_TextGen.java" />
   </source>
   <source id="369287372546186872" name="SingleTextToken_TextGen" hash="7rfec88k6lnzjlb55sqek6kmzumvde0">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -92,7 +92,7 @@
     <file name="SingleTextToken_TextGen.java" />
   </source>
   <source id="369287372546186885" name="MultiTextToken_TextGen" hash="-4r66nic9wvfywr4c4vbhonq3jr7oipi">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -111,7 +111,7 @@
     <file name="MultiTextToken_TextGen.java" />
   </source>
   <source id="5815279313395444742" name="IndentedBlock_TextGen" hash="27prbwp0jvx4yq5627ymj3e7dxnod13">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -133,7 +133,7 @@
     <file name="IndentedBlock_TextGen.java" />
   </source>
   <source id="5815279313395660032" name="List_TextGen" hash="5u2j5hp6iif3i30vb80k9fmgny8hiox">
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />

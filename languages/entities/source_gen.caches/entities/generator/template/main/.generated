@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="dbr24b2xpdezaiovkbpkfx7dddkzyio">
-  <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+<dependencies version="2" modelHash="-9ghemf1tohas8p3u8wcuexavdfzlqzz">
+  <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -16,12 +16,12 @@
   <dep model="r:097c15dc-8d65-4865-8fd0-c0ec16cccf20(jetbrains.mps.baselanguage.exprblocks.generator.template.main@generator)" hash="1ionoprlkqv7ggyyfpyo40n1gxv4dw8" />
   <dep model="r:63ac29a9-7475-4c4e-8661-1e70b28db0f1(entities.behavior)" hash="-31282hmhtn8cig5lu5609pzezsmpk78" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
-  <dep model="r:d6d60cce-84fe-4d22-b871-573572951a21(entities.structure)" hash="72whgqr1n4le55x2ay9ycn5qv5uvhbh" />
+  <dep model="r:d6d60cce-84fe-4d22-b871-573572951a21(entities.structure)" hash="72rj7624uj6py1bbexneob7fqc2objg" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="duaftuvrsst0uhcz0d3nwf0iefhb5sr">
+  <common hash="cnctz6pzibdwc5aza3rcghuptxda7tf">
     <dep root="726639030028382471" />
     <dep root="726639030028382474" />
-    <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.lang.smodel.generator.smodelAdapter(MPS.Classpath/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
+    <dep model="f:java_stub#2d3c70e9-aab2-4870-8d8d-6036800e4103#jetbrains.mps.lang.smodel.generator.smodelAdapter(jetbrains.mps.kernel/jetbrains.mps.lang.smodel.generator.smodelAdapter@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -41,10 +41,10 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="QueriesGenerated.java" />
   </common>
-  <source id="726639030028382471" name="main" hash="-3k2l5vj1amsp69q8kl4jztv7j9srx9n">
+  <source id="726639030028382471" name="main" hash="ean1c8buzx04agibdjiprp3emgrjgo9">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
-  <source id="726639030028382474" name="map_Entity" hash="-e86jco8ocfug5gfvp2u17diun50pn5e">
+  <source id="726639030028382474" name="map_Entity" hash="-3le9o6tq5cm00vuq5lqiebxq6fzpcmd">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
 </dependencies>

@@ -1,25 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="QueriesGenerated.java" startLine="90" startPosition="53" endLine="97" endPosition="9" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$2" />
-  <unitInfo fileName="QueriesGenerated.java" startLine="116" startPosition="53" endLine="123" endPosition="9" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$3" />
-  <unitInfo fileName="QueriesGenerated.java" startLine="133" startPosition="51" endLine="154" endPosition="7" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$4" />
+  <unitInfo fileName="QueriesGenerated.java" startLine="90" startPosition="53" endLine="98" endPosition="9" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$2" />
+  <unitInfo fileName="QueriesGenerated.java" startLine="117" startPosition="53" endLine="125" endPosition="9" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$3" />
+  <unitInfo fileName="QueriesGenerated.java" startLine="135" startPosition="51" endLine="156" endPosition="7" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$4" />
   <unitInfo fileName="QueriesGenerated.java" startLine="49" startPosition="53" endLine="71" endPosition="9" unitName="de.voelter.mps.expressions.actions.QueriesGenerated$1" />
-  <unitInfo fileName="QueriesGenerated.java" startLine="29" startPosition="0" endLine="159" endPosition="0" unitName="de.voelter.mps.expressions.actions.QueriesGenerated" />
+  <unitInfo fileName="QueriesGenerated.java" startLine="29" startPosition="0" endLine="161" endPosition="0" unitName="de.voelter.mps.expressions.actions.QueriesGenerated" />
+  <root nodeId="2169813270745971389">
+    <nodeInfo nodeId="2169813270746228097" fileName="PrioUtil.java" startLine="18" startPosition="6" endLine="19" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228101" fileName="PrioUtil.java" startLine="19" startPosition="38" endLine="20" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228106" fileName="PrioUtil.java" startLine="20" startPosition="50" endLine="21" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228114" fileName="PrioUtil.java" startLine="22" startPosition="18" endLine="23" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228123" fileName="PrioUtil.java" startLine="24" startPosition="12" endLine="25" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228140" fileName="PrioUtil.java" startLine="29" startPosition="83" endLine="30" endPosition="266" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2169813270746228194" fileName="PrioUtil.java" startLine="33" startPosition="61" endLine="34" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228198" fileName="PrioUtil.java" startLine="34" startPosition="49" endLine="35" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228202" fileName="PrioUtil.java" startLine="35" startPosition="48" endLine="36" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228217" fileName="PrioUtil.java" startLine="40" startPosition="105" endLine="41" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2169813270746228223" fileName="PrioUtil.java" startLine="42" startPosition="5" endLine="43" endPosition="102" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228245" fileName="PrioUtil.java" startLine="48" startPosition="106" endLine="49" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228252" fileName="PrioUtil.java" startLine="50" startPosition="53" endLine="51" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228257" fileName="PrioUtil.java" startLine="51" startPosition="55" endLine="52" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228271" fileName="PrioUtil.java" startLine="58" startPosition="50" endLine="59" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="2169813270746228279" fileName="PrioUtil.java" startLine="61" startPosition="129" endLine="62" endPosition="132" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228286" fileName="PrioUtil.java" startLine="62" startPosition="132" endLine="63" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228292" fileName="PrioUtil.java" startLine="64" startPosition="69" endLine="65" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228303" fileName="PrioUtil.java" startLine="66" startPosition="75" endLine="67" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228314" fileName="PrioUtil.java" startLine="69" startPosition="58" endLine="70" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746228319" fileName="PrioUtil.java" startLine="70" startPosition="51" endLine="71" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270745971391" fileName="PrioUtil.java" startLine="10" startPosition="23" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="PrioUtil#()V" />
+    <nodeInfo nodeId="2169813270746228121" fileName="PrioUtil.java" startLine="24" startPosition="10" endLine="26" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2169813270746228215" fileName="PrioUtil.java" startLine="39" startPosition="83" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228269" fileName="PrioUtil.java" startLine="57" startPosition="67" endLine="60" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228086" fileName="PrioUtil.java" startLine="14" startPosition="73" endLine="18" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228130" fileName="PrioUtil.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="isBadPriority#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Z)Z" />
+    <nodeInfo nodeId="2169813270746228228" fileName="PrioUtil.java" startLine="43" startPosition="102" endLine="47" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="2169813270746228250" fileName="PrioUtil.java" startLine="49" startPosition="112" endLine="53" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228312" fileName="PrioUtil.java" startLine="68" startPosition="7" endLine="72" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228111" fileName="PrioUtil.java" startLine="21" startPosition="57" endLine="26" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228290" fileName="PrioUtil.java" startLine="63" startPosition="30" endLine="68" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228190" fileName="PrioUtil.java" startLine="32" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="checkOperationWRTPriority#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="2169813270746228239" fileName="PrioUtil.java" startLine="47" startPosition="6" endLine="54" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228277" fileName="PrioUtil.java" startLine="60" startPosition="5" endLine="73" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2169813270746228076" fileName="PrioUtil.java" startLine="13" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="rotateTree#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/smodel/SNode;Z)V" />
+    <nodeInfo nodeId="2169813270746228207" fileName="PrioUtil.java" startLine="38" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="checkOperationChildWRTPriority#(Ljetbrains/mps/smodel/SNode;Z)V" />
+    <nodeInfo nodeId="2169813270746228265" fileName="PrioUtil.java" startLine="56" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="checkOpeartionParentWRTPriority#(Ljetbrains/mps/smodel/SNode;)V" />
+    <scopeInfo nodeId="2169813270745971394" fileName="PrioUtil.java" startLine="11" startPosition="21" endLine="11" endPosition="21" />
+    <scopeInfo nodeId="2169813270746228113" fileName="PrioUtil.java" startLine="22" startPosition="18" endLine="23" endPosition="65" />
+    <scopeInfo nodeId="2169813270746228122" fileName="PrioUtil.java" startLine="24" startPosition="12" endLine="25" endPosition="64" />
+    <scopeInfo nodeId="2169813270746228139" fileName="PrioUtil.java" startLine="29" startPosition="83" endLine="30" endPosition="266" />
+    <scopeInfo nodeId="2169813270746228216" fileName="PrioUtil.java" startLine="40" startPosition="105" endLine="41" endPosition="13" />
+    <scopeInfo nodeId="2169813270746228270" fileName="PrioUtil.java" startLine="58" startPosition="50" endLine="59" endPosition="13" />
+    <scopeInfo nodeId="2169813270746228291" fileName="PrioUtil.java" startLine="64" startPosition="69" endLine="65" endPosition="23" />
+    <scopeInfo nodeId="2169813270746228302" fileName="PrioUtil.java" startLine="66" startPosition="75" endLine="67" endPosition="24" />
+    <scopeInfo nodeId="2169813270745971391" fileName="PrioUtil.java" startLine="10" startPosition="23" endLine="12" endPosition="3" />
+    <scopeInfo nodeId="2169813270746228251" fileName="PrioUtil.java" startLine="50" startPosition="53" endLine="52" endPosition="119" />
+    <scopeInfo nodeId="2169813270746228313" fileName="PrioUtil.java" startLine="69" startPosition="58" endLine="71" endPosition="46" />
+    <scopeInfo nodeId="2169813270746228193" fileName="PrioUtil.java" startLine="33" startPosition="61" endLine="36" endPosition="43" />
+    <scopeInfo nodeId="2169813270746228130" fileName="PrioUtil.java" startLine="28" startPosition="0" endLine="32" endPosition="0">
+      <varInfo nodeId="2169813270746228133" varName="child" />
+      <varInfo nodeId="2169813270746228137" varName="isRight" />
+      <varInfo nodeId="2169813270746228135" varName="parent" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228244" fileName="PrioUtil.java" startLine="48" startPosition="106" endLine="53" endPosition="7">
+      <varInfo nodeId="2169813270746228246" varName="sideChild" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228190" fileName="PrioUtil.java" startLine="32" startPosition="0" endLine="38" endPosition="0">
+      <varInfo nodeId="2169813270746228205" varName="binOp" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228278" fileName="PrioUtil.java" startLine="61" startPosition="129" endLine="72" endPosition="7">
+      <varInfo nodeId="2169813270746228287" varName="isRight" />
+      <varInfo nodeId="2169813270746228280" varName="parent" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228085" fileName="PrioUtil.java" startLine="14" startPosition="73" endLine="26" endPosition="5">
+      <varInfo nodeId="2169813270746228087" varName="backsideExpr" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228076" fileName="PrioUtil.java" startLine="13" startPosition="0" endLine="28" endPosition="0">
+      <varInfo nodeId="2169813270746228079" varName="child" />
+      <varInfo nodeId="2169813270746228081" varName="op" />
+      <varInfo nodeId="2169813270746228083" varName="isRight" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228214" fileName="PrioUtil.java" startLine="39" startPosition="83" endLine="54" endPosition="5">
+      <varInfo nodeId="2169813270746228224" varName="binOp" />
+      <varInfo nodeId="2169813270746228229" varName="sideExpr" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228268" fileName="PrioUtil.java" startLine="57" startPosition="67" endLine="73" endPosition="5" />
+    <scopeInfo nodeId="2169813270746228207" fileName="PrioUtil.java" startLine="38" startPosition="0" endLine="56" endPosition="0">
+      <varInfo nodeId="2169813270746228210" varName="node" />
+      <varInfo nodeId="2169813270746228212" varName="isRight" />
+    </scopeInfo>
+    <scopeInfo nodeId="2169813270746228265" fileName="PrioUtil.java" startLine="56" startPosition="0" endLine="75" endPosition="0">
+      <varInfo nodeId="2169813270746228366" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="2169813270745971389" fileName="PrioUtil.java" startLine="10" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.actions.PrioUtil" />
+  </root>
   <root nodeId="5763383285156484440">
     <nodeInfo nodeId="5763383285156489171" fileName="QueriesGenerated.java" startLine="32" startPosition="202" endLine="33" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="5856418980158945501" fileName="QueriesGenerated.java" startLine="134" startPosition="51" endLine="135" endPosition="236" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="5856418980158945524" fileName="QueriesGenerated.java" startLine="135" startPosition="236" endLine="136" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="5856418980158945580" fileName="QueriesGenerated.java" startLine="137" startPosition="28" endLine="138" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158945572" fileName="QueriesGenerated.java" startLine="139" startPosition="18" endLine="140" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158945550" fileName="QueriesGenerated.java" startLine="141" startPosition="11" endLine="142" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158945555" fileName="QueriesGenerated.java" startLine="142" startPosition="76" endLine="143" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158945561" fileName="QueriesGenerated.java" startLine="143" startPosition="84" endLine="144" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="5856418980158945521" fileName="QueriesGenerated.java" startLine="139" startPosition="16" endLine="141" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="5856418980158945512" fileName="QueriesGenerated.java" startLine="136" startPosition="20" endLine="141" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5856418980158945501" fileName="QueriesGenerated.java" startLine="136" startPosition="51" endLine="137" endPosition="236" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5856418980158945524" fileName="QueriesGenerated.java" startLine="137" startPosition="236" endLine="138" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5856418980158945580" fileName="QueriesGenerated.java" startLine="139" startPosition="28" endLine="140" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158945572" fileName="QueriesGenerated.java" startLine="141" startPosition="18" endLine="142" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158945550" fileName="QueriesGenerated.java" startLine="143" startPosition="11" endLine="144" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158945555" fileName="QueriesGenerated.java" startLine="144" startPosition="76" endLine="145" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158945561" fileName="QueriesGenerated.java" startLine="145" startPosition="84" endLine="146" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5856418980158945521" fileName="QueriesGenerated.java" startLine="141" startPosition="16" endLine="143" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5856418980158945512" fileName="QueriesGenerated.java" startLine="138" startPosition="20" endLine="143" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <scopeInfo nodeId="5763383285156489170" fileName="QueriesGenerated.java" startLine="32" startPosition="202" endLine="33" endPosition="160" />
-    <scopeInfo nodeId="5856418980158945513" fileName="QueriesGenerated.java" startLine="137" startPosition="28" endLine="138" endPosition="83" />
-    <scopeInfo nodeId="5856418980158945522" fileName="QueriesGenerated.java" startLine="139" startPosition="18" endLine="140" endPosition="120" />
-    <scopeInfo nodeId="5763383285156484517" fileName="QueriesGenerated.java" startLine="134" startPosition="51" endLine="144" endPosition="21">
+    <scopeInfo nodeId="5856418980158945513" fileName="QueriesGenerated.java" startLine="139" startPosition="28" endLine="140" endPosition="83" />
+    <scopeInfo nodeId="5856418980158945522" fileName="QueriesGenerated.java" startLine="141" startPosition="18" endLine="142" endPosition="120" />
+    <scopeInfo nodeId="5763383285156484517" fileName="QueriesGenerated.java" startLine="136" startPosition="51" endLine="146" endPosition="21">
       <varInfo nodeId="5856418980158945525" varName="mae" />
       <varInfo nodeId="5856418980158945502" varName="mac" />
     </scopeInfo>
@@ -46,12 +134,14 @@
   <root nodeId="8860443239512141254">
     <nodeInfo nodeId="5856418980158939733" fileName="QueriesGenerated.java" startLine="92" startPosition="103" endLine="93" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="5856418980158939738" fileName="QueriesGenerated.java" startLine="93" startPosition="81" endLine="94" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158939745" fileName="QueriesGenerated.java" startLine="94" startPosition="87" endLine="95" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="5856418980158938943" fileName="QueriesGenerated.java" startLine="118" startPosition="103" endLine="119" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158938948" fileName="QueriesGenerated.java" startLine="119" startPosition="81" endLine="120" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="5856418980158938958" fileName="QueriesGenerated.java" startLine="120" startPosition="86" endLine="121" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="5856418980158939732" fileName="QueriesGenerated.java" startLine="92" startPosition="103" endLine="95" endPosition="26" />
-    <scopeInfo nodeId="5856418980158938942" fileName="QueriesGenerated.java" startLine="118" startPosition="103" endLine="121" endPosition="26" />
+    <nodeInfo nodeId="2169813270746260185" fileName="QueriesGenerated.java" startLine="94" startPosition="87" endLine="95" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158939745" fileName="QueriesGenerated.java" startLine="95" startPosition="55" endLine="96" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5856418980158938943" fileName="QueriesGenerated.java" startLine="119" startPosition="103" endLine="120" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158938948" fileName="QueriesGenerated.java" startLine="120" startPosition="81" endLine="121" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2169813270746260190" fileName="QueriesGenerated.java" startLine="121" startPosition="86" endLine="122" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5856418980158938958" fileName="QueriesGenerated.java" startLine="122" startPosition="55" endLine="123" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5856418980158939732" fileName="QueriesGenerated.java" startLine="92" startPosition="103" endLine="96" endPosition="26" />
+    <scopeInfo nodeId="5856418980158938942" fileName="QueriesGenerated.java" startLine="119" startPosition="103" endLine="123" endPosition="26" />
   </root>
 </debugInfo>
 

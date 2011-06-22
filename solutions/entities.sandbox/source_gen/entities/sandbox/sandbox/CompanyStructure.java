@@ -35,15 +35,15 @@ public class CompanyStructure {
       public void actionPerformed(ActionEvent p0) {
         Department aDepartment = new Department();
         Employee aEmployee = new Employee();
-        aEmployee.setName(retrieve_name(widget0, aEmployee));
+        aEmployee.setName(retrieve_name(aEmployee, widget0));
         aEmployee.setRole(retrieve_role(widget1));
-        aEmployee.setFreelancer(retrieve_freelancer(widget2, aEmployee));
+        aEmployee.setFreelancer(retrieve_freelancer(aEmployee, widget2));
         aDepartment.setDescription(retrieve_description(widget3));
         System.err.println(aDepartment.toString());
         System.err.println(aEmployee.toString());
       }
 
-      public String retrieve_name(JComponent widget0, Employee aEmployee) {
+      public String retrieve_name(Employee aEmployee, JComponent widget0) {
         String newValue = ((JTextField) widget0).getText();
         if (!(aEmployee.getName().length() > 30)) {
           throw new RuntimeException("Validation Failed" + "Name");
@@ -56,7 +56,7 @@ public class CompanyStructure {
         return newValue;
       }
 
-      public boolean retrieve_freelancer(JComponent widget2, Employee aEmployee) {
+      public boolean retrieve_freelancer(Employee aEmployee, JComponent widget2) {
         boolean newValue = ((JCheckBox) widget2).isSelected();
         if (!((aEmployee.getWorksAt() != null ?
           aEmployee.getFreelancer() == true :

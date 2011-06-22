@@ -8,7 +8,7 @@ public class Employee {
   private String name;
   private String role;
   private Department worksAt;
-  private int hallo;
+  private int age;
   private boolean freelancer;
 
   public Employee() {
@@ -46,12 +46,12 @@ public class Employee {
     this.worksAt = newValue;
   }
 
-  public void setHallo(int newValue) {
+  public void setAge(int newValue) {
     // check permissions (from rbac_entities) 
-    if (new RbacSpecEntities().currentUserHasWritePermission("Employee.hallo")) {
+    if (new RbacSpecEntities().currentUserHasWritePermission("Employee.age")) {
       throw new RuntimeException("no permission");
     }
-    this.hallo = newValue;
+    this.age = newValue;
   }
 
   public void setFreelancer(boolean newValue) {
@@ -78,8 +78,8 @@ public class Employee {
     return worksAt;
   }
 
-  public int getHallo() {
-    return hallo;
+  public int getAge() {
+    return age;
   }
 
   public boolean getFreelancer() {
@@ -93,7 +93,7 @@ public class Employee {
     bf.append("  " + "name" + ":" + getName() + "\n");
     bf.append("  " + "role" + ":" + getRole() + "\n");
     bf.append("  " + "worksAt" + ":" + getWorksAt() + "\n");
-    bf.append("  " + "hallo" + ":" + getHallo() + "\n");
+    bf.append("  " + "age" + ":" + getAge() + "\n");
     bf.append("  " + "freelancer" + ":" + getFreelancer() + "\n");
     return bf.toString();
   }
