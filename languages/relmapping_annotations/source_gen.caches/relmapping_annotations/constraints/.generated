@@ -12,7 +12,7 @@
   <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
-  <dep model="r:0615bda4-3f86-4de7-999b-7bcfcce3dfca(relmapping_annotations.structure)" hash="77gdf4b3vimdk2xulei13ptr59kauud" />
+  <dep model="r:0615bda4-3f86-4de7-999b-7bcfcce3dfca(relmapping_annotations.structure)" hash="5b77wk4z252pm8ncex79rg2ift9v77o" />
   <dep model="r:809ac175-1ff6-411f-a40d-7197beaf8b05(relmapping.behavior)" hash="ctfgjjyvofxggwwifvj6pniri2llrfx" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:bd39be0d-6643-42ef-8db8-4f21054357a7(relmapping.structure)" hash="-e1nthbigx4yqh7fj08a1nq02w76l9gm" />

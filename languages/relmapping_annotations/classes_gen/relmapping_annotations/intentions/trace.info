@@ -4,13 +4,13 @@
   <unitInfo fileName="toggleColMapping_Intention.java" startLine="14" startPosition="0" endLine="50" endPosition="0" unitName="relmapping_annotations.intentions.toggleColMapping_Intention" />
   <root nodeId="4808699962363388635">
     <nodeInfo nodeId="4808699962363397102" fileName="toggleColMapping_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="4808699962363397571" fileName="toggleColMapping_Intention.java" startLine="39" startPosition="118" endLine="40" endPosition="134" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4808699962363397588" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="162" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4808699962363397586" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="10" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="4808699962363397104" fileName="toggleColMapping_Intention.java" startLine="38" startPosition="76" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="2894144154985486458" fileName="toggleColMapping_Intention.java" startLine="39" startPosition="193" endLine="40" endPosition="209" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2894144154985486474" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="243" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="2894144154985486472" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="10" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="2894144154985436069" fileName="toggleColMapping_Intention.java" startLine="38" startPosition="76" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <scopeInfo nodeId="4808699962363388637" fileName="toggleColMapping_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="35" />
-    <scopeInfo nodeId="4808699962363397106" fileName="toggleColMapping_Intention.java" startLine="39" startPosition="118" endLine="40" endPosition="134" />
-    <scopeInfo nodeId="4808699962363397587" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="162" />
+    <scopeInfo nodeId="2894144154985436071" fileName="toggleColMapping_Intention.java" startLine="39" startPosition="193" endLine="40" endPosition="209" />
+    <scopeInfo nodeId="2894144154985486473" fileName="toggleColMapping_Intention.java" startLine="41" startPosition="12" endLine="42" endPosition="243" />
     <scopeInfo nodeId="4808699962363388639" fileName="toggleColMapping_Intention.java" startLine="38" startPosition="76" endLine="43" endPosition="5" />
   </root>
 </debugInfo>

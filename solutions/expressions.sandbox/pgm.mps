@@ -70,11 +70,16 @@
         </node>
       </node>
     </node>
-    <node role="vars" roleId="41qj.8864856114140194170" type="41qj.Variable" typeId="41qj.8864856114140194152" id="6629763694154629982">
+    <node role="vars" roleId="41qj.8864856114140194170" type="41qj.Variable" typeId="41qj.8864856114140194152" id="2894144154985241407">
       <property name="name" nameId="tpck.1169194664001" value="x" />
-      <node role="type" roleId="41qj.8864856114140194154" type="mj1l.IntType" typeId="mj1l.8860443239512128108" id="6629763694154629983" />
-      <node role="expr" roleId="41qj.8864856114140194167" type="41qj.VarRef" typeId="41qj.8864856114140195421" id="6629763694154629985">
-        <link role="var" roleId="41qj.8864856114140195422" targetNodeId="8864856114140238111" resolveInfo="dd" />
+      <node role="type" roleId="41qj.8864856114140194154" type="mj1l.IntType" typeId="mj1l.8860443239512128108" id="2894144154985241408" />
+      <node role="expr" roleId="41qj.8864856114140194167" type="mj1l.MultiExpression" typeId="mj1l.5763383285156373020" id="2894144154985241414">
+        <node role="left" roleId="mj1l.8860443239512128064" type="mj1l.IntegerLiteral" typeId="mj1l.8860443239512128103" id="2894144154985241409">
+          <property name="value" nameId="mj1l.8860443239512128104" value="12" />
+        </node>
+        <node role="right" roleId="mj1l.8860443239512128065" type="mj1l.IntegerLiteral" typeId="mj1l.8860443239512128103" id="2894144154985241415">
+          <property name="value" nameId="mj1l.8860443239512128104" value="3" />
+        </node>
       </node>
     </node>
   </root>
