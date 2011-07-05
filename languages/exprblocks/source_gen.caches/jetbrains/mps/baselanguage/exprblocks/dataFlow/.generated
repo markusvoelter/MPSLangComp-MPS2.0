@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="aolzbn7ybi1hjjrpiy9z32au17e43fx">
+<dependencies version="2" modelHash="-7yq02d74s2uv9s2517yjy45zhaf80u6">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -13,9 +13,9 @@
   <dep model="r:00000000-0000-4000-0000-011c8959037e(jetbrains.mps.lang.dataFlow.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
-  <dep model="r:c326c315-2a51-4176-a361-d4f52419aa16(jetbrains.mps.baselanguage.exprblocks.structure)" hash="6yp4ilt00zeoz2cky1740jvfqgb8n30" />
+  <dep model="r:c326c315-2a51-4176-a361-d4f52419aa16(jetbrains.mps.baselanguage.exprblocks.structure)" hash="-4iiguebsi3cci1l1bwye2jrhzd9yzr9" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="8o9tflu5occdp9wc81a423xf62uc1v">
+  <common hash="-4oiohqr0ij20dg0brjmypfpkazmsyj7" dependsOnNodes="true">
     <dep root="5359815737040852836" />
     <dep root="7498631926207736329" />
     <dep root="7498631926207736344" />
@@ -30,7 +30,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="DFABuilders.java" />
   </common>
-  <source id="7498631926207736329" name="BlockExpression_DataFlow" hash="mc1b3uigqj3gwpjn55gwrr8pymsgzl">
+  <source id="7498631926207736329" name="BlockExpression_DataFlow" hash="-3djdf0jk6hsqp8rptfyfgg1uozolzju">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -48,7 +48,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="BlockExpression_DataFlow.java" />
   </source>
-  <source id="7498631926207736344" name="ExpressionBlock_DataFlow" hash="-adci0d0689hjg0yqj4hsfuio8ngunwp">
+  <source id="7498631926207736344" name="ExpressionBlock_DataFlow" hash="-s8h6i1yf4d2x69czor8gs99tos7ugh">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -66,7 +66,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="ExpressionBlock_DataFlow.java" />
   </source>
-  <source id="5359815737040852836" name="BlockExpressionYield_DataFlow" hash="b2dwe22cac6z710nhmywzihzibe7wlo">
+  <source id="5359815737040852836" name="BlockExpressionYield_DataFlow" hash="-9r66emt4tugvkle4wroreuxm0tb10ax">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />

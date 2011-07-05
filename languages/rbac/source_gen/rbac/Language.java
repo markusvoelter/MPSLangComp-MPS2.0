@@ -13,6 +13,7 @@ public class Language extends LanguageRuntime {
   public static ModuleReference MODULE_REFERENCE = ModuleReference.fromString("9c31029f-c3f8-4550-858b-9d6640a9f9ed(rbac)");
 
   public Language() {
+
   }
 
   public String getNamespace() {

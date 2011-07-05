@@ -6,6 +6,7 @@
   <unitInfo fileName="EIntType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="entities.structure.EIntType" />
   <unitInfo fileName="Type.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="entities.structure.Type" />
   <unitInfo fileName="EntityType.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="entities.structure.EntityType" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="39" endPosition="0" unitName="entities.structure.StructureAspectDescriptor" />
   <unitInfo fileName="Attribute.java" startLine="14" startPosition="0" endLine="95" endPosition="0" unitName="entities.structure.Attribute" />
   <unitInfo fileName="Entity.java" startLine="14" startPosition="0" endLine="107" endPosition="0" unitName="entities.structure.Entity" />
   <unitInfo fileName="Module.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="entities.structure.Module" />

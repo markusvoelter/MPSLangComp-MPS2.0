@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="Field_Constraints.java" startLine="69" startPosition="32" endLine="96" endPosition="5" unitName="uispec.constraints.Field_Constraints$1" />
-  <unitInfo fileName="Field_Constraints.java" startLine="27" startPosition="0" endLine="100" endPosition="0" unitName="uispec.constraints.Field_Constraints" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="uispec.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="Field_Constraints.java" startLine="44" startPosition="19" endLine="69" endPosition="9" unitName="uispec.constraints.Field_Constraints$2" />
+  <unitInfo fileName="Field_Constraints.java" startLine="35" startPosition="36" endLine="71" endPosition="5" unitName="uispec.constraints.Field_Constraints$1" />
+  <unitInfo fileName="Field_Constraints.java" startLine="25" startPosition="0" endLine="75" endPosition="0" unitName="uispec.constraints.Field_Constraints" />
   <root nodeId="517595247550248482">
-    <nodeInfo nodeId="517595247550271892" fileName="Field_Constraints.java" startLine="74" startPosition="133" endLine="75" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="517595247550249027" fileName="Field_Constraints.java" startLine="84" startPosition="136" endLine="85" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="517595247550249040" fileName="Field_Constraints.java" startLine="85" startPosition="49" endLine="86" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="517595247550252037" fileName="Field_Constraints.java" startLine="87" startPosition="81" endLine="88" endPosition="168" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="517595247550249037" fileName="Field_Constraints.java" startLine="89" startPosition="9" endLine="90" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="517595247550249057" fileName="Field_Constraints.java" startLine="86" startPosition="116" endLine="89" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
-    <scopeInfo nodeId="517595247550271891" fileName="Field_Constraints.java" startLine="74" startPosition="133" endLine="75" endPosition="93" />
-    <scopeInfo nodeId="517595247550249059" fileName="Field_Constraints.java" startLine="87" startPosition="81" endLine="88" endPosition="168" />
-    <scopeInfo nodeId="517595247550249057" fileName="Field_Constraints.java" startLine="86" startPosition="116" endLine="89" endPosition="9">
+    <nodeInfo nodeId="517595247550271892" fileName="Field_Constraints.java" startLine="51" startPosition="128" endLine="52" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="517595247550249027" fileName="Field_Constraints.java" startLine="56" startPosition="142" endLine="57" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="517595247550249040" fileName="Field_Constraints.java" startLine="57" startPosition="53" endLine="58" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="517595247550252037" fileName="Field_Constraints.java" startLine="59" startPosition="85" endLine="60" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="517595247550249037" fileName="Field_Constraints.java" startLine="61" startPosition="13" endLine="62" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="517595247550249057" fileName="Field_Constraints.java" startLine="58" startPosition="120" endLine="61" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <scopeInfo nodeId="517595247550271891" fileName="Field_Constraints.java" startLine="51" startPosition="128" endLine="52" endPosition="97" />
+    <scopeInfo nodeId="517595247550249059" fileName="Field_Constraints.java" startLine="59" startPosition="85" endLine="60" endPosition="172" />
+    <scopeInfo nodeId="517595247550249057" fileName="Field_Constraints.java" startLine="58" startPosition="120" endLine="61" endPosition="13">
       <varInfo nodeId="517595247550249058" varName="er" />
     </scopeInfo>
-    <scopeInfo nodeId="517595247550248485" fileName="Field_Constraints.java" startLine="84" startPosition="136" endLine="90" endPosition="19">
+    <scopeInfo nodeId="517595247550248485" fileName="Field_Constraints.java" startLine="56" startPosition="142" endLine="62" endPosition="23">
       <varInfo nodeId="517595247550249028" varName="res" />
       <varInfo nodeId="517595247550249041" varName="form" />
     </scopeInfo>

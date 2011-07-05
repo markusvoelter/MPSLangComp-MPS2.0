@@ -112,7 +112,7 @@
             </node>
             <node role="leftExpression" roleId="tpd4.1174660783413" type="tpd4.NormalTypeClause" typeId="tpd4.1185788614172" id="3406978297571804279">
               <node role="normalType" roleId="tpd4.1185788644032" type="tpd4.WhenConcreteVariableReference" typeId="tpd4.1205762656241" id="3406978297571804280">
-                <link role="whenConcreteVar" roleId="tpd4.1205762683928" targetNodeId="3406978297571804266" resolveInfo="expr" />
+                <link role="whenConcreteVar" roleId="tpd4.1205762683928" targetNodeId="3406978297571804266" resolveInfo="exprtype" />
               </node>
             </node>
           </node>

@@ -121,7 +121,7 @@
         <property name="attractsFocus" nameId="tpc2.1130859485024" value="2" />
         <property name="noTargetText" nameId="tpc2.1139852716018" value="..." />
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="mj1l.8860443239512128065" />
-        <link role="actionMap" roleId="tpc2.1139959269582" targetNodeId="7389581223062101945" resolveInfo="binaryExpressionActions" />
+        <link role="actionMap" roleId="tpc2.1139959269582" targetNodeId="7389581223062101945" resolveInfo="binaryExpressionActions_RightArg" />
         <node role="focusPolicyApplicable" roleId="tpc2.1198512004906" type="tpc2.QueryFunction_NodeCondition" typeId="tpc2.1142886221719" id="8860443239512146717">
           <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="8860443239512146718">
             <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="7389581223062046221">

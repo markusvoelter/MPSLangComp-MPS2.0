@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="Column_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="relmapping.behavior.Column_Behavior" />
+  <unitInfo fileName="NumberType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="relmapping.behavior.NumberType_BehaviorDescriptor" />
+  <unitInfo fileName="CharType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="relmapping.behavior.CharType_BehaviorDescriptor" />
+  <unitInfo fileName="DataType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="relmapping.behavior.DataType_BehaviorDescriptor" />
+  <unitInfo fileName="ColumnMapper_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="relmapping.behavior.ColumnMapper_BehaviorDescriptor" />
+  <unitInfo fileName="Column_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="relmapping.behavior.Column_BehaviorDescriptor" />
+  <unitInfo fileName="Table_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="relmapping.behavior.Table_BehaviorDescriptor" />
+  <unitInfo fileName="Database_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="relmapping.behavior.Database_BehaviorDescriptor" />
   <unitInfo fileName="ColumnMapper_Behavior.java" startLine="13" startPosition="0" endLine="34" endPosition="0" unitName="relmapping.behavior.ColumnMapper_Behavior" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="32" endPosition="0" unitName="relmapping.behavior.BehaviorAspectDescriptor" />
   <root nodeId="655010299496087810">
     <nodeInfo nodeId="655010299496087818" fileName="Column_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <scopeInfo nodeId="655010299496087812" fileName="Column_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />

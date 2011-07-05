@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="81pqv760zqux2d0se1zz6bsuky5ww50">
+<dependencies version="2" modelHash="-epsqoejqhy6xb5zicenxkic0wnykoyd">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -12,15 +12,26 @@
   <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
-  <dep model="r:0615bda4-3f86-4de7-999b-7bcfcce3dfca(relmapping_annotations.structure)" hash="5zv98ouo5dquwfehl60xaiixs2f2ed2" />
-  <dep model="r:809ac175-1ff6-411f-a40d-7197beaf8b05(relmapping.behavior)" hash="7wn2sedsizusvs9wdw70y6nlout40c5" />
+  <dep model="r:0615bda4-3f86-4de7-999b-7bcfcce3dfca(relmapping_annotations.structure)" hash="77gdf4b3vimdk2xulei13ptr59kauud" />
+  <dep model="r:809ac175-1ff6-411f-a40d-7197beaf8b05(relmapping.behavior)" hash="ctfgjjyvofxggwwifvj6pniri2llrfx" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
-  <dep model="r:bd39be0d-6643-42ef-8db8-4f21054357a7(relmapping.structure)" hash="-c0k2pheo4c2dbgpctggd83ec9e671m" />
+  <dep model="r:bd39be0d-6643-42ef-8db8-4f21054357a7(relmapping.structure)" hash="-e1nthbigx4yqh7fj08a1nq02w76l9gm" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="6xjgax57b9pxtcorma3kwtaztxpeuou">
+  <common hash="-4ik0bj1k88b0pmjvmguq1xy4hi4gv95" dependsOnNodes="true">
+    <dep root="4808699962363398009" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959030e(jetbrains.mps.lang.constraints.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:0615bda4-3f86-4de7-999b-7bcfcce3dfca(relmapping_annotations.structure)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="ConstraintsAspectDescriptor.java" />
   </common>
-  <source id="4808699962363398009" name="AttrToColMapping_Constraints" hash="1phguddiebcvrstopmyh7rl6f2sch9t">
+  <source id="4808699962363398009" name="AttrToColMapping_Constraints" hash="-42d3x7uu9ndquqdg9xakgo2zvp2j5du">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />

@@ -7,7 +7,7 @@ import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 
@@ -47,7 +47,7 @@ public class makeValidated_Intention extends BaseIntention implements Intention 
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNode vf = SConceptOperations.createNewNode("uispec_validation.structure.ValidatedField", null);
+    SNode vf = SNodeFactoryOperations.createNewNode("uispec_validation.structure.ValidatedField", null);
     SLinkOperations.setTarget(vf, "widget", SLinkOperations.getTarget(node, "widget", true), true);
     SLinkOperations.setTarget(vf, "attribute", SLinkOperations.getTarget(node, "attribute", false), false);
     SPropertyOperations.set(vf, "label", SPropertyOperations.getString(node, "label"));

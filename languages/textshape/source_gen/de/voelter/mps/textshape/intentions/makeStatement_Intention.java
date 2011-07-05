@@ -6,11 +6,12 @@ import jetbrains.mps.intentions.BaseIntention;
 import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.AttributeOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.IAttributeDescriptor;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 
 public class makeStatement_Intention extends BaseIntention implements Intention {
@@ -38,7 +39,7 @@ public class makeStatement_Intention extends BaseIntention implements Intention 
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNode s = SConceptOperations.createNewNode("de.voelter.mps.textshape.structure.Statement", null);
+    SNode s = SNodeFactoryOperations.createNewNode("de.voelter.mps.textshape.structure.Statement", null);
     for (SNode c : ListSequence.fromList(SLinkOperations.getTargets(node, "tokens", true))) {
       ListSequence.fromList(SLinkOperations.getTargets(SLinkOperations.getTarget(s, "token", true), "tokens", true)).addElement(c);
     }

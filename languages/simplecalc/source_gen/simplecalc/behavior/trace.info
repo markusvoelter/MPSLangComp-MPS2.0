@@ -5,6 +5,20 @@
   <unitInfo fileName="StructType_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.StructType_Behavior" />
   <unitInfo fileName="StructRefExpression_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.StructRefExpression_Behavior" />
   <unitInfo fileName="VarRefExpression_Behavior.java" startLine="9" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.VarRefExpression_Behavior" />
+  <unitInfo fileName="DocText_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.DocText_BehaviorDescriptor" />
+  <unitInfo fileName="ANdOP_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.ANdOP_BehaviorDescriptor" />
+  <unitInfo fileName="Struct_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.Struct_BehaviorDescriptor" />
+  <unitInfo fileName="Calculation_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.Calculation_BehaviorDescriptor" />
+  <unitInfo fileName="System_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="simplecalc.behavior.System_BehaviorDescriptor" />
+  <unitInfo fileName="MyOwnDotExpression_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.MyOwnDotExpression_BehaviorDescriptor" />
+  <unitInfo fileName="StructMemberAccess_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="simplecalc.behavior.StructMemberAccess_BehaviorDescriptor" />
+  <unitInfo fileName="VarDecl_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="simplecalc.behavior.VarDecl_BehaviorDescriptor" />
+  <unitInfo fileName="StructType_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="simplecalc.behavior.StructType_BehaviorDescriptor" />
+  <unitInfo fileName="StructRefExpression_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="simplecalc.behavior.StructRefExpression_BehaviorDescriptor" />
+  <unitInfo fileName="VarRefExpression_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="simplecalc.behavior.VarRefExpression_BehaviorDescriptor" />
+  <unitInfo fileName="StructMember_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="simplecalc.behavior.StructMember_BehaviorDescriptor" />
+  <unitInfo fileName="SysContent_BehaviorDescriptor.java" startLine="12" startPosition="0" endLine="37" endPosition="0" unitName="simplecalc.behavior.SysContent_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="simplecalc.behavior.BehaviorAspectDescriptor" />
   <root nodeId="5815279313395687011">
     <nodeInfo nodeId="5815279313395687020" fileName="VarRefExpression_Behavior.java" startLine="13" startPosition="75" endLine="14" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <scopeInfo nodeId="5815279313395687013" fileName="VarRefExpression_Behavior.java" startLine="10" startPosition="43" endLine="10" endPosition="43" />

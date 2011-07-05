@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="IQualifiedNamedConcept_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.naming.behavior.IQualifiedNamedConcept_BehaviorDescriptor" />
+  <unitInfo fileName="INamespaceContent_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespaceContent_BehaviorDescriptor" />
+  <unitInfo fileName="INamespace_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="13" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespace_BehaviorDescriptor" />
+  <unitInfo fileName="NamespaceImport_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.naming.behavior.NamespaceImport_BehaviorDescriptor" />
+  <unitInfo fileName="UniqueNamesConstraint_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.naming.behavior.UniqueNamesConstraint_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="28" endPosition="0" unitName="de.voelter.mps.naming.behavior.BehaviorAspectDescriptor" />
   <unitInfo fileName="IQualifiedNamedConcept_Behavior.java" startLine="12" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.naming.behavior.IQualifiedNamedConcept_Behavior" />
   <unitInfo fileName="INamespaceContent_Behavior.java" startLine="11" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespaceContent_Behavior" />
+  <unitInfo fileName="Namespace_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="47" endPosition="0" unitName="de.voelter.mps.naming.behavior.Namespace_BehaviorDescriptor" />
   <unitInfo fileName="INamespace_Behavior.java" startLine="17" startPosition="0" endLine="92" endPosition="0" unitName="de.voelter.mps.naming.behavior.INamespace_Behavior" />
   <root nodeId="5019556274771758837">
     <nodeInfo nodeId="5019556274771797755" fileName="IQualifiedNamedConcept_Behavior.java" startLine="18" startPosition="82" endLine="19" endPosition="124" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="AttrToColMapping_Constraints.java" startLine="62" startPosition="29" endLine="76" endPosition="5" unitName="relmapping_annotations.constraints.AttrToColMapping_Constraints$1" />
-  <unitInfo fileName="AttrToColMapping_Constraints.java" startLine="20" startPosition="0" endLine="80" endPosition="0" unitName="relmapping_annotations.constraints.AttrToColMapping_Constraints" />
+  <unitInfo fileName="AttrToColMapping_Constraints.java" startLine="29" startPosition="19" endLine="39" endPosition="9" unitName="relmapping_annotations.constraints.AttrToColMapping_Constraints$2" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="relmapping_annotations.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="AttrToColMapping_Constraints.java" startLine="25" startPosition="33" endLine="41" endPosition="5" unitName="relmapping_annotations.constraints.AttrToColMapping_Constraints$1" />
+  <unitInfo fileName="AttrToColMapping_Constraints.java" startLine="17" startPosition="0" endLine="45" endPosition="0" unitName="relmapping_annotations.constraints.AttrToColMapping_Constraints" />
   <root nodeId="4808699962363398009">
-    <nodeInfo nodeId="4808699962363398013" fileName="AttrToColMapping_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="90" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="4808699962363398012" fileName="AttrToColMapping_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="90" />
+    <nodeInfo nodeId="4808699962363398013" fileName="AttrToColMapping_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4808699962363398012" fileName="AttrToColMapping_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="94" />
   </root>
 </debugInfo>
 

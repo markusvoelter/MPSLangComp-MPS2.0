@@ -14,6 +14,7 @@ public class Language extends LanguageRuntime {
   public static ModuleReference MODULE_REFERENCE = ModuleReference.fromString("8e140b25-af36-4747-a45b-0c06e5c68bce(de.voelter.mps.naming)");
 
   public Language() {
+
   }
 
   public String getNamespace() {

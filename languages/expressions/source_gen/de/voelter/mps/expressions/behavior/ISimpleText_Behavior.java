@@ -15,7 +15,7 @@ public class ISimpleText_Behavior {
   }
 
   public static String call_toText_5815279313395675462(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (String) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.expressions.structure.ISimpleText"), "virtual_toText_5815279313395675462", PARAMETERS_5815279313395675462);
   }
 

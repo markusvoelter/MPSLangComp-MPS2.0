@@ -14,16 +14,25 @@
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="42egk0mxaoisenzmyh97mdesjwpuj1">
+  <common hash="42egk0mxaoisenzmyh97mdesjwpuj1" dependsOnNodes="true">
+    <dep root="517595247550292899" />
+    <dep root="517595247550292900" />
+    <dep root="517595247550292909" />
+    <dep root="517595247550295572" />
+    <dep root="517595247550295581" />
+    <dep root="611933243531388602" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="Rbac_Language.java" />
+    <file name="StructureAspectDescriptor.java" />
   </common>
   <source id="517595247550292899" name="RBACSpec" hash="4c3vyu2g6iur7462kfmptkpsduj23th">
     <dep root="517595247550292900" />
@@ -72,7 +81,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="User.java" />
   </source>
-  <source id="517595247550295572" name="Permission" hash="7csvryjz5iamqbnpz5jj9cc7ici49oa" dependsOnCreated="true">
+  <source id="517595247550295572" name="Permission" hash="7csvryjz5iamqbnpz5jj9cc7ici49oa" dependsOnCreated="true" dependsOnNodes="true">
     <dep root="517595247550292899" />
     <dep root="517595247550292900" />
     <dep root="517595247550292909" />

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="VarRef_Constraints.java" startLine="64" startPosition="26" endLine="78" endPosition="5" unitName="de.voelter.mps.expressions.playground.constraints.VarRef_Constraints$1" />
-  <unitInfo fileName="VarRef_Constraints.java" startLine="22" startPosition="0" endLine="82" endPosition="0" unitName="de.voelter.mps.expressions.playground.constraints.VarRef_Constraints" />
+  <unitInfo fileName="VarRef_Constraints.java" startLine="38" startPosition="19" endLine="48" endPosition="9" unitName="de.voelter.mps.expressions.playground.constraints.VarRef_Constraints$2" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.playground.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="VarRef_Constraints.java" startLine="29" startPosition="30" endLine="50" endPosition="5" unitName="de.voelter.mps.expressions.playground.constraints.VarRef_Constraints$1" />
+  <unitInfo fileName="VarRef_Constraints.java" startLine="19" startPosition="0" endLine="54" endPosition="0" unitName="de.voelter.mps.expressions.playground.constraints.VarRef_Constraints" />
   <root nodeId="8864856114140196843">
-    <nodeInfo nodeId="8864856114140196847" fileName="VarRef_Constraints.java" startLine="71" startPosition="136" endLine="72" endPosition="190" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="8864856114140196846" fileName="VarRef_Constraints.java" startLine="71" startPosition="136" endLine="72" endPosition="190" />
+    <nodeInfo nodeId="8864856114140196847" fileName="VarRef_Constraints.java" startLine="40" startPosition="142" endLine="41" endPosition="194" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="8864856114140196846" fileName="VarRef_Constraints.java" startLine="40" startPosition="142" endLine="41" endPosition="194" />
   </root>
 </debugInfo>
 

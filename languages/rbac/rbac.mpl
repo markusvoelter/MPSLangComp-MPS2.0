@@ -5,10 +5,6 @@
   </models>
   <accessoryModels />
   <generators />
-  <dependencies>
-    <dependency reexport="false">8d7b1bfe-840c-4cd6-8f09-3545baa18419(tablebaseclasses)</dependency>
-    <dependency reexport="false">8d7b1bfe-840c-4cd6-8f09-3545baa18419(tablebaseclasses)</dependency>
-  </dependencies>
   <usedLanguages>
     <usedLanguage>0272d3b4-4cc8-481e-9e2f-07793fbfcb41(jetbrains.mps.lang.editor.table)</usedLanguage>
     <usedLanguage>0272d3b4-4cc8-481e-9e2f-07793fbfcb41(jetbrains.mps.lang.editor.table)</usedLanguage>

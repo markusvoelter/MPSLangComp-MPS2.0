@@ -6,7 +6,7 @@ import jetbrains.mps.intentions.BaseIntention;
 import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 
@@ -35,7 +35,7 @@ public class makeBlockExpression_Intention extends BaseIntention implements Inte
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNode e = SConceptOperations.createNewNode("jetbrains.mps.baselanguage.exprblocks.structure.ExpressionBlock", null);
+    SNode e = SNodeFactoryOperations.createNewNode("jetbrains.mps.baselanguage.exprblocks.structure.ExpressionBlock", null);
     SNodeOperations.replaceWithAnother(node, e);
     SLinkOperations.setTarget(e, "result", node, true);
   }

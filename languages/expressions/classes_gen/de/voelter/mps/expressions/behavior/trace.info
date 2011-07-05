@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="IDotExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IDotExpression_BehaviorDescriptor" />
+  <unitInfo fileName="IMemberReference_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IMemberReference_BehaviorDescriptor" />
+  <unitInfo fileName="INumber_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.expressions.behavior.INumber_BehaviorDescriptor" />
+  <unitInfo fileName="IOrdered_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IOrdered_BehaviorDescriptor" />
+  <unitInfo fileName="IComparable_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IComparable_BehaviorDescriptor" />
+  <unitInfo fileName="ISimpleText_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.behavior.ISimpleText_BehaviorDescriptor" />
+  <unitInfo fileName="IMemberContainer_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IMemberContainer_BehaviorDescriptor" />
   <unitInfo fileName="PlusExpression_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.expressions.behavior.PlusExpression_Behavior" />
   <unitInfo fileName="BinaryArithmeticExpression_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_Behavior" />
   <unitInfo fileName="LessExpression_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.expressions.behavior.LessExpression_Behavior" />
@@ -12,9 +19,38 @@
   <unitInfo fileName="StringLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.StringLiteral_Behavior" />
   <unitInfo fileName="IntegerLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IntegerLiteral_Behavior" />
   <unitInfo fileName="BooleanLiteral_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BooleanLiteral_Behavior" />
+  <unitInfo fileName="DoubleType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.DoubleType_BehaviorDescriptor" />
+  <unitInfo fileName="IfExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IfExpression_BehaviorDescriptor" />
+  <unitInfo fileName="StringType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.StringType_BehaviorDescriptor" />
+  <unitInfo fileName="ParensExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.ParensExpression_BehaviorDescriptor" />
+  <unitInfo fileName="MemberAccessExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.MemberAccessExpression_BehaviorDescriptor" />
+  <unitInfo fileName="DivExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.DivExpression_BehaviorDescriptor" />
+  <unitInfo fileName="MultiExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.MultiExpression_BehaviorDescriptor" />
+  <unitInfo fileName="MinusExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.MinusExpression_BehaviorDescriptor" />
+  <unitInfo fileName="PlusExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.PlusExpression_BehaviorDescriptor" />
+  <unitInfo fileName="BinaryArithmeticExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" />
+  <unitInfo fileName="LessEqualsExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.LessEqualsExpression_BehaviorDescriptor" />
+  <unitInfo fileName="LessExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.LessExpression_BehaviorDescriptor" />
+  <unitInfo fileName="GreateEqualsExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.GreateEqualsExpression_BehaviorDescriptor" />
+  <unitInfo fileName="GreaterExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.GreaterExpression_BehaviorDescriptor" />
+  <unitInfo fileName="EqualsExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.EqualsExpression_BehaviorDescriptor" />
+  <unitInfo fileName="IntType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IntType_BehaviorDescriptor" />
+  <unitInfo fileName="FalseLiteral_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.FalseLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="TrueLiteral_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.TrueLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="Literal_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.Literal_BehaviorDescriptor" />
+  <unitInfo fileName="BinaryComparisonExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+  <unitInfo fileName="BooleanType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BooleanType_BehaviorDescriptor" />
+  <unitInfo fileName="BinaryExpression_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BinaryExpression_BehaviorDescriptor" />
+  <unitInfo fileName="Type_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.Type_BehaviorDescriptor" />
+  <unitInfo fileName="Expression_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+  <unitInfo fileName="StringLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="de.voelter.mps.expressions.behavior.StringLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="IntegerLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IntegerLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="BooleanLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BooleanLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="PrimitiveType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="20" endPosition="0" unitName="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" />
   <unitInfo fileName="Expression_Behavior.java" startLine="9" startPosition="0" endLine="23" endPosition="0" unitName="de.voelter.mps.expressions.behavior.Expression_Behavior" />
   <unitInfo fileName="ISimpleText_Behavior.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.expressions.behavior.ISimpleText_Behavior" />
   <unitInfo fileName="IMemberContainer_Behavior.java" startLine="11" startPosition="0" endLine="30" endPosition="0" unitName="de.voelter.mps.expressions.behavior.IMemberContainer_Behavior" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="64" endPosition="0" unitName="de.voelter.mps.expressions.behavior.BehaviorAspectDescriptor" />
   <root nodeId="2088909457728259226">
     <scopeInfo nodeId="2088909457728259228" fileName="PlusExpression_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
   </root>

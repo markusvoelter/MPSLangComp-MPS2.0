@@ -6,7 +6,7 @@ import jetbrains.mps.intentions.BaseIntention;
 import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.smodel.AttributesRolesUtil;
 
 public class addDoc_Intention extends BaseIntention implements Intention {
@@ -34,7 +34,7 @@ public class addDoc_Intention extends BaseIntention implements Intention {
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SLinkOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("doc"), "simplecalc.structure.DocText");
+    SNodeFactoryOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("doc"), "simplecalc.structure.DocText");
   }
 
   public String getLocationString() {

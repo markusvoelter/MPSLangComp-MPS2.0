@@ -6,6 +6,7 @@
   <unitInfo fileName="TextFieldWidget.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="uispec.structure.TextFieldWidget" />
   <unitInfo fileName="ComboValue.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="uispec.structure.ComboValue" />
   <unitInfo fileName="EntityReference.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="uispec.structure.EntityReference" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="39" endPosition="0" unitName="uispec.structure.StructureAspectDescriptor" />
   <unitInfo fileName="ComboWidget.java" startLine="12" startPosition="0" endLine="48" endPosition="0" unitName="uispec.structure.ComboWidget" />
   <unitInfo fileName="Field.java" startLine="12" startPosition="0" endLine="54" endPosition="0" unitName="uispec.structure.Field" />
   <unitInfo fileName="Form.java" startLine="15" startPosition="0" endLine="129" endPosition="0" unitName="uispec.structure.Form" />

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="EBooleanType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="entities.behavior.EBooleanType_BehaviorDescriptor" />
+  <unitInfo fileName="EntityType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="entities.behavior.EntityType_BehaviorDescriptor" />
+  <unitInfo fileName="EStringType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="entities.behavior.EStringType_BehaviorDescriptor" />
+  <unitInfo fileName="EIntType_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="entities.behavior.EIntType_BehaviorDescriptor" />
+  <unitInfo fileName="Type_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="entities.behavior.Type_BehaviorDescriptor" />
+  <unitInfo fileName="Attribute_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="entities.behavior.Attribute_BehaviorDescriptor" />
+  <unitInfo fileName="Entity_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="entities.behavior.Entity_BehaviorDescriptor" />
+  <unitInfo fileName="Module_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="entities.behavior.Module_BehaviorDescriptor" />
   <unitInfo fileName="Attribute_Behavior.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="entities.behavior.Attribute_Behavior" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="36" endPosition="0" unitName="entities.behavior.BehaviorAspectDescriptor" />
   <root nodeId="814100379888502465">
     <nodeInfo nodeId="814100379888534961" fileName="Attribute_Behavior.java" startLine="13" startPosition="70" endLine="14" endPosition="193" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="726639030028408859" fileName="Attribute_Behavior.java" startLine="17" startPosition="75" endLine="18" endPosition="160" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

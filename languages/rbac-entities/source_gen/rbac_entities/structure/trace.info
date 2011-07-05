@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="Rbac_entities_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="rbac_entities.structure.Rbac_entities_Language" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="27" endPosition="0" unitName="rbac_entities.structure.StructureAspectDescriptor" />
   <unitInfo fileName="AttributeResource.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="rbac_entities.structure.AttributeResource" />
   <unitInfo fileName="EntityResource.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="rbac_entities.structure.EntityResource" />
 </debugInfo>

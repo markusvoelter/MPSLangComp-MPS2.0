@@ -19,11 +19,11 @@ import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
 import jetbrains.mps.util.NameUtil;
 import jetbrains.mps.smodel.action.DefaultSimpleSubstituteAction;
 import jetbrains.mps.smodel.SModel;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.action.SideTransformActionsBuilderContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptPropertyOperations;
 import jetbrains.mps.smodel.action.AbstractSideTransformHintSubstituteAction;
-import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import de.voelter.mps.expressions.behavior.IMemberContainer_Behavior;
 
 public class QueriesGenerated {
@@ -48,7 +48,7 @@ public class QueriesGenerated {
       if (outputConcept == null || SConceptOperations.isSuperConceptOf(childConcept, NameUtil.nodeFQName(outputConcept))) {
         ListSequence.fromList(result).addElement(new DefaultSimpleSubstituteAction(outputConcept, _context.getParentNode(), _context.getCurrentTargetNode(), _context.getChildSetter(), operationContext.getScope()) {
           public SNode createChildNode(Object parameterObject, SModel model, String pattern) {
-            SNode i = SConceptOperations.createNewNode("de.voelter.mps.expressions.structure.IntegerLiteral", null);
+            SNode i = SNodeFactoryOperations.createNewNode("de.voelter.mps.expressions.structure.IntegerLiteral", null);
             SPropertyOperations.set(i, "value", "" + (Integer.parseInt(pattern)));
             return i;
           }
@@ -137,9 +137,9 @@ public class QueriesGenerated {
           SNode mac = IMemberContainer_Behavior.call_dotExpressionConcept_5856418980158943574(SNodeOperations.cast(TypeChecker.getInstance().getTypeOf(_context.getSourceNode()), "de.voelter.mps.expressions.structure.IMemberContainer"));
           SNode mae;
           if (mac != null) {
-            mae = SConceptOperations.createNewNode(NameUtil.nodeFQName(mac), null);
+            mae = SNodeFactoryOperations.createNewNode(NameUtil.nodeFQName(mac), null);
           } else {
-            mae = SConceptOperations.createNewNode("de.voelter.mps.expressions.structure.MemberAccessExpression", null);
+            mae = SNodeFactoryOperations.createNewNode("de.voelter.mps.expressions.structure.MemberAccessExpression", null);
           }
           SNodeOperations.replaceWithAnother(_context.getSourceNode(), mae);
           SLinkOperations.setTarget(mae, "context", _context.getSourceNode(), true);

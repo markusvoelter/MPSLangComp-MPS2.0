@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="de.voelter.mps.textshape.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.File_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IndentedBlock_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.Line_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.List_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.MultiTextToken_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.NeedsBlankLink_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.PascalDeclaration_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.PlaceHolder_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.SingleTextToken_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.Statement_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.TextShapeConfig_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.textshape.behavior.File_Behavior" file="File_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.File_BehaviorDescriptor" file="File_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.textshape.behavior.IFileContent_Behavior" file="IFileContent_Behavior.java">
     <classNode dependClassName="java.lang.Boolean" />
@@ -15,6 +43,104 @@
     <classNode dependClassName="jetbrains.mps.smodel.behaviour.BehaviorManager" />
     <classNode dependClassName="jetbrains.mps.smodel.structure.BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.smodel.structure.ConceptRegistry" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" file="IFileContent_BehaviorDescriptor.java">
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.IStatement_BehaviorDescriptor" file="IStatement_BehaviorDescriptor.java" />
+  <dependency className="de.voelter.mps.textshape.behavior.IndentedBlock_BehaviorDescriptor" file="IndentedBlock_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.Line_BehaviorDescriptor" file="Line_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.List_BehaviorDescriptor" file="List_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.TextToken_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.MultiTextToken_BehaviorDescriptor" file="MultiTextToken_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.TextToken_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.NeedsBlankLink_BehaviorDescriptor" file="NeedsBlankLink_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.PascalDeclaration_BehaviorDescriptor" file="PascalDeclaration_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IStatement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.PlaceHolder_BehaviorDescriptor" file="PlaceHolder_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.SingleTextToken_BehaviorDescriptor" file="SingleTextToken_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.TextToken_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.Statement_BehaviorDescriptor" file="Statement_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.IStatement_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.textshape.behavior.Line_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.TextShapeConfig_BehaviorDescriptor" file="TextShapeConfig_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.textshape.behavior.TextToken_BehaviorDescriptor" file="TextToken_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
 </dependenciesRoot>
 

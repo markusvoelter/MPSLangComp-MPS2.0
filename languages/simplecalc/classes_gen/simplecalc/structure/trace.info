@@ -5,6 +5,7 @@
   <unitInfo fileName="ANdOP.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="simplecalc.structure.ANdOP" />
   <unitInfo fileName="DocText.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="simplecalc.structure.DocText" />
   <unitInfo fileName="System.java" startLine="12" startPosition="0" endLine="36" endPosition="0" unitName="simplecalc.structure.System" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="49" endPosition="0" unitName="simplecalc.structure.StructureAspectDescriptor" />
   <unitInfo fileName="VarRefExpression.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.VarRefExpression" />
   <unitInfo fileName="SysContent.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.SysContent" />
   <unitInfo fileName="StructType.java" startLine="15" startPosition="0" endLine="87" endPosition="0" unitName="simplecalc.structure.StructType" />

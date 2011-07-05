@@ -23,7 +23,7 @@ public class ColumnMapper_Behavior {
   }
 
   public static SNode call_typeMappedToDB_726639030028562152(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (SNode) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "relmapping.structure.ColumnMapper"), "virtual_typeMappedToDB_726639030028562152", PARAMETERS_726639030028562152);
   }
 

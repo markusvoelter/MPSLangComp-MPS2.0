@@ -19,7 +19,7 @@ public class IMemberContainer_Behavior {
   }
 
   public static SNode call_dotExpressionConcept_5856418980158943574(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (SNode) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.expressions.structure.IMemberContainer"), "virtual_dotExpressionConcept_5856418980158943574", PARAMETERS_5856418980158943574);
   }
 

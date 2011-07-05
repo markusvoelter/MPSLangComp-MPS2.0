@@ -9,6 +9,7 @@ import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.smodel.AttributesRolesUtil;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 
 public class addBlankLine_Intention extends BaseIntention implements Intention {
   public addBlankLine_Intention() {
@@ -38,7 +39,7 @@ public class addBlankLine_Intention extends BaseIntention implements Intention {
     if ((SLinkOperations.getTarget(node, AttributesRolesUtil.childRoleFromAttributeRole("blankLineBeforeAnn"), true) != null)) {
       SNodeOperations.deleteNode(SLinkOperations.getTarget(node, AttributesRolesUtil.childRoleFromAttributeRole("blankLineBeforeAnn"), true));
     } else {
-      SLinkOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("blankLineBeforeAnn"), "de.voelter.mps.textshape.structure.NeedsBlankLink");
+      SNodeFactoryOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("blankLineBeforeAnn"), "de.voelter.mps.textshape.structure.NeedsBlankLink");
     }
   }
 

@@ -7,7 +7,7 @@ import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 
 public class paranthesize_Intention extends BaseIntention implements Intention {
@@ -46,7 +46,7 @@ public class paranthesize_Intention extends BaseIntention implements Intention {
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNode parens = SConceptOperations.createNewNode("de.voelter.mps.expressions.structure.ParensExpression", null);
+    SNode parens = SNodeFactoryOperations.createNewNode("de.voelter.mps.expressions.structure.ParensExpression", null);
     SNodeOperations.replaceWithAnother(node, parens);
     SLinkOperations.setTarget(parens, "expr", node, true);
   }

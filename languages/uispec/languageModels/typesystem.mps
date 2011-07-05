@@ -56,7 +56,7 @@
               </node>
               <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_IsInstanceOfOperation" typeId="tp25.1139621453865" id="517595247550282741">
                 <node role="conceptArgument" roleId="tp25.1177027386292" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="517595247550282742">
-                  <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550227063" resolveInfo="BooleanType" />
+                  <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550227063" resolveInfo="EBooleanType" />
                 </node>
               </node>
             </node>
@@ -112,7 +112,7 @@
               </node>
               <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_IsInstanceOfOperation" typeId="tp25.1139621453865" id="517595247550282769">
                 <node role="conceptArgument" roleId="tp25.1177027386292" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="517595247550282779">
-                  <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550220428" resolveInfo="StringType" />
+                  <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550220428" resolveInfo="EStringType" />
                 </node>
               </node>
             </node>

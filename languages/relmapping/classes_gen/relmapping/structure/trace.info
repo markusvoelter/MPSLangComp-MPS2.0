@@ -5,6 +5,7 @@
   <unitInfo fileName="CharType.java" startLine="10" startPosition="0" endLine="25" endPosition="0" unitName="relmapping.structure.CharType" />
   <unitInfo fileName="ColumnMapper.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="relmapping.structure.ColumnMapper" />
   <unitInfo fileName="DataType.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="relmapping.structure.DataType" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="37" endPosition="0" unitName="relmapping.structure.StructureAspectDescriptor" />
   <unitInfo fileName="Column.java" startLine="15" startPosition="0" endLine="105" endPosition="0" unitName="relmapping.structure.Column" />
   <unitInfo fileName="Table.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="relmapping.structure.Table" />
   <unitInfo fileName="Database.java" startLine="15" startPosition="0" endLine="108" endPosition="0" unitName="relmapping.structure.Database" />

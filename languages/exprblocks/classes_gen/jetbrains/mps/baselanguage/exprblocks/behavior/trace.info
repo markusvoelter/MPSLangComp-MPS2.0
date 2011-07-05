@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="ExpressionBlockExprRef_Behavior.java" startLine="7" startPosition="0" endLine="15" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.ExpressionBlockExprRef_Behavior" />
+  <unitInfo fileName="TransparentBlock_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.TransparentBlock_BehaviorDescriptor" />
+  <unitInfo fileName="BlockExpressionYield_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpressionYield_BehaviorDescriptor" />
+  <unitInfo fileName="ExpressionBlock_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.ExpressionBlock_BehaviorDescriptor" />
   <unitInfo fileName="PlaceholderStatement_Behavior.java" startLine="9" startPosition="0" endLine="21" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.PlaceholderStatement_Behavior" />
+  <unitInfo fileName="ExpressionBlockExprRef_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.ExpressionBlockExprRef_BehaviorDescriptor" />
+  <unitInfo fileName="PlaceholderStatement_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.PlaceholderStatement_BehaviorDescriptor" />
+  <unitInfo fileName="BlockExpression_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpression_BehaviorDescriptor" />
   <unitInfo fileName="BlockExpression_Behavior.java" startLine="15" startPosition="0" endLine="33" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BlockExpression_Behavior" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="34" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.behavior.BehaviorAspectDescriptor" />
   <root nodeId="5359815737040877618">
     <nodeInfo nodeId="5359815737040879041" fileName="PlaceholderStatement_Behavior.java" startLine="13" startPosition="98" endLine="14" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="5359815737040879083" fileName="PlaceholderStatement_Behavior.java" startLine="17" startPosition="109" endLine="18" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />

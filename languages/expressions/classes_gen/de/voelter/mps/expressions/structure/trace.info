@@ -36,5 +36,6 @@
   <unitInfo fileName="BooleanType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.BooleanType" />
   <unitInfo fileName="PrimitiveType.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.expressions.structure.PrimitiveType" />
   <unitInfo fileName="MemberAccessExpression.java" startLine="13" startPosition="0" endLine="94" endPosition="0" unitName="de.voelter.mps.expressions.structure.MemberAccessExpression" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="93" endPosition="0" unitName="de.voelter.mps.expressions.structure.StructureAspectDescriptor" />
 </debugInfo>
 

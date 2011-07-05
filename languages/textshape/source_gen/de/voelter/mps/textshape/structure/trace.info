@@ -7,6 +7,7 @@
   <unitInfo fileName="NeedsBlankLink.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.textshape.structure.NeedsBlankLink" />
   <unitInfo fileName="TextToken.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.textshape.structure.TextToken" />
   <unitInfo fileName="SingleTextToken.java" startLine="10" startPosition="0" endLine="34" endPosition="0" unitName="de.voelter.mps.textshape.structure.SingleTextToken" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="51" endPosition="0" unitName="de.voelter.mps.textshape.structure.StructureAspectDescriptor" />
   <unitInfo fileName="MultiTextToken.java" startLine="12" startPosition="0" endLine="57" endPosition="0" unitName="de.voelter.mps.textshape.structure.MultiTextToken" />
   <unitInfo fileName="Statement.java" startLine="13" startPosition="0" endLine="76" endPosition="0" unitName="de.voelter.mps.textshape.structure.Statement" />
   <unitInfo fileName="PlaceHolder.java" startLine="14" startPosition="0" endLine="77" endPosition="0" unitName="de.voelter.mps.textshape.structure.PlaceHolder" />

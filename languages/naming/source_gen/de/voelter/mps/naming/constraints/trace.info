@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="IQualifiedNamedConcept_Constraints.java" startLine="50" startPosition="27" endLine="54" endPosition="5" unitName="de.voelter.mps.naming.constraints.IQualifiedNamedConcept_Constraints$1" />
-  <unitInfo fileName="NamespaceImport_Constraints.java" startLine="62" startPosition="32" endLine="76" endPosition="5" unitName="de.voelter.mps.naming.constraints.NamespaceImport_Constraints$1" />
-  <unitInfo fileName="IQualifiedNamedConcept_Constraints.java" startLine="18" startPosition="0" endLine="68" endPosition="0" unitName="de.voelter.mps.naming.constraints.IQualifiedNamedConcept_Constraints" />
-  <unitInfo fileName="NamespaceImport_Constraints.java" startLine="20" startPosition="0" endLine="80" endPosition="0" unitName="de.voelter.mps.naming.constraints.NamespaceImport_Constraints" />
+  <unitInfo fileName="NamespaceImport_Constraints.java" startLine="29" startPosition="19" endLine="39" endPosition="9" unitName="de.voelter.mps.naming.constraints.NamespaceImport_Constraints$2" />
+  <unitInfo fileName="IQualifiedNamedConcept_Constraints.java" startLine="22" startPosition="31" endLine="33" endPosition="5" unitName="de.voelter.mps.naming.constraints.IQualifiedNamedConcept_Constraints$1" />
+  <unitInfo fileName="NamespaceImport_Constraints.java" startLine="25" startPosition="36" endLine="41" endPosition="5" unitName="de.voelter.mps.naming.constraints.NamespaceImport_Constraints$1" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="27" endPosition="0" unitName="de.voelter.mps.naming.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="IQualifiedNamedConcept_Constraints.java" startLine="14" startPosition="0" endLine="37" endPosition="0" unitName="de.voelter.mps.naming.constraints.IQualifiedNamedConcept_Constraints" />
+  <unitInfo fileName="NamespaceImport_Constraints.java" startLine="17" startPosition="0" endLine="45" endPosition="0" unitName="de.voelter.mps.naming.constraints.NamespaceImport_Constraints" />
   <root nodeId="1224145309708863590">
-    <nodeInfo nodeId="1224145309708863594" fileName="IQualifiedNamedConcept_Constraints.java" startLine="51" startPosition="134" endLine="52" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="1224145309708863593" fileName="IQualifiedNamedConcept_Constraints.java" startLine="51" startPosition="134" endLine="52" endPosition="101" />
+    <nodeInfo nodeId="1224145309708863594" fileName="IQualifiedNamedConcept_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="101" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="1224145309708863593" fileName="IQualifiedNamedConcept_Constraints.java" startLine="30" startPosition="37" endLine="31" endPosition="101" />
   </root>
   <root nodeId="1224145309708872844">
-    <nodeInfo nodeId="1224145309708872856" fileName="NamespaceImport_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="115" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="1224145309708872855" fileName="NamespaceImport_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="115" />
+    <nodeInfo nodeId="1224145309708872856" fileName="NamespaceImport_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="1224145309708872855" fileName="NamespaceImport_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="119" />
   </root>
 </debugInfo>
 

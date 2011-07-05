@@ -6,7 +6,7 @@ import jetbrains.mps.intentions.BaseIntention;
 import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 
@@ -35,7 +35,7 @@ public class addImport_Intention extends BaseIntention implements Intention {
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SNode ni = SConceptOperations.createNewNode("de.voelter.mps.naming.structure.NamespaceImport", null);
+    SNode ni = SNodeFactoryOperations.createNewNode("de.voelter.mps.naming.structure.NamespaceImport", null);
     ListSequence.fromList(SLinkOperations.getTargets(node, "imports", true)).addElement(ni);
     editorContext.select(SLinkOperations.getTarget(ni, "namespace", false), "");
   }

@@ -4,19 +4,17 @@ package de.voelter.mps.expressions.blgen;
 
 import jetbrains.mps.smodel.language.LanguageRuntime;
 import jetbrains.mps.project.structure.modules.ModuleReference;
+import jetbrains.mps.lang.typesystem.runtime.IHelginsDescriptor;
+import jetbrains.mps.ide.findusages.BaseFindUsagesDescriptor;
 import java.util.Collection;
 import jetbrains.mps.generator.runtime.TemplateModule;
 import jetbrains.mps.generator.runtime.TemplateUtil;
-import jetbrains.mps.lang.typesystem.runtime.IHelginsDescriptor;
-import jetbrains.mps.ide.findusages.BaseFindUsagesDescriptor;
 
 public class Language extends LanguageRuntime {
   public static ModuleReference MODULE_REFERENCE = ModuleReference.fromString("991c3810-6aa7-47a7-92ba-4c2d793a9348(de.voelter.mps.expressions.blgen)");
 
-  private final Collection<TemplateModule> generators;
-
   public Language() {
-    generators = TemplateUtil.<TemplateModule>asCollection(TemplateUtil.createInterpretedGenerator(this, "59ecc05c-43b6-4d10-bac1-7875f2f33914(de.voelter.mps.expressions.blgen#5359815737040889268)"));
+
   }
 
   public String getNamespace() {
@@ -34,6 +32,6 @@ public class Language extends LanguageRuntime {
   }
 
   public Collection<TemplateModule> getGenerators() {
-    return generators;
+    return TemplateUtil.<TemplateModule>asCollection(TemplateUtil.createInterpretedGenerator(this, "59ecc05c-43b6-4d10-bac1-7875f2f33914(de.voelter.mps.expressions.blgen#5359815737040889268)"));
   }
 }

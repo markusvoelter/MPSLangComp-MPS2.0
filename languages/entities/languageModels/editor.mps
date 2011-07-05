@@ -19,11 +19,11 @@
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="517595247550220425">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="types" />
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550220424" resolveInfo="IntType" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550220424" resolveInfo="EIntType" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="517595247550220429">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="types" />
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550220428" resolveInfo="StringType" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550220428" resolveInfo="EStringType" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="517595247550220434">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="types" />
@@ -31,7 +31,7 @@
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="517595247550227064">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="types" />
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550227063" resolveInfo="BooleanType" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="4um0.517595247550227063" resolveInfo="EBooleanType" />
     </node>
   </roots>
   <root id="517595247550104422">

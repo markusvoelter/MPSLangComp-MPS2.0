@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="IStatement_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="de.voelter.mps.textshape.behavior.IStatement_BehaviorDescriptor" />
   <unitInfo fileName="File_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="de.voelter.mps.textshape.behavior.File_Behavior" />
+  <unitInfo fileName="IFileContent_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="de.voelter.mps.textshape.behavior.IFileContent_BehaviorDescriptor" />
+  <unitInfo fileName="Statement_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.textshape.behavior.Statement_BehaviorDescriptor" />
+  <unitInfo fileName="MultiTextToken_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.textshape.behavior.MultiTextToken_BehaviorDescriptor" />
+  <unitInfo fileName="SingleTextToken_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="de.voelter.mps.textshape.behavior.SingleTextToken_BehaviorDescriptor" />
+  <unitInfo fileName="NeedsBlankLink_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.textshape.behavior.NeedsBlankLink_BehaviorDescriptor" />
+  <unitInfo fileName="TextToken_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.textshape.behavior.TextToken_BehaviorDescriptor" />
+  <unitInfo fileName="TextShapeConfig_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="de.voelter.mps.textshape.behavior.TextShapeConfig_BehaviorDescriptor" />
+  <unitInfo fileName="File_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="de.voelter.mps.textshape.behavior.File_BehaviorDescriptor" />
+  <unitInfo fileName="List_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="28" endPosition="0" unitName="de.voelter.mps.textshape.behavior.List_BehaviorDescriptor" />
+  <unitInfo fileName="PlaceHolder_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="29" endPosition="0" unitName="de.voelter.mps.textshape.behavior.PlaceHolder_BehaviorDescriptor" />
+  <unitInfo fileName="IndentedBlock_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="29" endPosition="0" unitName="de.voelter.mps.textshape.behavior.IndentedBlock_BehaviorDescriptor" />
+  <unitInfo fileName="PascalDeclaration_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="29" endPosition="0" unitName="de.voelter.mps.textshape.behavior.PascalDeclaration_BehaviorDescriptor" />
+  <unitInfo fileName="Line_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="29" endPosition="0" unitName="de.voelter.mps.textshape.behavior.Line_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="44" endPosition="0" unitName="de.voelter.mps.textshape.behavior.BehaviorAspectDescriptor" />
   <unitInfo fileName="IFileContent_Behavior.java" startLine="13" startPosition="0" endLine="60" endPosition="0" unitName="de.voelter.mps.textshape.behavior.IFileContent_Behavior" />
   <root nodeId="369287372546174877">
     <nodeInfo nodeId="369287372546174889" fileName="IFileContent_Behavior.java" startLine="21" startPosition="71" endLine="22" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

@@ -10,7 +10,7 @@ import jetbrains.mps.nodeEditor.cells.EditorCell;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Error;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.smodel.ModelAccess;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
@@ -64,8 +64,8 @@ public class makeField_Intention extends BaseIntention implements Intention {
       ModelAccess.instance().runWriteAction(new Runnable() {
         public void run() {
           String t = ((EditorCell_Error) c).getText();
-          SNode a = SConceptOperations.createNewNode("simplecalc.structure.VarDecl", null);
-          SLinkOperations.setTarget(a, "type", SConceptOperations.createNewNode("de.voelter.mps.expressions.structure.IntType", null), true);
+          SNode a = SNodeFactoryOperations.createNewNode("simplecalc.structure.VarDecl", null);
+          SLinkOperations.setTarget(a, "type", SNodeFactoryOperations.createNewNode("de.voelter.mps.expressions.structure.IntType", null), true);
           SPropertyOperations.set(a, "name", t);
           ListSequence.fromList(SLinkOperations.getTargets(SNodeOperations.getAncestor(node, "de.voelter.mps.naming.structure.Namespace", true, false), "contents", true)).addElement(a);
         }
@@ -75,8 +75,8 @@ public class makeField_Intention extends BaseIntention implements Intention {
       ModelAccess.instance().runWriteAction(new Runnable() {
         public void run() {
           String t = ((EditorCell_Constant) c).getText();
-          SNode a = SConceptOperations.createNewNode("simplecalc.structure.VarDecl", null);
-          SLinkOperations.setTarget(a, "type", SConceptOperations.createNewNode("de.voelter.mps.expressions.structure.IntType", null), true);
+          SNode a = SNodeFactoryOperations.createNewNode("simplecalc.structure.VarDecl", null);
+          SLinkOperations.setTarget(a, "type", SNodeFactoryOperations.createNewNode("de.voelter.mps.expressions.structure.IntType", null), true);
           SPropertyOperations.set(a, "name", t);
           ListSequence.fromList(SLinkOperations.getTargets(SNodeOperations.getAncestor(node, "de.voelter.mps.naming.structure.Namespace", true, false), "contents", true)).addElement(a);
         }

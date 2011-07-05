@@ -1,30 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="de.voelter.mps.expressions.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BooleanType_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.DivExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.DoubleType_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.EqualsExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.FalseLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.GreateEqualsExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.GreaterExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IfExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IntType_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IntegerLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.LessEqualsExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.LessExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.MemberAccessExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.MinusExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.MultiExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.ParensExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PlusExpression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.StringLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.StringType_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.TrueLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_Behavior" file="BinaryArithmeticExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" file="BinaryArithmeticExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_Behavior" file="BinaryComparisonExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" file="BinaryComparisonExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.BinaryExpression_Behavior" file="BinaryExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.BinaryExpression_BehaviorDescriptor" file="BinaryExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.BooleanLiteral_Behavior" file="BooleanLiteral_Behavior.java">
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptPropertyOperations" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.BooleanLiteral_BehaviorDescriptor" file="BooleanLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BooleanLiteral_Behavior" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Literal_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.BooleanType_BehaviorDescriptor" file="BooleanType_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IComparable_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.DivExpression_BehaviorDescriptor" file="DivExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.DoubleType_BehaviorDescriptor" file="DoubleType_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IComparable_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.INumber_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IOrdered_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.EqualsExpression_BehaviorDescriptor" file="EqualsExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.Expression_Behavior" file="Expression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptPropertyOperations" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" file="Expression_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.FalseLiteral_BehaviorDescriptor" file="FalseLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BooleanLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.GreateEqualsExpression_Behavior" file="GreateEqualsExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.GreateEqualsExpression_BehaviorDescriptor" file="GreateEqualsExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.GreaterExpression_Behavior" file="GreaterExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.GreaterExpression_BehaviorDescriptor" file="GreaterExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IComparable_BehaviorDescriptor" file="IComparable_BehaviorDescriptor.java" />
+  <dependency className="de.voelter.mps.expressions.behavior.IDotExpression_BehaviorDescriptor" file="IDotExpression_BehaviorDescriptor.java" />
   <dependency className="de.voelter.mps.expressions.behavior.IMemberContainer_Behavior" file="IMemberContainer_Behavior.java">
     <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
@@ -35,6 +145,12 @@
     <classNode dependClassName="jetbrains.mps.smodel.structure.BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.smodel.structure.ConceptRegistry" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IMemberContainer_BehaviorDescriptor" file="IMemberContainer_BehaviorDescriptor.java">
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IMemberReference_BehaviorDescriptor" file="IMemberReference_BehaviorDescriptor.java" />
+  <dependency className="de.voelter.mps.expressions.behavior.INumber_BehaviorDescriptor" file="INumber_BehaviorDescriptor.java" />
+  <dependency className="de.voelter.mps.expressions.behavior.IOrdered_BehaviorDescriptor" file="IOrdered_BehaviorDescriptor.java" />
   <dependency className="de.voelter.mps.expressions.behavior.ISimpleText_Behavior" file="ISimpleText_Behavior.java">
     <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
@@ -45,29 +161,145 @@
     <classNode dependClassName="jetbrains.mps.smodel.structure.BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.smodel.structure.ConceptRegistry" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.ISimpleText_BehaviorDescriptor" file="ISimpleText_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IfExpression_BehaviorDescriptor" file="IfExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IntType_BehaviorDescriptor" file="IntType_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IComparable_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.INumber_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IOrdered_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.IntegerLiteral_Behavior" file="IntegerLiteral_Behavior.java">
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.IntegerLiteral_BehaviorDescriptor" file="IntegerLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IntegerLiteral_Behavior" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Literal_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.LessEqualsExpression_Behavior" file="LessEqualsExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.LessEqualsExpression_BehaviorDescriptor" file="LessEqualsExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.LessExpression_Behavior" file="LessExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.LessExpression_BehaviorDescriptor" file="LessExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryComparisonExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.Literal_BehaviorDescriptor" file="Literal_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.ISimpleText_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.MemberAccessExpression_BehaviorDescriptor" file="MemberAccessExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.IDotExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.MinusExpression_BehaviorDescriptor" file="MinusExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.MultiExpression_BehaviorDescriptor" file="MultiExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.ParensExpression_BehaviorDescriptor" file="ParensExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Expression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.PlusExpression_Behavior" file="PlusExpression_Behavior.java">
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.PlusExpression_BehaviorDescriptor" file="PlusExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BinaryArithmeticExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.PrimitiveType_Behavior" file="PrimitiveType_Behavior.java">
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptPropertyOperations" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
   </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" file="PrimitiveType_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.ISimpleText_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PrimitiveType_Behavior" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Type_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
   <dependency className="de.voelter.mps.expressions.behavior.StringLiteral_Behavior" file="StringLiteral_Behavior.java">
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.StringLiteral_BehaviorDescriptor" file="StringLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.Literal_BehaviorDescriptor" />
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.StringLiteral_Behavior" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.StringType_BehaviorDescriptor" file="StringType_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.PrimitiveType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.TrueLiteral_BehaviorDescriptor" file="TrueLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="de.voelter.mps.expressions.behavior.BooleanLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="de.voelter.mps.expressions.behavior.Type_BehaviorDescriptor" file="Type_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
 </dependenciesRoot>
 

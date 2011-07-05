@@ -7,7 +7,7 @@ import jetbrains.mps.intentions.Intention;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
+import jetbrains.mps.smodel.action.SNodeFactoryOperations;
 import jetbrains.mps.smodel.AttributesRolesUtil;
 
 public class addUniqueNamesConstraint_Intention extends BaseIntention implements Intention {
@@ -46,7 +46,7 @@ public class addUniqueNamesConstraint_Intention extends BaseIntention implements
   }
 
   public void execute(final SNode node, final EditorContext editorContext) {
-    SLinkOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("uniqueNamesConstraintAnnotation"), "de.voelter.mps.naming.structure.UniqueNamesConstraint");
+    SNodeFactoryOperations.setNewChild(node, AttributesRolesUtil.childRoleFromAttributeRole("uniqueNamesConstraintAnnotation"), "de.voelter.mps.naming.structure.UniqueNamesConstraint");
   }
 
   public String getLocationString() {

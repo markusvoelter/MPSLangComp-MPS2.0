@@ -63,17 +63,17 @@ public class INamespace_Behavior {
   }
 
   public static List<SNode> call_siblings_7517722170421689483(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (List<SNode>) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.INamespace"), "virtual_siblings_7517722170421689483", PARAMETERS_7517722170421689483);
   }
 
   public static List<SNode> call_allVisibleNode_7517722170421689521(SNode thisNode, SNode ofType) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (List<SNode>) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.INamespace"), "virtual_allVisibleNode_7517722170421689521", PARAMETERS_7517722170421689521, ofType);
   }
 
   public static void call_collectVisibleElements_7517722170421689560(SNode thisNode, SNode ofType, List<SNode> res, boolean publicOnly) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.INamespace"), "virtual_collectVisibleElements_7517722170421689560", PARAMETERS_7517722170421689560, ofType, res, publicOnly);
   }
 

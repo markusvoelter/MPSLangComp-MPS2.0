@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-14udjzq0jsc70ff8d9c6922v0rstymt">
+<dependencies version="2" modelHash="2xxriq5ixhwudkc4tcr1j5as2vyyr21">
   <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.nodeEditor.cellLayout(MPS.Classpath/jetbrains.mps.nodeEditor.cellLayout@java_stub)" />
   <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.nodeEditor.cellProviders(MPS.Classpath/jetbrains.mps.nodeEditor.cellProviders@java_stub)" />
   <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.nodeEditor.cells(MPS.Classpath/jetbrains.mps.nodeEditor.cells@java_stub)" />
@@ -17,7 +17,7 @@
   <dep model="r:1bed08b9-a9ff-4314-b537-3c5e99326971(rbac.structure)" hash="a6x5oi9qbgv112znv1y44e81jjasvfb" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="7puryq1hw0wlsnaohi0bty585nzqj1l">
+  <common hash="c0b2uuzniwqbo5cleio52ibwcg8diwe">
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   </common>
   <source id="517595247550292902" name="Role_Editor" hash="-1nao3z63rb4qrqno4ov7mv1xh9j7xig">

@@ -31,17 +31,17 @@ public class IFileContent_Behavior {
   }
 
   public static SNode call_file_369287372546174884(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (SNode) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.textshape.structure.IFileContent"), "virtual_file_369287372546174884", PARAMETERS_369287372546174884);
   }
 
   public static SNode call_config_5815279313395467763(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (SNode) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.textshape.structure.IFileContent"), "virtual_config_5815279313395467763", PARAMETERS_5815279313395467763);
   }
 
   public static boolean call_needsBlankLine_5815279313395613799(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (Boolean) descriptor.invoke(Boolean.class, SNodeOperations.cast(thisNode, "de.voelter.mps.textshape.structure.IFileContent"), "virtual_needsBlankLine_5815279313395613799", PARAMETERS_5815279313395613799);
   }
 

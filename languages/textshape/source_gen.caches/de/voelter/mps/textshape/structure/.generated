@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-94t26zvd07n6g88t2kuupqe5j4xskp0">
+<dependencies version="2" modelHash="b3l0kbni2u8kzafglhbnbg43bed2ewj">
   <dep model="f:java_stub#37a3367b-1fb2-44d8-aa6b-18075e74e003#jetbrains.mps.smodel(MPS.Classpath/jetbrains.mps.smodel@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -7,24 +7,42 @@
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="-ajv7m0mc5yvbbu8gfm0p24261g6yhph">
+  <common hash="dfqh3zmut2juxc7idyyjoc401hoccxo" dependsOnNodes="true">
+    <dep root="369287372546169729" />
+    <dep root="369287372546186853" />
+    <dep root="369287372546186858" />
+    <dep root="369287372546186862" />
+    <dep root="369287372546230887" />
+    <dep root="5815279313395438316" />
+    <dep root="5815279313395453910" />
+    <dep root="5815279313395460422" />
+    <dep root="5815279313395488948" />
+    <dep root="5815279313395590516" />
+    <dep root="5839100313780008331" />
+    <dep root="5839100313780015081" />
+    <dep root="5839100313780015082" />
+    <dep root="5839100313780172618" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="StructureAspectDescriptor.java" />
     <file name="Textshape_Language.java" />
   </common>
-  <source id="5839100313780008331" name="Line" hash="cd1yxghx3s3kp5mb9qh3bor0ch4t9or">
+  <source id="5839100313780008331" name="Line" hash="-dzeyowalmeo99gpqbekngqvua7546u8">
     <dep root="369287372546186858" />
     <dep root="5839100313780015081" />
     <dep root="5839100313780172618" />
@@ -43,13 +61,13 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="Line.java" />
   </source>
-  <source id="5839100313780015081" name="IFileContent" hash="-c356y9h46hozw112swaypqbs3j1vr">
+  <source id="5839100313780015081" name="IFileContent" hash="97nae06ls2rz03ddri5sp3upiqtqe7d">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <file name="IFileContent.java" />
   </source>
-  <source id="5839100313780015082" name="File" hash="-bn8xdic575vqzrw8gw8fdcw3womj8wb">
+  <source id="5839100313780015082" name="File" hash="-c2gfrzeh9tfcnj2pvtj9d8x6mnhw5zm">
     <dep root="5815279313395460422" />
     <dep root="5839100313780015081" />
     <dep root="5839100313780172618" />
@@ -68,7 +86,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="File.java" />
   </source>
-  <source id="5839100313780172618" name="PascalDeclaration" hash="2ymbh86scailfamcwmwu9bnvdh1e1h4">
+  <source id="5839100313780172618" name="PascalDeclaration" hash="-9p62uxl5kysbpz6nkm0c7xn14iw7v20">
     <dep root="369287372546169729" />
     <dep root="369287372546186853" />
     <dep root="369287372546186858" />
@@ -88,13 +106,13 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="PascalDeclaration.java" />
   </source>
-  <source id="369287372546169729" name="IStatement" hash="-6xzinwqos45hlbbm7xjcjhlxghmn38k">
+  <source id="369287372546169729" name="IStatement" hash="-df3k7e0x1cyv7n0pkzlsyvgge0wm1f0">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <file name="IStatement.java" />
   </source>
-  <source id="369287372546186853" name="SingleTextToken" hash="-crjc01k83357wnrvbjm7ltor75n56g5">
+  <source id="369287372546186853" name="SingleTextToken" hash="-1pgzf6ctkzi4if5arn9gtmcmu2ci4ax">
     <dep root="369287372546186862" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
@@ -107,7 +125,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="SingleTextToken.java" />
   </source>
-  <source id="369287372546186858" name="MultiTextToken" hash="-5ls23f43zj8fqg2gm5gyqllrgof85qm">
+  <source id="369287372546186858" name="MultiTextToken" hash="-8hsmq964mhe1x6zgwocf9jjnqkxl2xv">
     <dep root="369287372546186862" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
@@ -122,7 +140,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="MultiTextToken.java" />
   </source>
-  <source id="369287372546186862" name="TextToken" hash="23uv3ihvx867zsf9mogl2vi84b77x79">
+  <source id="369287372546186862" name="TextToken" hash="erv3zwiz8ra8oib8k4o8c55dyuc2337">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -134,7 +152,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TextToken.java" />
   </source>
-  <source id="369287372546230887" name="List" hash="-664li6wx050kuk7wfk5pdl4krcyb3yp">
+  <source id="369287372546230887" name="List" hash="-4vey2x54y4nu5jsshmrsz1jpsrzopg4">
     <dep root="369287372546186862" />
     <dep root="5839100313780015081" />
     <dep root="5839100313780172618" />
@@ -151,7 +169,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="List.java" />
   </source>
-  <source id="5815279313395438316" name="IndentedBlock" hash="-898ekm4iywvnzovs1bewskp4jg0trn2">
+  <source id="5815279313395438316" name="IndentedBlock" hash="b4o78em8cvcj4vtb3bepe1w8ph7m6wt">
     <dep root="369287372546186858" />
     <dep root="5839100313780015081" />
     <dep root="5839100313780172618" />
@@ -170,7 +188,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="IndentedBlock.java" />
   </source>
-  <source id="5815279313395453910" name="PlaceHolder" hash="-drpo46hg917s5xb8dtj8r9z2sqivlta">
+  <source id="5815279313395453910" name="PlaceHolder" hash="-36rcpvfcur13txyifyyddpsow7bnkci">
     <dep root="5839100313780015081" />
     <dep root="5839100313780172618" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -186,7 +204,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="PlaceHolder.java" />
   </source>
-  <source id="5815279313395460422" name="TextShapeConfig" hash="92x009kn5jxyjxm8gucuyw8aq45ykmw">
+  <source id="5815279313395460422" name="TextShapeConfig" hash="7o2f3j8ax4a04nx0tvjfv6td0eqkds9">
     <dep root="5839100313780015082" />
     <dep root="5839100313780172618" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
@@ -202,7 +220,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="TextShapeConfig.java" />
   </source>
-  <source id="5815279313395488948" name="Statement" hash="-28iu6x45vwt83od6o98sbrddy8udpn5">
+  <source id="5815279313395488948" name="Statement" hash="-8dspznaq7rn89rbwre1kvomcbnbhxe1">
     <dep root="369287372546169729" />
     <dep root="5839100313780008331" />
     <dep root="5839100313780015081" />
@@ -220,7 +238,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="Statement.java" />
   </source>
-  <source id="5815279313395590516" name="NeedsBlankLink" hash="-b0lbt5osf2mqpuvc1fkkwjqz32mpyu6">
+  <source id="5815279313395590516" name="NeedsBlankLink" hash="aoogzvcmjlsj29f0qiickcqsvd9i3tw">
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -232,7 +250,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="NeedsBlankLink.java" />
   </source>
-  <source id="5815279313395590526" name="blankLineBeforeAnn" hash="-854fu55uezf52svwpnaxkj6r18n4wi0">
+  <source id="5815279313395590526" name="blankLineBeforeAnn" hash="-dn3een6qbcffxjf07nmrum6637zxrc5">
     <dep root="5815279313395590516" />
     <dep root="5839100313780015081" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />

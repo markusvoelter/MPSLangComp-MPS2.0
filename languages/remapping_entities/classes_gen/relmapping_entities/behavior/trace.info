@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="AttributeColMapping_Behavior.java" startLine="11" startPosition="0" endLine="23" endPosition="0" unitName="relmapping_entities.behavior.AttributeColMapping_Behavior" />
+  <unitInfo fileName="AttributeColMapping_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="21" endPosition="0" unitName="relmapping_entities.behavior.AttributeColMapping_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="24" endPosition="0" unitName="relmapping_entities.behavior.BehaviorAspectDescriptor" />
   <root nodeId="726639030028562157">
     <nodeInfo nodeId="726639030028566390" fileName="AttributeColMapping_Behavior.java" startLine="15" startPosition="81" endLine="16" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
     <nodeInfo nodeId="726639030028566402" fileName="AttributeColMapping_Behavior.java" startLine="17" startPosition="80" endLine="18" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

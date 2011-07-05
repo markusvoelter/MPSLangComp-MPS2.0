@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="ExpressionBlockExprRef_Constraints.java" startLine="45" startPosition="15" endLine="55" endPosition="5" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ExpressionBlockExprRef_Constraints$1" />
-  <unitInfo fileName="ExpressionBlock_Constraints.java" startLine="15" startPosition="0" endLine="60" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ExpressionBlock_Constraints" />
-  <unitInfo fileName="ExpressionBlockExprRef_Constraints.java" startLine="22" startPosition="0" endLine="87" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ExpressionBlockExprRef_Constraints" />
+  <unitInfo fileName="ExpressionBlock_Constraints.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ExpressionBlock_Constraints" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="27" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="ExpressionBlockExprRef_Constraints.java" startLine="14" startPosition="0" endLine="41" endPosition="0" unitName="jetbrains.mps.baselanguage.exprblocks.constraints.ExpressionBlockExprRef_Constraints" />
   <root nodeId="7827023534244244426">
-    <nodeInfo nodeId="7827023534244244430" fileName="ExpressionBlockExprRef_Constraints.java" startLine="83" startPosition="114" endLine="84" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="7827023534244244429" fileName="ExpressionBlockExprRef_Constraints.java" startLine="83" startPosition="114" endLine="84" endPosition="155" />
+    <nodeInfo nodeId="7827023534244244430" fileName="ExpressionBlockExprRef_Constraints.java" startLine="37" startPosition="121" endLine="38" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="7827023534244244429" fileName="ExpressionBlockExprRef_Constraints.java" startLine="37" startPosition="121" endLine="38" endPosition="155" />
   </root>
 </debugInfo>
 

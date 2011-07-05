@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="Playground_Language.java" startLine="9" startPosition="0" endLine="16" endPosition="0" unitName="de.voelter.mps.expressions.playground.structure.Playground_Language" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="29" endPosition="0" unitName="de.voelter.mps.expressions.playground.structure.StructureAspectDescriptor" />
   <unitInfo fileName="VarRef.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.expressions.playground.structure.VarRef" />
   <unitInfo fileName="Playground.java" startLine="13" startPosition="0" endLine="49" endPosition="0" unitName="de.voelter.mps.expressions.playground.structure.Playground" />
   <unitInfo fileName="Variable.java" startLine="17" startPosition="0" endLine="107" endPosition="0" unitName="de.voelter.mps.expressions.playground.structure.Variable" />

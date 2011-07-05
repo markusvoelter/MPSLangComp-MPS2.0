@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-8kuol3j7dyod29m1alapoqmbl8muhec">
+<dependencies version="2" modelHash="-ehqd6qoinsnprwnj48cf355a3rzzduv">
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="74lf99bywgs8bni073ehy9v37n6iwly" />
-  <source id="4808699962363371932" name="RbacContext" hash="-81vcctilili6eecu7ld2wnnk7kmtf09">
+  <common hash="-680kvill5saajllkkmgwvxu3l0bkqcx" />
+  <source id="4808699962363371932" name="RbacContext" hash="5gcit1s6p8tt2lxoe88hqtrvcmwb828">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />

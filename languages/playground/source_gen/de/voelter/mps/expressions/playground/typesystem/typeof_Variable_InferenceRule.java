@@ -21,6 +21,11 @@ public class typeof_Variable_InferenceRule extends AbstractInferenceRule_Runtime
       EquationInfo _info_12389875345 = new EquationInfo(_nodeToCheck_1029348928467, null, "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "8864856114140226299", 0, null);
       typeCheckingContext.createEquation((SNode) typeCheckingContext.typeOf(_nodeToCheck_1029348928467, "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "8864856114140226296", true), (SNode) typeCheckingContext.typeOf(SLinkOperations.getTarget(var, "type", true), "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "8864856114140226304", true), _info_12389875345);
     }
+    {
+      SNode _nodeToCheck_1029348928467 = var;
+      EquationInfo _info_12389875345 = new EquationInfo(_nodeToCheck_1029348928467, null, "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "91677954315448381", 0, null);
+      typeCheckingContext.createGreaterThanInequality((SNode) typeCheckingContext.typeOf(_nodeToCheck_1029348928467, "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "91677954315448383", true), (SNode) typeCheckingContext.typeOf(SLinkOperations.getTarget(var, "expr", true), "r:3755093d-8484-4ce2-b74c-94ced383dc91(de.voelter.mps.expressions.playground.typesystem)", "91677954315448386", true), false, true, _info_12389875345);
+    }
   }
 
   public String getApplicableConceptFQName() {

@@ -7,6 +7,7 @@
   <unitInfo fileName="UniqueNamesConstraint.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="de.voelter.mps.naming.structure.UniqueNamesConstraint" />
   <unitInfo fileName="INamespace.java" startLine="8" startPosition="0" endLine="24" endPosition="0" unitName="de.voelter.mps.naming.structure.INamespace" />
   <unitInfo fileName="NamespaceImport.java" startLine="11" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.naming.structure.NamespaceImport" />
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="35" endPosition="0" unitName="de.voelter.mps.naming.structure.StructureAspectDescriptor" />
   <unitInfo fileName="Namespace.java" startLine="14" startPosition="0" endLine="128" endPosition="0" unitName="de.voelter.mps.naming.structure.Namespace" />
 </debugInfo>
 

@@ -65,7 +65,7 @@
             </node>
             <node role="operation" roleId="tpee.1197027833540" type="tp25.Node_IsInstanceOfOperation" typeId="tp25.1139621453865" id="726639030028566408">
               <node role="conceptArgument" roleId="tp25.1177027386292" type="tp25.RefConcept_Reference" typeId="tp25.1177026924588" id="726639030028566409">
-                <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550220424" resolveInfo="IntType" />
+                <link role="conceptDeclaration" roleId="tp25.1177026940964" targetNodeId="4um0.517595247550220424" resolveInfo="EIntType" />
               </node>
             </node>
           </node>

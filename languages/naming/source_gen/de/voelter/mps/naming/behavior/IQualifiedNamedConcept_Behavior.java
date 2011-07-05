@@ -24,7 +24,7 @@ public class IQualifiedNamedConcept_Behavior {
   }
 
   public static String call_qualifiedName_5019556274771758840(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (String) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.IQualifiedNamedConcept"), "virtual_qualifiedName_5019556274771758840", PARAMETERS_5019556274771758840);
   }
 

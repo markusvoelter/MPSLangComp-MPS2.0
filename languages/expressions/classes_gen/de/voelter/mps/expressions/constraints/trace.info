@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="BinaryExpression_Constraints.java" startLine="15" startPosition="0" endLine="60" endPosition="0" unitName="de.voelter.mps.expressions.constraints.BinaryExpression_Constraints" />
+  <unitInfo fileName="BinaryExpression_Constraints.java" startLine="10" startPosition="0" endLine="21" endPosition="0" unitName="de.voelter.mps.expressions.constraints.BinaryExpression_Constraints" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="de.voelter.mps.expressions.constraints.ConstraintsAspectDescriptor" />
 </debugInfo>
 

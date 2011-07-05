@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="AttributeColMapping_Constraints.java" startLine="62" startPosition="32" endLine="76" endPosition="5" unitName="relmapping_entities.constraints.AttributeColMapping_Constraints$1" />
-  <unitInfo fileName="AttributeColMapping_Constraints.java" startLine="20" startPosition="0" endLine="80" endPosition="0" unitName="relmapping_entities.constraints.AttributeColMapping_Constraints" />
+  <unitInfo fileName="AttributeColMapping_Constraints.java" startLine="29" startPosition="19" endLine="39" endPosition="9" unitName="relmapping_entities.constraints.AttributeColMapping_Constraints$2" />
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="relmapping_entities.constraints.ConstraintsAspectDescriptor" />
+  <unitInfo fileName="AttributeColMapping_Constraints.java" startLine="25" startPosition="36" endLine="41" endPosition="5" unitName="relmapping_entities.constraints.AttributeColMapping_Constraints$1" />
+  <unitInfo fileName="AttributeColMapping_Constraints.java" startLine="17" startPosition="0" endLine="45" endPosition="0" unitName="relmapping_entities.constraints.AttributeColMapping_Constraints" />
   <root nodeId="726639030028560918">
-    <nodeInfo nodeId="726639030028560922" fileName="AttributeColMapping_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <scopeInfo nodeId="726639030028560921" fileName="AttributeColMapping_Constraints.java" startLine="67" startPosition="133" endLine="68" endPosition="93" />
+    <nodeInfo nodeId="726639030028560922" fileName="AttributeColMapping_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="97" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="726639030028560921" fileName="AttributeColMapping_Constraints.java" startLine="36" startPosition="128" endLine="37" endPosition="97" />
   </root>
 </debugInfo>
 

@@ -12,6 +12,8 @@ import java.util.Set;
 import java.util.HashSet;
 import jetbrains.mps.smodel.SModelUtil_new;
 import jetbrains.mps.project.GlobalScope;
+import jetbrains.mps.typesystem.inference.SubtypingManager;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 
 public class TypesystemDescriptor extends BaseHelginsDescriptor {
   public TypesystemDescriptor() {
@@ -294,6 +296,10 @@ public class TypesystemDescriptor extends BaseHelginsDescriptor {
 
     public SNode getOperationType(SNode operation, SNode leftOperandType, SNode rightOperandType) {
       return new TypesystemDescriptor.CustomOverloadedOperationsTypesProvider_a_0.QuotationClass_3ist9o_a0a0a3().createNode();
+    }
+
+    public boolean isApplicable(SubtypingManager subtypingManager, SNode operation, SNode leftOperandType, SNode rightOperandType) {
+      return !(SNodeOperations.isInstanceOf(leftOperandType, "de.voelter.mps.expressions.structure.IntType") && SNodeOperations.isInstanceOf(rightOperandType, "de.voelter.mps.expressions.structure.IntType"));
     }
 
     public static class QuotationClass_3ist9o_a0a0a3 {

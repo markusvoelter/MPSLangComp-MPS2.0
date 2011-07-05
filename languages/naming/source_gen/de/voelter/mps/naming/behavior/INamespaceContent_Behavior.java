@@ -24,12 +24,12 @@ public class INamespaceContent_Behavior {
   }
 
   public static SNode call_owningNamespace_5019556274771919323(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (SNode) descriptor.invoke(Object.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.INamespaceContent"), "virtual_owningNamespace_5019556274771919323", PARAMETERS_5019556274771919323);
   }
 
   public static boolean call_isExternallyVisible_5856418980158996214(SNode thisNode) {
-    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getConceptDescriptorForInstanceNode(thisNode).behavior();
+    BehaviorDescriptor descriptor = ConceptRegistry.getInstance().getBehaviorDescriptorForInstanceNode(thisNode);
     return (Boolean) descriptor.invoke(Boolean.class, SNodeOperations.cast(thisNode, "de.voelter.mps.naming.structure.INamespaceContent"), "virtual_isExternallyVisible_5856418980158996214", PARAMETERS_5856418980158996214);
   }
 
